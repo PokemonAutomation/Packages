@@ -1,5 +1,0 @@
-rock-4-1
-cave-entrance
-rock-4-2
-rock-4-3
-cave-archway-1

@@ -1,6 +1,0 @@
-rock-2-1
-tree-2-1
-rock-2-2
-tree-2-2
-dirt-ramp
-station-2

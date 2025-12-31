@@ -1,9 +1,0 @@
-crystal-4-1
-cave-archway-2
-crystal-4-2
-crystal-4-3
-crystal-4-4
-crystal-4-5
-station-crystal-4
-station-4
-station-door-4

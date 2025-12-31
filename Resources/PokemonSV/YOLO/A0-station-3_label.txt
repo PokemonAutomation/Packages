@@ -1,6 +1,0 @@
-rock-3-0
-rock-3-1
-tree-3-1
-beyond-cliff-3
-station-3
-waterfall-3-1
