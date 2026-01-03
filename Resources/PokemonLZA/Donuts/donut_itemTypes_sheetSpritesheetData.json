@@ -1,0 +1,30 @@
+{
+  "spriteHeight": 26,
+  "spriteWidth": 24,
+  "spriteLocations": {
+    "balls": {
+      "top": 0,
+      "left": 0
+    },
+    "berries": {
+      "top": 0,
+      "left": 120
+    }
+    "candy": {
+      "top": 0,
+      "left": 72
+    },
+    "coins": {
+      "top": 0,
+      "left": 24
+    }
+    "special": {
+      "top": 0,
+      "left": 48
+    },
+    "treasure": {
+      "top": 0,
+      "left": 96
+    }
+  }
+}
