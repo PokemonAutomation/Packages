@@ -1,0 +1,78 @@
+{
+  "spriteHeight": 26,
+  "spriteWidth": 24,
+  "spriteLocations": {
+    "normal": {
+      "top": 0,
+      "left": 96
+    },
+    "fighting": {
+      "top": 0,
+      "left": 120
+    },
+    "flying": {
+      "top": 0,
+      "left": 0
+    },
+    "poison": {
+      "top": 52,
+      "left": 0
+    },
+    "ground": {
+      "top": 26,
+      "left": 48
+    },
+    "rock": {
+      "top": 52,
+      "left": 72
+    },
+    "bug": {
+      "top": 26,
+      "left": 0
+    },
+    "ghost": {
+      "top": 52,
+      "left": 96
+    },
+    "steel": {
+      "top": 52,
+      "left": 24
+    },
+    "fire": {
+      "top": 0,
+      "left": 24
+    },
+    "water": {
+      "top": 26,
+      "left": 72
+    },
+    "grass": {
+      "top": 26,
+      "left": 120
+    },
+    "electric": {
+      "top": 0,
+      "left": 48
+    },
+    "psychic": {
+      "top": 26,
+      "left": 24
+    },
+    "ice": {
+      "top": 26,
+      "left": 96
+    },
+    "dragon": {
+      "top": 52,
+      "left": 120
+    },
+    "dark": {
+      "top": 0,
+      "left": 72
+    },
+    "fairy": {
+      "top": 52,
+      "left": 48
+    }
+  }
+}
