@@ -9,7 +9,7 @@
     "berries": {
       "top": 0,
       "left": 120
-    }
+    },
     "candy": {
       "top": 0,
       "left": 72
@@ -17,7 +17,7 @@
     "coins": {
       "top": 0,
       "left": 24
-    }
+    },
     "special": {
       "top": 0,
       "left": 48
