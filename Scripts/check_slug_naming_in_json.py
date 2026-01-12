@@ -82,7 +82,8 @@ def check_json_file(file_path):
     issues = []
 
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
+        # Use utf-8-sig to automatically handle UTF-8 BOM if present
+        with open(file_path, 'r', encoding='utf-8-sig') as f:
             content = f.read()
             data = json.loads(content)
 
