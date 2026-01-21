@@ -1,0 +1,27 @@
+{
+  "model_name": "en_PP-OCRv5_mobile_rec",
+  "model_type": "recognition",
+  "framework": "PaddleOCR",
+  "version": "PP-OCRv5",
+  "language_group": "english",
+  "supported_languages": [
+    "English"
+  ],
+  "description": "PP-OCRv5 English-optimized text recognition model",
+  "accuracy": 85.25,
+  "dataset": "6,530 English text images",
+  "original_format": "PaddlePaddle",
+  "converted_format": "ONNX",
+  "opset_version": 11,
+  "dictionary_file": "ppocrv5_en_dict.txt",
+  "input_shape": "dynamic (batch_size, 3, 32, dynamic_width)",
+  "output_shape": "dynamic (batch_size, sequence_length, num_classes)",
+  "source": "https://github.com/PaddlePaddle/PaddleOCR",
+  "documentation": "https://www.paddleocr.ai/main/en/version3.x/algorithm/PP-OCRv5/PP-OCRv5_multi_languages.html",
+  "usage": {
+    "library": "onnxruntime",
+    "preprocessing": "Grayscale or RGB image, resized to height=32, normalized",
+    "postprocessing": "CTC decoding with character dictionary",
+    "dictionary_format": "One character per line, UTF-8 encoding"
+  }
+}
