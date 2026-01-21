@@ -83,6 +83,116 @@ def is_within_bounds(pixel, lower_bound, upper_bound, use_hsv=False):
                 lb <= b <= ub)
 
 
+def find_connected_components(pixels, width: int, height: int) -> list[set[tuple[int, int]]]:
+    """
+    Find all connected components of foreground pixels (pixels with alpha > 0).
+
+    Uses 4-connectivity (up, down, left, right neighbors).
+
+    Returns:
+        List of sets, where each set contains (x, y) coordinates of pixels in that component.
+    """
+    visited = set()
+    components = []
+
+    for start_y in range(height):
+        for start_x in range(width):
+            # Skip if already visited or is background (alpha == 0)
+            if (start_x, start_y) in visited:
+                continue
+            if pixels[start_x, start_y][3] == 0:
+                visited.add((start_x, start_y))
+                continue
+
+            # Found a new foreground pixel, flood fill to find the component
+            component = set()
+            stack = [(start_x, start_y)]
+            visited.add((start_x, start_y))
+
+            while stack:
+                cx, cy = stack.pop()
+                component.add((cx, cy))
+
+                for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                    nx, ny = cx + dx, cy + dy
+                    if 0 <= nx < width and 0 <= ny < height:
+                        if (nx, ny) not in visited and pixels[nx, ny][3] > 0:
+                            visited.add((nx, ny))
+                            stack.append((nx, ny))
+
+            components.append(component)
+
+    return components
+
+
+def keep_biggest_component(pixels, width: int, height: int) -> int:
+    """
+    Find connected components of foreground pixels and keep:
+    1. The biggest connected component
+    2. Any smaller components that are completely surrounded by the biggest component
+
+    A smaller component is considered "surrounded" if it cannot reach the image boundary
+    without passing through pixels of the biggest component. This preserves holes or
+    enclosed regions within the main foreground object.
+
+    Returns:
+        Number of pixels removed (set to background).
+    """
+    components = find_connected_components(pixels, width, height)
+
+    if len(components) <= 1:
+        # No components or only one component, nothing to remove
+        return 0
+
+    # Find the biggest component
+    biggest = max(components, key=len)
+
+    # Create a set of all pixels NOT in the biggest component (both background and smaller components)
+    biggest_set = set(biggest)
+
+    # Flood fill from the image boundary through non-biggest pixels to find
+    # all positions reachable from outside without crossing the biggest component
+    reachable_from_boundary = set()
+    stack = []
+
+    # Add boundary pixels that are not part of the biggest component
+    for x in range(width):
+        for y in [0, height - 1]:
+            if (x, y) not in biggest_set and (x, y) not in reachable_from_boundary:
+                reachable_from_boundary.add((x, y))
+                stack.append((x, y))
+    for y in range(1, height - 1):
+        for x in [0, width - 1]:
+            if (x, y) not in biggest_set and (x, y) not in reachable_from_boundary:
+                reachable_from_boundary.add((x, y))
+                stack.append((x, y))
+
+    # Flood fill through non-biggest pixels
+    while stack:
+        cx, cy = stack.pop()
+        for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+            nx, ny = cx + dx, cy + dy
+            if 0 <= nx < width and 0 <= ny < height:
+                if (nx, ny) not in biggest_set and (nx, ny) not in reachable_from_boundary:
+                    reachable_from_boundary.add((nx, ny))
+                    stack.append((nx, ny))
+
+    # Remove smaller components that are reachable from the boundary (not surrounded)
+    # Keep smaller components that are NOT reachable (completely surrounded by biggest)
+    count = 0
+    for component in components:
+        if component is not biggest:
+            # Check if any pixel in this component is reachable from the boundary
+            # If so, the component is not surrounded and should be removed
+            is_surrounded = not any(pixel in reachable_from_boundary for pixel in component)
+            if not is_surrounded:
+                for x, y in component:
+                    pixels[x, y] = (0, 0, 0, 0)
+                    count += 1
+
+    return count
+
+
 def process_image(
     input_path: str,
     lower_color: tuple[int, int, int],
@@ -91,7 +201,8 @@ def process_image(
     flood_fill: bool,
     manual_points: list[tuple[int, int]],
     output_path: str,
-    use_hsv: bool = False
+    use_hsv: bool = False,
+    biggest_component: bool = False
 ):
     """
     Process image by setting background pixels within color bounds to black with alpha = 0.
@@ -107,6 +218,7 @@ def process_image(
         manual_points: List of (x, y) tuples to manually set as background/seeds
         output_path: Path to save processed image
         use_hsv: If True, use HSV color space for comparison (OpenCV convention)
+        biggest_component: If True, keep only the biggest connected component of foreground
     """
     # Load image
     img = Image.open(input_path)
@@ -176,10 +288,17 @@ def process_image(
                     pixels[x, y] = (0, 0, 0, 0)  # Black with alpha = 0
                     count += 1
 
+    # Keep only the biggest connected component if requested
+    component_count = 0
+    if biggest_component:
+        component_count = keep_biggest_component(pixels, width, height)
+
     # Save processed image
     img.save(output_path, 'PNG')
     print(f"Processed image saved to {output_path}")
-    print(f"Modified {count} pixels (out of {width * height} total)")
+    print(f"Modified {count} pixels by color filtering (out of {width * height} total)")
+    if biggest_component:
+        print(f"Removed {component_count} pixels from smaller connected components")
 
 
 def main():
@@ -195,6 +314,9 @@ Examples:
   # HSV mode (OpenCV ranges: H=0-179, S=0-255, V=0-255)
   %(prog)s input.png "0,100,100" "10,255,255" --hsv -f -o output.png
   %(prog)s icon.png "100,50,50" "130,255,255" --hsv  # Blue hue range
+
+  # Keep only biggest connected component
+  %(prog)s icon.png "0,0,0" "50,50,50" -b -o output.png
         '''
     )
 
@@ -205,6 +327,8 @@ Examples:
     parser.add_argument('--hsv', action='store_true',
                         help='Use HSV color space (OpenCV convention: H=0-179 for 0-360°, S=0-255, V=0-255)')
     parser.add_argument('-f', '--flood-fill', action='store_true', help='Use flood fill from image boundary to remove background')
+    parser.add_argument('-b', '--biggest-component', action='store_true',
+                        help='Keep the biggest connected component and any smaller components completely surrounded by it as the only foreground')
     parser.add_argument('-p', '--points', nargs='+', help='Manually add a point "x,y" to be set as background (and used as seed for flood fill)')
     parser.add_argument('-o', '--output', default='output.png',
                         help='Output path (default: output.png)')
@@ -229,7 +353,7 @@ Examples:
             sys.exit(1)
 
     # Process the image
-    process_image(args.input, lower, upper, args.inverse, args.flood_fill, manual_points, args.output, args.hsv)
+    process_image(args.input, lower, upper, args.inverse, args.flood_fill, manual_points, args.output, args.hsv, args.biggest_component)
 
 
 if __name__ == '__main__':
