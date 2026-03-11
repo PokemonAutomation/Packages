@@ -2,7 +2,7 @@
 
 ## Pokémon Definitions
 
-In this doc we define a Pokémon "species" to mean all the Pokémon that share the same Pokédex entry number. For example, Kantonian and Alolan Rattata belong to the same species called "Rattata".
+In this doc we define a Pokémon "species" to mean all the Pokémon that share the same national Pokédex entry number. For example, Kantonian and Alolan Rattata belong to the same species called "Rattata".
 
 ## Slug
 

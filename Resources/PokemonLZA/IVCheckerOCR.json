@@ -1,0 +1,213 @@
+﻿{
+    "chi_sim": {
+        "Best": [
+            "最 棒",
+            "最森"
+        ],
+        "Decent": [
+            "一 般 般",
+            "一股服",
+            "一航航"
+        ],
+        "Fantastic": [
+            "了 不 起"
+        ],
+        "Hyper trained!": [
+            "锻 炼 了 !"
+        ],
+        "No Good": [
+            "也 许 不 行"
+        ],
+        "Pretty Good": [
+            "相 当 好"
+        ],
+        "Very Good": [
+            "非 常 好"
+        ]
+    },
+    "chi_tra": {
+        "Best": [
+            "太 完 美 了 ! "
+        ],
+        "Decent": [
+            "普 普 通 通",
+            "舂華道通"
+        ],
+        "Fantastic": [
+            "了 不 起"
+        ],
+        "Hyper trained!": [
+            "完 成 鍛 鍊 了 !"
+        ],
+        "No Good": [
+            "不 怎 麼 樣"
+        ],
+        "Pretty Good": [
+            "相 當 好"
+        ],
+        "Very Good": [
+            "非 常 好"
+        ]
+    },
+    "deu": {
+        "Best": [
+            "Sensationell"
+        ],
+        "Decent": [
+            "Nicht übel"
+        ],
+        "Fantastic": [
+            "Fantastisch"
+        ],
+        "Hyper trained!": [
+            "Maximiert"
+        ],
+        "No Good": [
+            "Schlecht"
+        ],
+        "Pretty Good": [
+            "Gut"
+        ],
+        "Very Good": [
+            "Sehr gut"
+        ]
+    },
+    "eng": {
+        "Best": [
+            "Best"
+        ],
+        "Decent": [
+            "Decent"
+        ],
+        "Fantastic": [
+            "Fantastic"
+        ],
+        "Hyper trained!": [
+            "Hyper trained!"
+        ],
+        "No Good": [
+            "No Good"
+        ],
+        "Pretty Good": [
+            "Pretty Good"
+        ],
+        "Very Good": [
+            "Very Good"
+        ]
+    },
+    "fra": {
+        "Best": [
+            "Exceptionnel !"
+        ],
+        "Decent": [
+            "Passable ..."
+        ],
+        "Fantastic": [
+            "Fantastique !"
+        ],
+        "Hyper trained!": [
+            "Au max !"
+        ],
+        "No Good": [
+            "Médiocre..."
+        ],
+        "Pretty Good": [
+            "Bon !"
+        ],
+        "Very Good": [
+            "Très bon !"
+        ]
+    },
+    "ita": {
+        "Best": [
+            "Stellare"
+        ],
+        "Decent": [
+            "Sufficiente"
+        ],
+        "Fantastic": [
+            "Eccellente"
+        ],
+        "Hyper trained!": [
+            "Al top"
+        ],
+        "No Good": [
+            "Mediocre"
+        ],
+        "Pretty Good": [
+            "Normale"
+        ],
+        "Very Good": [
+            "Notevole"
+        ]
+    },
+    "jpn": {
+        "Best": [
+            "さいこう"
+        ],
+        "Decent": [
+            "まあまあ"
+        ],
+        "Fantastic": [
+            "すばらしい"
+        ],
+        "Hyper trained!": [
+            "きたえた!"
+        ],
+        "No Good": [
+            "ダメかも"
+        ],
+        "Pretty Good": [
+            "かなりいい"
+        ],
+        "Very Good": [
+            "すごぐいい"
+        ]
+    },
+    "kor": {
+        "Best": [
+            "최 고"
+        ],
+        "Decent": [
+            "적 당 하 다"
+        ],
+        "Fantastic": [
+            "훌 륭 하 다"
+        ],
+        "Hyper trained!": [
+            "단 련 되 었 다 !"
+        ],
+        "No Good": [
+            "별로인 듯"
+        ],
+        "Pretty Good": [
+            "상당이 좋다"
+        ],
+        "Very Good": [
+            "굉장이 좋다"
+        ]
+    },
+    "spa": {
+        "Best": [
+            "Inmejorable"
+        ],
+        "Decent": [
+            "No está mal"
+        ],
+        "Fantastic": [
+            "Espectacular"
+        ],
+        "Hyper trained!": [
+            "¡Al máximo!"
+        ],
+        "No Good": [
+            "Cojea un poco"
+        ],
+        "Pretty Good": [
+            "Notable"
+        ],
+        "Very Good": [
+            "Genial"
+        ]
+    }
+}

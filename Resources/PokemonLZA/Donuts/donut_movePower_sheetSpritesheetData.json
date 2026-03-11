@@ -1,0 +1,14 @@
+{
+  "spriteHeight": 26,
+  "spriteWidth": 24,
+  "spriteLocations": {
+    "physical": {
+      "top": 0,
+      "left": 24
+    },
+    "special": {
+      "top": 0,
+      "left": 0
+    }
+  }
+}

@@ -1,0 +1,1829 @@
+{
+	"chi_sim": {
+		"centrico-plaza": [
+			"中央广场"
+		],
+		"gare-de-lumiose": [
+			"密阿雷南站"
+		],
+		"pokemon-research-lab": [
+			"宝可梦研究所"
+		],
+		"hotel-z": [
+			"旅馆Ｚ"
+		],
+		"vert-pokemon-center": [
+			"宝可梦中心：翡绿"
+		],
+		"racine-construction": [
+			"木根工程"
+		],
+		"restaurant-le-nah": [
+			"谱通餐馆"
+		],
+		"cafe-cyclone": [
+			"龙卷风咖啡馆"
+		],
+		"cafe-classe": [
+			"时髦咖啡馆"
+		],
+		"cafe-introversion": [
+			"帕生咖啡店"
+		],
+		"nouveau-cafe": [
+			"新咖啡"
+		],
+		"rust-syndicate-office": [
+			"锈蚀组事务所"
+		],
+		"lumiose-sewers-1": [
+			"密阿雷下水道"
+		],
+		"bleu-pokemon-center": [
+			"宝可梦中心：浦蓝"
+		],
+		"vernal-pokemon-center": [
+			"宝可梦中心：春日大道"
+		],
+		"cafe-woof": [
+			"汪汪咖啡馆"
+		],
+		"cafe-soleil": [
+			"旭日咖啡馆"
+		],
+		"shutterbug-cafe": [
+			"定焦咖啡馆"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"新咖啡２号店"
+		],
+		"quasartico-inc": [
+			"阔星公司"
+		],
+		"lysandre-cafe": [
+			"弗拉达利咖啡店"
+		],
+		"lumiose-sewers-2": [
+			"密阿雷下水道"
+		],
+		"magenta-pokemon-center": [
+			"宝可梦中心：蓉粉"
+		],
+		"magenta-plaza-pokemon-center": [
+			"宝可梦中心：粉色广场"
+		],
+		"cafe-pokemon-amie": [
+			"友友乐咖啡馆"
+		],
+		"cafe-rouleau": [
+			"回旋咖啡馆"
+		],
+		"cafe-gallant": [
+			"英俊咖啡馆"
+		],
+		"cafe-triste": [
+			"罗雀咖啡馆"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"新咖啡３号店"
+		],
+		"hotel-richissime": [
+			"秀丽世大酒店"
+		],
+		"looker-bureau": [
+			"帅哥侦探事务所"
+		],
+		"lumiose-museum": [
+			"密阿雷美术馆"
+		],
+		"rouge-pokemon-center": [
+			"宝可梦中心：榴红"
+		],
+		"centrico-pokemon-center": [
+			"宝可梦中心：中央"
+		],
+		"restaurant-le-yeah": [
+			"贰流餐馆"
+		],
+		"sushi-high-roller": [
+			"回转梦想家高级餐厅"
+		],
+		"restaurant-le-wow": [
+			"鼎极餐馆"
+		],
+		"justice-dojo": [
+			"正义社道场"
+		],
+		"jaune-pokemon-center": [
+			"宝可梦中心：琼黄"
+		],
+		"hibernal-pokemon-center": [
+			"宝可梦中心：冬日大道"
+		],
+		"cafe-ultimo": [
+			"极训咖啡馆"
+		],
+		"cafe-action": [
+			"开拍咖啡馆"
+		],
+		"cafe-kizuna": [
+			"牵绊咖啡馆"
+		],
+		"cafe-bataille": [
+			"对战迷咖啡馆"
+		],
+		"wild-zone-1": [
+			"１号野生特区"
+		],
+		"wild-zone-2": [
+			"２号野生特区"
+		],
+		"wild-zone-3": [
+			"３号野生特区"
+		],
+		"wild-zone-4": [
+			"４号野生特区"
+		],
+		"wild-zone-5": [
+			"５号野生特区"
+		],
+		"wild-zone-6": [
+			"６号野生特区"
+		],
+		"wild-zone-7": [
+			"７号野生特区"
+		],
+		"wild-zone-8": [
+			"８号野生特区"
+		],
+		"wild-zone-9": [
+			"９号野生特区"
+		],
+		"wild-zone-10": [
+			"１０号野生特区"
+		],
+		"wild-zone-11": [
+			"１１号野生特区"
+		],
+		"wild-zone-12": [
+			"１２号野生特区"
+		],
+		"wild-zone-13": [
+			"１３号野生特区"
+		],
+		"wild-zone-14": [
+			"１４号野生特区"
+		],
+		"wild-zone-15": [
+			"１５号野生特区"
+		],
+		"wild-zone-16": [
+			"１６号野生特区"
+		],
+		"wild-zone-17": [
+			"１７号野生特区"
+		],
+		"wild-zone-18": [
+			"１８号野生特区"
+		],
+		"wild-zone-19": [
+			"１９号野生特区"
+		],
+		"wild-zone-20": [
+			"２０号野生特区"
+		],
+		"battle-zone-1": [
+			"对战特区"
+		],
+		"battle-zone-2": [
+			"对战特区"
+		],
+		"battle-zone-3": [
+			"对战特区"
+		]
+	},
+	"chi_tra": {
+		"centrico-plaza": [
+			"中央廣場"
+		],
+		"gare-de-lumiose": [
+			"密阿雷南站"
+		],
+		"pokemon-research-lab": [
+			"寶可夢研究所"
+		],
+		"hotel-z": [
+			"旅館Ｚ"
+		],
+		"vert-pokemon-center": [
+			"寶可夢中心：翡綠"
+		],
+		"racine-construction": [
+			"木根工程"
+		],
+		"restaurant-le-nah": [
+			"譜通餐館"
+		],
+		"cafe-cyclone": [
+			"龍捲風咖啡館"
+		],
+		"cafe-classe": [
+			"時髦咖啡館"
+		],
+		"cafe-introversion": [
+			"帕生咖啡店"
+		],
+		"nouveau-cafe": [
+			"新咖啡"
+		],
+		"rust-syndicate-office": [
+			"鏽蝕組事務所"
+		],
+		"lumiose-sewers-1": [
+			"密阿雷下水道"
+		],
+		"bleu-pokemon-center": [
+			"寶可夢中心：浦藍"
+		],
+		"vernal-pokemon-center": [
+			"寶可夢中心：春日大道"
+		],
+		"cafe-woof": [
+			"汪汪咖啡館"
+		],
+		"cafe-soleil": [
+			"旭日咖啡館"
+		],
+		"shutterbug-cafe": [
+			"定焦咖啡館"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"新咖啡２號店"
+		],
+		"quasartico-inc": [
+			"闊星公司"
+		],
+		"lysandre-cafe": [
+			"弗拉達利咖啡店"
+		],
+		"lumiose-sewers-2": [
+			"密阿雷下水道"
+		],
+		"magenta-pokemon-center": [
+			"寶可夢中心：蓉粉"
+		],
+		"magenta-plaza-pokemon-center": [
+			"寶可夢中心：粉色廣場"
+		],
+		"cafe-pokemon-amie": [
+			"友友樂咖啡館"
+		],
+		"cafe-rouleau": [
+			"迴旋咖啡館"
+		],
+		"cafe-gallant": [
+			"英俊咖啡館"
+		],
+		"cafe-triste": [
+			"羅雀咖啡館"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"新咖啡３號店"
+		],
+		"hotel-richissime": [
+			"秀麗世大酒店"
+		],
+		"looker-bureau": [
+			"帥哥偵探事務所"
+		],
+		"lumiose-museum": [
+			"密阿雷美術館"
+		],
+		"rouge-pokemon-center": [
+			"寶可夢中心：榴紅"
+		],
+		"centrico-pokemon-center": [
+			"寶可夢中心：中央"
+		],
+		"restaurant-le-yeah": [
+			"貳流餐館"
+		],
+		"sushi-high-roller": [
+			"回轉夢想家高級餐廳"
+		],
+		"restaurant-le-wow": [
+			"鼎極餐館"
+		],
+		"justice-dojo": [
+			"正義社道場"
+		],
+		"jaune-pokemon-center": [
+			"寶可夢中心：瓊黃"
+		],
+		"hibernal-pokemon-center": [
+			"寶可夢中心：冬日大道"
+		],
+		"cafe-ultimo": [
+			"極訓咖啡館"
+		],
+		"cafe-action": [
+			"開拍咖啡館"
+		],
+		"cafe-kizuna": [
+			"牽絆咖啡館"
+		],
+		"cafe-bataille": [
+			"對戰迷咖啡館"
+		],
+		"wild-zone-1": [
+			"１號野生特區"
+		],
+		"wild-zone-2": [
+			"２號野生特區"
+		],
+		"wild-zone-3": [
+			"３號野生特區"
+		],
+		"wild-zone-4": [
+			"４號野生特區"
+		],
+		"wild-zone-5": [
+			"５號野生特區"
+		],
+		"wild-zone-6": [
+			"６號野生特區"
+		],
+		"wild-zone-7": [
+			"７號野生特區"
+		],
+		"wild-zone-8": [
+			"８號野生特區"
+		],
+		"wild-zone-9": [
+			"９號野生特區"
+		],
+		"wild-zone-10": [
+			"１０號野生特區"
+		],
+		"wild-zone-11": [
+			"１１號野生特區"
+		],
+		"wild-zone-12": [
+			"１２號野生特區"
+		],
+		"wild-zone-13": [
+			"１３號野生特區"
+		],
+		"wild-zone-14": [
+			"１４號野生特區"
+		],
+		"wild-zone-15": [
+			"１５號野生特區"
+		],
+		"wild-zone-16": [
+			"１６號野生特區"
+		],
+		"wild-zone-17": [
+			"１７號野生特區"
+		],
+		"wild-zone-18": [
+			"１８號野生特區"
+		],
+		"wild-zone-19": [
+			"１９號野生特區"
+		],
+		"wild-zone-20": [
+			"２０號野生特區"
+		],
+		"battle-zone-1": [
+			"對戰特區"
+		],
+		"battle-zone-2": [
+			"對戰特區"
+		],
+		"battle-zone-3": [
+			"對戰特區"
+		]
+	},
+	"deu": {
+		"centrico-plaza": [
+			"Zentral-Plaza"
+		],
+		"gare-de-lumiose": [
+			"Bahnhof Illumina Süd"
+		],
+		"pokemon-research-lab": [
+			"Pokémon-Labor"
+		],
+		"hotel-z": [
+			"Hotel Z"
+		],
+		"vert-pokemon-center": [
+			"Pokémon-Center (Verte)"
+		],
+		"racine-construction": [
+			"Baufirma Racine"
+		],
+		"restaurant-le-nah": [
+			"Restaurant Solala"
+		],
+		"cafe-cyclone": [
+			"Café Twister"
+		],
+		"cafe-classe": [
+			"Café à la Mode"
+		],
+		"cafe-introversion": [
+			"Konnex-Café"
+		],
+		"nouveau-cafe": [
+			"Imbiss Nouveau"
+		],
+		"rust-syndicate-office": [
+			"Corrosio-Clansitz"
+		],
+		"lumiose-sewers-1": [
+			"Illumina-Kanalisation"
+		],
+		"bleu-pokemon-center": [
+			"Pokémon-Center (Cyan)"
+		],
+		"vernal-pokemon-center": [
+			"Pokémon-Center (Frühlingsallee)"
+		],
+		"cafe-woof": [
+			"Café Wauwau"
+		],
+		"cafe-soleil": [
+			"Café Soleil"
+		],
+		"shutterbug-cafe": [
+			"Café Fokus"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"Imbiss Nouveau Nr. 2"
+		],
+		"quasartico-inc": [
+			"Quazar Corporation"
+		],
+		"lysandre-cafe": [
+			"Bistro Flordelis"
+		],
+		"lumiose-sewers-2": [
+			"Illumina-Kanalisation"
+		],
+		"magenta-pokemon-center": [
+			"Pokémon-Center (Rose)"
+		],
+		"magenta-plaza-pokemon-center": [
+			"Pokémon-Center (Place Rose)"
+		],
+		"cafe-pokemon-amie": [
+			"Café Spielstunde"
+		],
+		"cafe-rouleau": [
+			"Café Freestyle"
+		],
+		"cafe-gallant": [
+			"Café Adonis"
+		],
+		"cafe-triste": [
+			"Café Coucou"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"Imbiss Nouveau Nr. 3"
+		],
+		"hotel-richissime": [
+			"Grand Hôtel Pique Faîne"
+		],
+		"looker-bureau": [
+			"LeBelle-Büro"
+		],
+		"lumiose-museum": [
+			"Illumina-Kunstmuseum"
+		],
+		"rouge-pokemon-center": [
+			"Pokémon-Center (Rouge)"
+		],
+		"centrico-pokemon-center": [
+			"Pokémon-Center (Zentral-Plaza)"
+		],
+		"restaurant-le-yeah": [
+			"Restaurant chez Norme"
+		],
+		"sushi-high-roller": [
+			"Sushi-Wok"
+		],
+		"restaurant-le-wow": [
+			"Restaurant de Luxe"
+		],
+		"justice-dojo": [
+			"Dojo der Gerechten"
+		],
+		"jaune-pokemon-center": [
+			"Pokémon-Center (Jaune)"
+		],
+		"hibernal-pokemon-center": [
+			"Pokémon-Center (Winterallee)"
+		],
+		"cafe-ultimo": [
+			"Café Ultimo"
+		],
+		"cafe-action": [
+			"Café Nachdreh"
+		],
+		"cafe-kizuna": [
+			"Café Ami"
+		],
+		"cafe-bataille": [
+			"Café Bataille"
+		],
+		"wild-zone-1": [
+			"Wildsektor 1"
+		],
+		"wild-zone-2": [
+			"Wildsektor 2"
+		],
+		"wild-zone-3": [
+			"Wildsektor 3"
+		],
+		"wild-zone-4": [
+			"Wildsektor 4"
+		],
+		"wild-zone-5": [
+			"Wildsektor 5"
+		],
+		"wild-zone-6": [
+			"Wildsektor 6"
+		],
+		"wild-zone-7": [
+			"Wildsektor 7"
+		],
+		"wild-zone-8": [
+			"Wildsektor 8"
+		],
+		"wild-zone-9": [
+			"Wildsektor 9"
+		],
+		"wild-zone-10": [
+			"Wildsektor 10"
+		],
+		"wild-zone-11": [
+			"Wildsektor 11"
+		],
+		"wild-zone-12": [
+			"Wildsektor 12"
+		],
+		"wild-zone-13": [
+			"Wildsektor 13"
+		],
+		"wild-zone-14": [
+			"Wildsektor 14"
+		],
+		"wild-zone-15": [
+			"Wildsektor 15"
+		],
+		"wild-zone-16": [
+			"Wildsektor 16"
+		],
+		"wild-zone-17": [
+			"Wildsektor 17"
+		],
+		"wild-zone-18": [
+			"Wildsektor 18"
+		],
+		"wild-zone-19": [
+			"Wildsektor 19"
+		],
+		"wild-zone-20": [
+			"Wildsektor 20"
+		],
+		"battle-zone-1": [
+			"Kampfsektor"
+		],
+		"battle-zone-2": [
+			"Kampfsektor"
+		],
+		"battle-zone-3": [
+			"Kampfsektor"
+		]
+	},
+	"eng": {
+		"centrico-plaza": [
+			"Centrico Plaza"
+		],
+		"gare-de-lumiose": [
+			"Gare de Lumiose"
+		],
+		"pokemon-research-lab": [
+			"Pokémon Research Lab"
+		],
+		"hotel-z": [
+			"Hotel Z"
+		],
+		"vert-pokemon-center": [
+			"Vert Pokémon Center"
+		],
+		"racine-construction": [
+			"Racine Construction"
+		],
+		"restaurant-le-nah": [
+			"Restaurant Le Nah"
+		],
+		"cafe-cyclone": [
+			"Café Cyclone"
+		],
+		"cafe-classe": [
+			"Café Classe"
+		],
+		"cafe-introversion": [
+			"Café Introversion"
+		],
+		"nouveau-cafe": [
+			"Nouveau Café"
+		],
+		"rust-syndicate-office": [
+			"Rust Syndicate Office"
+		],
+		"lumiose-sewers-1": [
+			"Lumiose Sewers"
+		],
+		"bleu-pokemon-center": [
+			"Bleu Pokémon Center"
+		],
+		"vernal-pokemon-center": [
+			"Vernal Pokémon Center"
+		],
+		"cafe-woof": [
+			"Café Woof"
+		],
+		"cafe-soleil": [
+			"Café Soleil"
+		],
+		"shutterbug-cafe": [
+			"Shutterbug Café"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"Nouveau Café (Truck No. 2)"
+		],
+		"quasartico-inc": [
+			"Quasartico Inc."
+		],
+		"lysandre-cafe": [
+			"Lysandre Café"
+		],
+		"lumiose-sewers-2": [
+			"Lumiose Sewers"
+		],
+		"magenta-pokemon-center": [
+			"Magenta Pokémon Center"
+		],
+		"magenta-plaza-pokemon-center": [
+			"Magenta Plaza Pokémon Center"
+		],
+		"cafe-pokemon-amie": [
+			"Café Pokémon-Amie"
+		],
+		"cafe-rouleau": [
+			"Café Rouleau"
+		],
+		"cafe-gallant": [
+			"Café Gallant"
+		],
+		"cafe-triste": [
+			"Café Triste"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"Nouveau Café (Truck No. 3)"
+		],
+		"hotel-richissime": [
+			"Hotel Richissime"
+		],
+		"looker-bureau": [
+			"Looker Bureau"
+		],
+		"lumiose-museum": [
+			"Lumiose Museum"
+		],
+		"rouge-pokemon-center": [
+			"Rouge Pokémon Center"
+		],
+		"centrico-pokemon-center": [
+			"Centrico Pokémon Center"
+		],
+		"restaurant-le-yeah": [
+			"Restaurant Le Yeah"
+		],
+		"sushi-high-roller": [
+			"Sushi High Roller"
+		],
+		"restaurant-le-wow": [
+			"Restaurant Le Wow"
+		],
+		"justice-dojo": [
+			"Justice Dojo"
+		],
+		"jaune-pokemon-center": [
+			"Jaune Pokémon Center"
+		],
+		"hibernal-pokemon-center": [
+			"Hibernal Pokémon Center"
+		],
+		"cafe-ultimo": [
+			"Café Ultimo"
+		],
+		"cafe-action": [
+			"Café Action!"
+		],
+		"cafe-kizuna": [
+			"Café Kizuna"
+		],
+		"cafe-bataille": [
+			"Café Bataille"
+		],
+		"wild-zone-1": [
+			"Wild Zone 1"
+		],
+		"wild-zone-2": [
+			"Wild Zone 2"
+		],
+		"wild-zone-3": [
+			"Wild Zone 3"
+		],
+		"wild-zone-4": [
+			"Wild Zone 4"
+		],
+		"wild-zone-5": [
+			"Wild Zone 5"
+		],
+		"wild-zone-6": [
+			"Wild Zone 6"
+		],
+		"wild-zone-7": [
+			"Wild Zone 7"
+		],
+		"wild-zone-8": [
+			"Wild Zone 8"
+		],
+		"wild-zone-9": [
+			"Wild Zone 9"
+		],
+		"wild-zone-10": [
+			"Wild Zone 10"
+		],
+		"wild-zone-11": [
+			"Wild Zone 11"
+		],
+		"wild-zone-12": [
+			"Wild Zone 12"
+		],
+		"wild-zone-13": [
+			"Wild Zone 13"
+		],
+		"wild-zone-14": [
+			"Wild Zone 14"
+		],
+		"wild-zone-15": [
+			"Wild Zone 15"
+		],
+		"wild-zone-16": [
+			"Wild Zone 16"
+		],
+		"wild-zone-17": [
+			"Wild Zone 17"
+		],
+		"wild-zone-18": [
+			"Wild Zone 18"
+		],
+		"wild-zone-19": [
+			"Wild Zone 19"
+		],
+		"wild-zone-20": [
+			"Wild Zone 20"
+		],
+		"battle-zone-1": [
+			"Battle Zone"
+		],
+		"battle-zone-2": [
+			"Battle Zone"
+		],
+		"battle-zone-3": [
+			"Battle Zone"
+		]
+	},
+	"fra": {
+		"centrico-plaza": [
+			"Place Centrale"
+		],
+		"gare-de-lumiose": [
+			"Illumis Sud"
+		],
+		"pokemon-research-lab": [
+			"Laboratoire Pokémon"
+		],
+		"hotel-z": [
+			"Hôtel Z"
+		],
+		"vert-pokemon-center": [
+			"Centre Pokémon de Beau-Vert"
+		],
+		"racine-construction": [
+			"Bâti-Racines"
+		],
+		"restaurant-le-nah": [
+			"L’Étoilé"
+		],
+		"cafe-cyclone": [
+			"La Drôle d’Embringue"
+		],
+		"cafe-classe": [
+			"Le Lounge Café"
+		],
+		"cafe-introversion": [
+			"Les Timides"
+		],
+		"nouveau-cafe": [
+			"Néo Café"
+		],
+		"rust-syndicate-office": [
+			"Agence Dérouillard"
+		],
+		"lumiose-sewers-1": [
+			"Égouts d’Illumis"
+		],
+		"bleu-pokemon-center": [
+			"Centre Pokémon de Valcyan"
+		],
+		"vernal-pokemon-center": [
+			"Centre Pokémon de l’Avenue Floréal"
+		],
+		"cafe-woof": [
+			"Café Toutou"
+		],
+		"cafe-soleil": [
+			"Café Soleil"
+		],
+		"shutterbug-cafe": [
+			"Un Autre Regard"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"Néo Café nº 2"
+		],
+		"quasartico-inc": [
+			"Société Quazar"
+		],
+		"lysandre-cafe": [
+			"Café Lysandre"
+		],
+		"lumiose-sewers-2": [
+			"Égouts d’Illumis"
+		],
+		"magenta-pokemon-center": [
+			"Centre Pokémon de Rosavilliers"
+		],
+		"magenta-plaza-pokemon-center": [
+			"Centre Pokémon de la Place Rose"
+		],
+		"cafe-pokemon-amie": [
+			"Café Récré"
+		],
+		"cafe-rouleau": [
+			"Café Slalom"
+		],
+		"cafe-gallant": [
+			"Le Café des Compères"
+		],
+		"cafe-triste": [
+			"Au Coucou"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"Néo Café nº 3"
+		],
+		"hotel-richissime": [
+			"Le Crésus"
+		],
+		"looker-bureau": [
+			"Agence Beladonis"
+		],
+		"lumiose-museum": [
+			"Musée d’Illumis"
+		],
+		"rouge-pokemon-center": [
+			"Centre Pokémon de Maurouge"
+		],
+		"centrico-pokemon-center": [
+			"Centre Pokémon de la Place Centrale"
+		],
+		"restaurant-le-yeah": [
+			"Les Algolides"
+		],
+		"sushi-high-roller": [
+			"Sushi Sans Chichis"
+		],
+		"restaurant-le-wow": [
+			"Le Firmament"
+		],
+		"justice-dojo": [
+			"Dojo de la Justice"
+		],
+		"jaune-pokemon-center": [
+			"Centre Pokémon de Jaunemont"
+		],
+		"hibernal-pokemon-center": [
+			"Centre Pokémon de l’Avenue Ventôse"
+		],
+		"cafe-ultimo": [
+			"L’Ultimate"
+		],
+		"cafe-action": [
+			"Café Clap"
+		],
+		"cafe-kizuna": [
+			"Les Partenaires"
+		],
+		"cafe-bataille": [
+			"La Bataille"
+		],
+		"wild-zone-1": [
+			"Zone sauvage nº 1"
+		],
+		"wild-zone-2": [
+			"Zone sauvage nº 2"
+		],
+		"wild-zone-3": [
+			"Zone sauvage nº 3"
+		],
+		"wild-zone-4": [
+			"Zone sauvage nº 4"
+		],
+		"wild-zone-5": [
+			"Zone sauvage nº 5"
+		],
+		"wild-zone-6": [
+			"Zone sauvage nº 6"
+		],
+		"wild-zone-7": [
+			"Zone sauvage nº 7"
+		],
+		"wild-zone-8": [
+			"Zone sauvage nº 8"
+		],
+		"wild-zone-9": [
+			"Zone sauvage nº 9"
+		],
+		"wild-zone-10": [
+			"Zone sauvage nº 10"
+		],
+		"wild-zone-11": [
+			"Zone sauvage nº 11"
+		],
+		"wild-zone-12": [
+			"Zone sauvage nº 12"
+		],
+		"wild-zone-13": [
+			"Zone sauvage nº 13"
+		],
+		"wild-zone-14": [
+			"Zone sauvage nº 14"
+		],
+		"wild-zone-15": [
+			"Zone sauvage nº 15"
+		],
+		"wild-zone-16": [
+			"Zone sauvage nº 16"
+		],
+		"wild-zone-17": [
+			"Zone sauvage nº 17"
+		],
+		"wild-zone-18": [
+			"Zone sauvage nº 18"
+		],
+		"wild-zone-19": [
+			"Zone sauvage nº 19"
+		],
+		"wild-zone-20": [
+			"Zone sauvage nº 20"
+		],
+		"battle-zone-1": [
+			"Zone de combat"
+		],
+		"battle-zone-2": [
+			"Zone de combat"
+		],
+		"battle-zone-3": [
+			"Zone de combat"
+		]
+	},
+	"ita": {
+		"centrico-plaza": [
+			"Piazza Centrale"
+		],
+		"gare-de-lumiose": [
+			"Terminal di Luminopoli"
+		],
+		"pokemon-research-lab": [
+			"Laboratorio Pokémon"
+		],
+		"hotel-z": [
+			"Hotel Z"
+		],
+		"vert-pokemon-center": [
+			"Centro Pokémon del Quartiere Verde"
+		],
+		"racine-construction": [
+			"Costruzioni Racines"
+		],
+		"restaurant-le-nah": [
+			"Ristorante Bocca Buona"
+		],
+		"cafe-cyclone": [
+			"Caffè Burrasca"
+		],
+		"cafe-classe": [
+			"Caffè À la Mode"
+		],
+		"cafe-introversion": [
+			"Bar I Timidi"
+		],
+		"nouveau-cafe": [
+			"Caffè Nouveau"
+		],
+		"rust-syndicate-office": [
+			"Sede del Clan Ruggine"
+		],
+		"lumiose-sewers-1": [
+			"Acquedotto di Luminopoli"
+		],
+		"bleu-pokemon-center": [
+			"Centro Pokémon del Quartiere Blu"
+		],
+		"vernal-pokemon-center": [
+			"Centro Pokémon di Viale Primavera"
+		],
+		"cafe-woof": [
+			"Caffè Qua la Zampa"
+		],
+		"cafe-soleil": [
+			"Café Soleil"
+		],
+		"shutterbug-cafe": [
+			"Bar Lo Scatto"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"Caffè Nouveau nº 2"
+		],
+		"quasartico-inc": [
+			"Q-asar Inc."
+		],
+		"lysandre-cafe": [
+			"Caffè Elisio"
+		],
+		"lumiose-sewers-2": [
+			"Acquedotto di Luminopoli"
+		],
+		"magenta-pokemon-center": [
+			"Centro Pokémon del Quartiere Rosa"
+		],
+		"magenta-plaza-pokemon-center": [
+			"Centro Pokémon di Piazza Rosa"
+		],
+		"cafe-pokemon-amie": [
+			"Caffè io&te"
+		],
+		"cafe-rouleau": [
+			"Caffè Slalom"
+		],
+		"cafe-gallant": [
+			"Caffè I Ragazzi"
+		],
+		"cafe-triste": [
+			"Caffè La Tazza Vuota"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"Caffè Nouveau nº 3"
+		],
+		"hotel-richissime": [
+			"Grand Hotel Fior di Quattrini"
+		],
+		"looker-bureau": [
+			"Agenzia Bellocchio"
+		],
+		"lumiose-museum": [
+			"Museo di Luminopoli"
+		],
+		"rouge-pokemon-center": [
+			"Centro Pokémon del Quartiere Rosso"
+		],
+		"centrico-pokemon-center": [
+			"Centro Pokémon di Piazza Centrale"
+		],
+		"restaurant-le-yeah": [
+			"Ristorante La Buona Forchetta"
+		],
+		"sushi-high-roller": [
+			"Ristorante Girasogno"
+		],
+		"restaurant-le-wow": [
+			"Ristorante Gourmet"
+		],
+		"justice-dojo": [
+			"Dojo del Gruppo Justice"
+		],
+		"jaune-pokemon-center": [
+			"Centro Pokémon del Quartiere Giallo"
+		],
+		"hibernal-pokemon-center": [
+			"Centro Pokémon di Viale Inverno"
+		],
+		"cafe-ultimo": [
+			"Caffè I Patiti"
+		],
+		"cafe-action": [
+			"Caffè Ciak"
+		],
+		"cafe-kizuna": [
+			"Caffè Concordia"
+		],
+		"cafe-bataille": [
+			"Caffè Le Lotte"
+		],
+		"wild-zone-1": [
+			"Zona selvaggia 1"
+		],
+		"wild-zone-2": [
+			"Zona selvaggia 2"
+		],
+		"wild-zone-3": [
+			"Zona selvaggia 3"
+		],
+		"wild-zone-4": [
+			"Zona selvaggia 4"
+		],
+		"wild-zone-5": [
+			"Zona selvaggia 5"
+		],
+		"wild-zone-6": [
+			"Zona selvaggia 6"
+		],
+		"wild-zone-7": [
+			"Zona selvaggia 7"
+		],
+		"wild-zone-8": [
+			"Zona selvaggia 8"
+		],
+		"wild-zone-9": [
+			"Zona selvaggia 9"
+		],
+		"wild-zone-10": [
+			"Zona selvaggia 10"
+		],
+		"wild-zone-11": [
+			"Zona selvaggia 11"
+		],
+		"wild-zone-12": [
+			"Zona selvaggia 12"
+		],
+		"wild-zone-13": [
+			"Zona selvaggia 13"
+		],
+		"wild-zone-14": [
+			"Zona selvaggia 14"
+		],
+		"wild-zone-15": [
+			"Zona selvaggia 15"
+		],
+		"wild-zone-16": [
+			"Zona selvaggia 16"
+		],
+		"wild-zone-17": [
+			"Zona selvaggia 17"
+		],
+		"wild-zone-18": [
+			"Zona selvaggia 18"
+		],
+		"wild-zone-19": [
+			"Zona selvaggia 19"
+		],
+		"wild-zone-20": [
+			"Zona selvaggia 20"
+		],
+		"battle-zone-1": [
+			"Zona lotta"
+		],
+		"battle-zone-2": [
+			"Zona lotta"
+		],
+		"battle-zone-3": [
+			"Zona lotta"
+		]
+	},
+	"jpn": {
+		"centrico-plaza": [
+			"メディオプラザ"
+		],
+		"gare-de-lumiose": [
+			"ミアレ駅"
+		],
+		"pokemon-research-lab": [
+			"ポケモン研究所"
+		],
+		"hotel-z": [
+			"ホテルＺ"
+		],
+		"vert-pokemon-center": [
+			"ポケモンセンター：ベール"
+		],
+		"racine-construction": [
+			"ラシーヌ工務店"
+		],
+		"restaurant-le-nah": [
+			"レストラン・ド・フツー"
+		],
+		"cafe-cyclone": [
+			"カフェ・ツイスター"
+		],
+		"cafe-classe": [
+			"カフェ・アラモード"
+		],
+		"cafe-introversion": [
+			"カフェ・ひとみしり"
+		],
+		"nouveau-cafe": [
+			"ヌーヴォカフェ"
+		],
+		"rust-syndicate-office": [
+			"サビ組事務所"
+		],
+		"lumiose-sewers-1": [
+			"ミアレ地下水道"
+		],
+		"bleu-pokemon-center": [
+			"ポケモンセンター：ブルー"
+		],
+		"vernal-pokemon-center": [
+			"ポケモンセンター：プランタン"
+		],
+		"cafe-woof": [
+			"カフェ・トウトウ"
+		],
+		"cafe-soleil": [
+			"カフェ・ソレイユ"
+		],
+		"shutterbug-cafe": [
+			"カフェ・フォーカス"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"ヌーヴォカフェ２号店"
+		],
+		"quasartico-inc": [
+			"クエーサー社"
+		],
+		"lysandre-cafe": [
+			"フラダリカフェ"
+		],
+		"lumiose-sewers-2": [
+			"ミアレ地下水道"
+		],
+		"magenta-pokemon-center": [
+			"ポケモンセンター：ローズ"
+		],
+		"magenta-plaza-pokemon-center": [
+			"ポケモンセンター：ローズ広場"
+		],
+		"cafe-pokemon-amie": [
+			"カフェ・かわいがり"
+		],
+		"cafe-rouleau": [
+			"カフェ・スラローム"
+		],
+		"cafe-gallant": [
+			"カフェ・おとこまえ"
+		],
+		"cafe-triste": [
+			"カフェ・カンコドール"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"ヌーヴォカフェ３号店"
+		],
+		"hotel-richissime": [
+			"ホテル　シュールリッシュ"
+		],
+		"looker-bureau": [
+			"ハンサムハウス"
+		],
+		"lumiose-museum": [
+			"ミアレ美術館"
+		],
+		"rouge-pokemon-center": [
+			"ポケモンセンター：ルージュ"
+		],
+		"centrico-pokemon-center": [
+			"ポケモンセンター：メディオ"
+		],
+		"restaurant-le-yeah": [
+			"リストランテ　ニ・リュー"
+		],
+		"sushi-high-roller": [
+			"レストラン　ローリングドリーマー"
+		],
+		"restaurant-le-wow": [
+			"レストラン・ド・キワミ"
+		],
+		"justice-dojo": [
+			"ジャスティスの会道場"
+		],
+		"jaune-pokemon-center": [
+			"ポケモンセンター：ジョーヌ"
+		],
+		"hibernal-pokemon-center": [
+			"ポケモンセンター：イベール"
+		],
+		"cafe-ultimo": [
+			"カフェ・アルティメット"
+		],
+		"cafe-action": [
+			"カフェ・リテイク"
+		],
+		"cafe-kizuna": [
+			"カフェ・パルトネール"
+		],
+		"cafe-bataille": [
+			"カフェ・バタイユ"
+		],
+		"wild-zone-1": [
+			"１番ワイルドゾーン"
+		],
+		"wild-zone-2": [
+			"２番ワイルドゾーン"
+		],
+		"wild-zone-3": [
+			"３番ワイルドゾーン"
+		],
+		"wild-zone-4": [
+			"４番ワイルドゾーン"
+		],
+		"wild-zone-5": [
+			"５番ワイルドゾーン"
+		],
+		"wild-zone-6": [
+			"６番ワイルドゾーン"
+		],
+		"wild-zone-7": [
+			"７番ワイルドゾーン"
+		],
+		"wild-zone-8": [
+			"８番ワイルドゾーン"
+		],
+		"wild-zone-9": [
+			"９番ワイルドゾーン"
+		],
+		"wild-zone-10": [
+			"１０番ワイルドゾーン"
+		],
+		"wild-zone-11": [
+			"１１番ワイルドゾーン"
+		],
+		"wild-zone-12": [
+			"１２番ワイルドゾーン"
+		],
+		"wild-zone-13": [
+			"１３番ワイルドゾーン"
+		],
+		"wild-zone-14": [
+			"１４番ワイルドゾーン"
+		],
+		"wild-zone-15": [
+			"１５番ワイルドゾーン"
+		],
+		"wild-zone-16": [
+			"１６番ワイルドゾーン"
+		],
+		"wild-zone-17": [
+			"１７番ワイルドゾーン"
+		],
+		"wild-zone-18": [
+			"１８番ワイルドゾーン"
+		],
+		"wild-zone-19": [
+			"１９番ワイルドゾーン"
+		],
+		"wild-zone-20": [
+			"２０番ワイルドゾーン"
+		],
+		"battle-zone-1": [
+			"バトルゾーン"
+		],
+		"battle-zone-2": [
+			"バトルゾーン"
+		],
+		"battle-zone-3": [
+			"バトルゾーン"
+		]
+	},
+	"kor": {
+		"centrico-plaza": [
+			"메디오 플라자"
+		],
+		"gare-de-lumiose": [
+			"미르역"
+		],
+		"pokemon-research-lab": [
+			"포켓몬 연구소"
+		],
+		"hotel-z": [
+			"호텔Z"
+		],
+		"vert-pokemon-center": [
+			"베르 포켓몬센터"
+		],
+		"racine-construction": [
+			"라시느건설"
+		],
+		"restaurant-le-nah": [
+			"보통 레스토랑"
+		],
+		"cafe-cyclone": [
+			"트위스터 카페"
+		],
+		"cafe-classe": [
+			"아라모드 카페"
+		],
+		"cafe-introversion": [
+			"낯가림 카페"
+		],
+		"nouveau-cafe": [
+			"누보 카페"
+		],
+		"rust-syndicate-office": [
+			"녹청파 사무소"
+		],
+		"lumiose-sewers-1": [
+			"미르 지하 수도"
+		],
+		"bleu-pokemon-center": [
+			"블르 포켓몬센터"
+		],
+		"vernal-pokemon-center": [
+			"프랭탕 포켓몬센터"
+		],
+		"cafe-woof": [
+			"뚜뚜 카페"
+		],
+		"cafe-soleil": [
+			"솔레유 카페"
+		],
+		"shutterbug-cafe": [
+			"포커스 카페"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"누보 카페 2호점"
+		],
+		"quasartico-inc": [
+			"퀘이사 주식회사"
+		],
+		"lysandre-cafe": [
+			"플라드리 카페"
+		],
+		"lumiose-sewers-2": [
+			"미르 지하 수도"
+		],
+		"magenta-pokemon-center": [
+			"로즈 포켓몬센터"
+		],
+		"magenta-plaza-pokemon-center": [
+			"로즈 광장 포켓몬센터"
+		],
+		"cafe-pokemon-amie": [
+			"가애 카페"
+		],
+		"cafe-rouleau": [
+			"슬라롬 카페"
+		],
+		"cafe-gallant": [
+			"사나이 카페"
+		],
+		"cafe-triste": [
+			"포곡쥬 카페"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"누보 카페 3호점"
+		],
+		"hotel-richissime": [
+			"쉬르 리슈 호텔"
+		],
+		"looker-bureau": [
+			"핸섬 하우스"
+		],
+		"lumiose-museum": [
+			"미르 미술관"
+		],
+		"rouge-pokemon-center": [
+			"루주 포켓몬센터"
+		],
+		"centrico-pokemon-center": [
+			"메디오 포켓몬센터"
+		],
+		"restaurant-le-yeah": [
+			"리스토란테 이류"
+		],
+		"sushi-high-roller": [
+			"롤링 드리머 레스토랑"
+		],
+		"restaurant-le-wow": [
+			"궁극 레스토랑"
+		],
+		"justice-dojo": [
+			"저스티스회 도장"
+		],
+		"jaune-pokemon-center": [
+			"존느 포켓몬센터"
+		],
+		"hibernal-pokemon-center": [
+			"이베르 포켓몬센터"
+		],
+		"cafe-ultimo": [
+			"얼티메이트 카페"
+		],
+		"cafe-action": [
+			"리테이크 카페"
+		],
+		"cafe-kizuna": [
+			"파르트네르 카페"
+		],
+		"cafe-bataille": [
+			"바타유 카페"
+		],
+		"wild-zone-1": [
+			"1번 와일드 존"
+		],
+		"wild-zone-2": [
+			"2번 와일드 존"
+		],
+		"wild-zone-3": [
+			"3번 와일드 존"
+		],
+		"wild-zone-4": [
+			"4번 와일드 존"
+		],
+		"wild-zone-5": [
+			"5번 와일드 존"
+		],
+		"wild-zone-6": [
+			"6번 와일드 존"
+		],
+		"wild-zone-7": [
+			"7번 와일드 존"
+		],
+		"wild-zone-8": [
+			"8번 와일드 존"
+		],
+		"wild-zone-9": [
+			"9번 와일드 존"
+		],
+		"wild-zone-10": [
+			"10번 와일드 존"
+		],
+		"wild-zone-11": [
+			"11번 와일드 존"
+		],
+		"wild-zone-12": [
+			"12번 와일드 존"
+		],
+		"wild-zone-13": [
+			"13번 와일드 존"
+		],
+		"wild-zone-14": [
+			"14번 와일드 존"
+		],
+		"wild-zone-15": [
+			"15번 와일드 존"
+		],
+		"wild-zone-16": [
+			"16번 와일드 존"
+		],
+		"wild-zone-17": [
+			"17번 와일드 존"
+		],
+		"wild-zone-18": [
+			"18번 와일드 존"
+		],
+		"wild-zone-19": [
+			"19번 와일드 존"
+		],
+		"wild-zone-20": [
+			"20번 와일드 존"
+		],
+		"battle-zone-1": [
+			"배틀 존"
+		],
+		"battle-zone-2": [
+			"배틀 존"
+		],
+		"battle-zone-3": [
+			"배틀 존"
+		]
+	},
+	"spa": {
+		"centrico-plaza": [
+			"Plaza Central"
+		],
+		"gare-de-lumiose": [
+			"Estación Luminalia Sur"
+		],
+		"pokemon-research-lab": [
+			"Laboratorio Pokémon"
+		],
+		"hotel-z": [
+			"Hotel Z"
+		],
+		"vert-pokemon-center": [
+			"Centro Pokémon del Distrito Verde"
+		],
+		"racine-construction": [
+			"Construcciones Radix"
+		],
+		"restaurant-le-nah": [
+			"Restaurante Le Mindundi"
+		],
+		"cafe-cyclone": [
+			"Café Vorágine"
+		],
+		"cafe-classe": [
+			"Cafetería Prêt-à-Sorber"
+		],
+		"cafe-introversion": [
+			"Café Rubor"
+		],
+		"nouveau-cafe": [
+			"Café Nouveau"
+		],
+		"rust-syndicate-office": [
+			"Sede del Clan Corrosión"
+		],
+		"lumiose-sewers-1": [
+			"Alcantarillas de Luminalia"
+		],
+		"bleu-pokemon-center": [
+			"Centro Pokémon del Distrito Azul"
+		],
+		"vernal-pokemon-center": [
+			"Centro Pokémon de la Avenida Primavera"
+		],
+		"cafe-woof": [
+			"Café Can Can"
+		],
+		"cafe-soleil": [
+			"Café Soleil"
+		],
+		"shutterbug-cafe": [
+			"Cafetería Enfoque"
+		],
+		"nouveau-cafe-truck-no-2": [
+			"Café Nouveau 2"
+		],
+		"quasartico-inc": [
+			"Quastelar S. A."
+		],
+		"lysandre-cafe": [
+			"Café Lysson"
+		],
+		"lumiose-sewers-2": [
+			"Alcantarillas de Luminalia"
+		],
+		"magenta-pokemon-center": [
+			"Centro Pokémon del Distrito Rosa"
+		],
+		"magenta-plaza-pokemon-center": [
+			"Centro Pokémon de la Plaza Rosa"
+		],
+		"cafe-pokemon-amie": [
+			"Café Recreo"
+		],
+		"cafe-rouleau": [
+			"Café Sobre Ruedas"
+		],
+		"cafe-gallant": [
+			"Café Galanes"
+		],
+		"cafe-triste": [
+			"Café Cuco"
+		],
+		"nouveau-cafe-truck-no-3": [
+			"Café Nouveau 3"
+		],
+		"hotel-richissime": [
+			"Gran Hotel Ricachilton"
+		],
+		"looker-bureau": [
+			"Handsome & Cía."
+		],
+		"lumiose-museum": [
+			"Museo de Arte de Luminalia"
+		],
+		"rouge-pokemon-center": [
+			"Centro Pokémon del Distrito Rojo"
+		],
+		"centrico-pokemon-center": [
+			"Centro Pokémon de la Plaza Central"
+		],
+		"restaurant-le-yeah": [
+			"Restaurante Nifú Nifà"
+		],
+		"sushi-high-roller": [
+			"Sushi Tres Delicias"
+		],
+		"restaurant-le-wow": [
+			"Restaurante Le Postín"
+		],
+		"justice-dojo": [
+			"Dojo del Círculo Justiciero"
+		],
+		"jaune-pokemon-center": [
+			"Centro Pokémon del Distrito Amarillo"
+		],
+		"hibernal-pokemon-center": [
+			"Centro Pokémon de la Avenida Invierno"
+		],
+		"cafe-ultimo": [
+			"Café Quintaesencia"
+		],
+		"cafe-action": [
+			"La Claqueta"
+		],
+		"cafe-kizuna": [
+			"Café Concordia"
+		],
+		"cafe-bataille": [
+			"Café Contienda"
+		],
+		"wild-zone-1": [
+			"Zona salvaje 1"
+		],
+		"wild-zone-2": [
+			"Zona salvaje 2"
+		],
+		"wild-zone-3": [
+			"Zona salvaje 3"
+		],
+		"wild-zone-4": [
+			"Zona salvaje 4"
+		],
+		"wild-zone-5": [
+			"Zona salvaje 5"
+		],
+		"wild-zone-6": [
+			"Zona salvaje 6"
+		],
+		"wild-zone-7": [
+			"Zona salvaje 7"
+		],
+		"wild-zone-8": [
+			"Zona salvaje 8"
+		],
+		"wild-zone-9": [
+			"Zona salvaje 9"
+		],
+		"wild-zone-10": [
+			"Zona salvaje 10"
+		],
+		"wild-zone-11": [
+			"Zona salvaje 11"
+		],
+		"wild-zone-12": [
+			"Zona salvaje 12"
+		],
+		"wild-zone-13": [
+			"Zona salvaje 13"
+		],
+		"wild-zone-14": [
+			"Zona salvaje 14"
+		],
+		"wild-zone-15": [
+			"Zona salvaje 15"
+		],
+		"wild-zone-16": [
+			"Zona salvaje 16"
+		],
+		"wild-zone-17": [
+			"Zona salvaje 17"
+		],
+		"wild-zone-18": [
+			"Zona salvaje 18"
+		],
+		"wild-zone-19": [
+			"Zona salvaje 19"
+		],
+		"wild-zone-20": [
+			"Zona salvaje 20"
+		],
+		"battle-zone-1": [
+			"Zona de combate"
+		],
+		"battle-zone-2": [
+			"Zona de combate"
+		],
+		"battle-zone-3": [
+			"Zona de combate"
+		]
+	}
+}
