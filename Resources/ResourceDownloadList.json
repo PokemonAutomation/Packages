@@ -1,7 +1,8 @@
 {
   "resourceList": [
     {
-      "resourceName" : "PokemonSV/AreaZero-v1/",
+      "resourceName" : "PokemonSV/AreaZero",
+      "version" : 1,
       "Type" : "ZippedFolder",
       "CompressedBytes" : 10000000,
       "DecompressedBytes" : 50000000,
@@ -9,7 +10,8 @@
       "SHA" : "abc123"
     },
     {
-      "resourceName" : "PaddleOCR-v1/",
+      "resourceName" : "PaddleOCR",
+      "version" : 2,
       "Type" : "ZippedFolder",
       "CompressedBytes" : 1000000,
       "DecompressedBytes" : 1500000,
