@@ -1,7 +1,21 @@
 """
 Build a JSON resource file, AllFormDisplayMap.json that stores all the pokemon forms and their display names.
 
-See Packages/Resources/README.md on more details about AllFormDisplayMap.json. 
+See Packages/Resources/README.md on more details about AllFormDisplayMap.json.
+
+Input files (all under SerialPrograms/Resources/Pokemon/):
+- Pokedex/Pokedex-National.json      : national Pokédex — list of all species slugs
+- PokemonNameDisplay.json            : English (and other language) display names for each species
+- MinorGenderDifferenceList.txt      : species with minor visual gender differences (one slug per line)
+- MajorGenderDifferenceList.txt      : species with major visual gender differences (one slug per line)
+- RegionalForms.json                 : regional variant forms grouped by region (alola, galar, hisui, paldea)
+- GeneralFormDisplayMap.json         : general alternate forms with their slugs and display names
+- MegaPokemonList.txt                : Mega Evolution form slugs (one per line)
+- GigantamaxForms.txt                : Gigantamax form slugs (one per line)
+
+Output file (written to the current working directory):
+- AllFormDisplayMap.json             : maps each species slug to a list of (form_slug, display_name) pairs
+                                       for all of its visually distinct forms
 """
 
 import os
