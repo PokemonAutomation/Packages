@@ -1,7 +1,7 @@
 """
 Build a JSON resource file, AllFormDisplayMap.json that stores all the pokemon forms and their display names.
 
-See Packages/SerialPrograms/README.md on more details about AllFormDisplayMap.json. 
+See Packages/Resources/README.md on more details about AllFormDisplayMap.json. 
 """
 
 import os
