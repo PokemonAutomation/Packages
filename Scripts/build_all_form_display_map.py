@@ -3,7 +3,7 @@ Build a JSON resource file, AllFormDisplayMap.json that stores all the pokemon f
 
 See Packages/Resources/README.md on more details about AllFormDisplayMap.json.
 
-Input files (all under SerialPrograms/Resources/Pokemon/):
+Input files (all under Resources/Pokemon/):
 - Pokedex/Pokedex-National.json      : national Pokédex — list of all species slugs
 - PokemonNameDisplay.json            : English (and other language) display names for each species
 - MinorGenderDifferenceList.txt      : species with minor visual gender differences (one slug per line)
@@ -69,6 +69,21 @@ def find_form_species_name(form: str) -> str:
     raise RuntimeError(f"form {form} not found in all_form_map")
 
 
+def get_general_display_name(slug: str) -> str:
+    """
+    Get the display name of a species slug or a general form slug
+    """
+    global pokedex, general_form_displays
+    if slug in pokedex:
+        return species_to_display_name[slug]
+    # this must be a form name
+    species_name = find_form_species_name(slug)
+    form_and_displays = general_form_displays[species_name]
+    for form_name, display_name in form_and_displays:
+        if slug == form_name:
+            return display_name
+
+
 def add_new_forms_from_base(base_form: str, new_forms: str | List[str]):
     """
     modify `all_form_map` to add new forms to a species besides its base form
@@ -78,7 +93,7 @@ def add_new_forms_from_base(base_form: str, new_forms: str | List[str]):
     base_form: can be a species name or a form name already found in `all_form_map`.
     """
 
-    global all_form_map
+    global all_form_map, pokedex
     if isinstance(new_forms, str):
         new_forms = [new_forms]
     if base_form in pokedex:
@@ -108,7 +123,7 @@ def replace_form_with_new_forms(base_form: str, new_forms: str | List[str]):
         In this case, the base_form must already be in `all_form_map`.
     """
 
-    global all_form_map
+    global all_form_map, pokedex
     if isinstance(new_forms, str):
         new_forms = [new_forms]
     if base_form in pokedex:  # it's a species name
@@ -128,9 +143,9 @@ def replace_form_with_new_forms(base_form: str, new_forms: str | List[str]):
         all_form_map[species_name] = form_list[0:base_idx] + new_forms + form_list[base_idx+1:]
 
 
-current_path: Path = Path(os.getcwd())
+current_path: Path = Path(__file__).resolve()
 package_root_dir: str = get_package_root_dir(current_path)
-pokemon_dir: str = os.path.join(package_root_dir, "SerialPrograms/Resources/Pokemon")
+pokemon_dir: str = os.path.join(package_root_dir, "Resources/Pokemon")
 
 # Load pokemon national dex
 pokedex_json_path: str = os.path.join(pokemon_dir, "Pokedex/Pokedex-National.json")
@@ -174,26 +189,25 @@ for region_name, region_species in regional_forms.items():
 
 # build general form display names and slugs
 # form_and_displays: List[Tuple[str, str]], in each Tuple, the first str is the form slug while the second is the display name
-for base_name, form_and_displays in general_form_displays.items():
+for species_name, form_and_displays in general_form_displays.items():
     for form_name, display_name in form_and_displays:
         slug_to_display_name[form_name] = display_name
-    replace_form_with_new_forms(base_name, [p[0] for p in form_and_displays])
+    replace_form_with_new_forms(species_name, [p[0] for p in form_and_displays])
 
 # build Mega form display names and slugs
 for mega_slug in mega_list:
     assert "mega" in mega_slug
     slug_words: List[str] = mega_slug.split('-')
     if slug_words[-1] == "mega":  # e.g. aerodactyl-mega
-        species_name = '-'.join(slug_words[0:-1])
-        display_name = f"Mega {species_to_display_name[species_name]}"
-    else: # e.g. charizard-mega-x
+        base_name = '-'.join(slug_words[0:-1])
+        display_name = f"Mega {get_general_display_name(base_name)}"
+    else: # e.g. charizard-mega-x, absol-mega-z
         assert slug_words[-2] == "mega"
         ch = slug_words[-1].upper()
-        species_name = '-'.join(slug_words[0:-2])
-        display_name = f"Mega {species_to_display_name[species_name]} {ch}"
+        base_name = '-'.join(slug_words[0:-2])
+        display_name = f"Mega {get_general_display_name(base_name)} {ch}"
     slug_to_display_name[mega_slug] = display_name
-    assert species_name in species_to_display_name
-    add_new_forms_from_base(species_name, mega_slug)
+    add_new_forms_from_base(base_name, mega_slug)
 
 # build Gigantamax form display names and slugs
 # note: building Gigantamax form data must come after building general form data because
@@ -215,7 +229,7 @@ for base_name in gender_list:
     slug_to_display_name[gender_forms[1]] = f"Female {slug_to_display_name[base_name]}"
     replace_form_with_new_forms(base_name, gender_forms)
 
-print(f"Found {len(all_form_map)} species have visually differnt forms")
+print(f"Found {len(all_form_map)} species have visually different forms")
 print(f"Total forms found: {sum(len(forms) for forms in all_form_map.values())}")
 
 
@@ -234,5 +248,6 @@ for species, forms in all_form_map.items():
     output_json[species] = [(f, slug_to_display_name[f]) for f in forms]
 
 # print(output_json)
-with open(f'AllFormDisplayMap.json', 'w', encoding='utf-8') as f:
+with open(f'AllFormDisplayMap.json', 'w', encoding='utf-8', newline='\r\n') as f:
     json.dump(output_json, f, ensure_ascii=False, indent=4)
+print("Save output to ./AllFormDisplayMap.json")
