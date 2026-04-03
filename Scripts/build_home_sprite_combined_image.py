@@ -3,6 +3,29 @@ Build a combined image that collects all the sprites of all pokemon forms (inclu
 Also build a JSON file to tell which form's sprite is at which location in the combined image.
 
 A combined image is better than a folder of images: our C++ program will load faster with a single image.
+
+Input files/folders:
+- ../../HomeImages/<sprite_size>x<sprite_size>/
+    folder of Pokemon Home sprite dump PNG images. The folder is inside repo "HomeImages". The repo is placed next to Arduino-Source/
+    repo. The repo is maintained by Zyro, at https://github.com/zyro670/HomeImages. 
+    Each file inside is named like poke_capture_<dex_id>_<form_id>_<gender>_<gmax>_<subform_id>_<f/b>_<n/r>.png
+    The commit of the repo this script uses is: 08048a0ca180b3682dfef9d29f6291a2e1083927
+    The sprite_size is controlled by the variable `sprite_size` in this script (currently set to 64).
+- Packages/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json
+    national Pokédex — list of all species slugs, used to determine ordering of sprites in the combined image
+- Packages/SerialPrograms/Resources/Pokemon/AllFormDisplayMap.json
+    maps each species to its visually distinct forms (output of build_all_form_display_map.py)
+- Packages/SerialPrograms/Scripts/AllFormHomeSpriteMap.json
+    maps each form slug (and shiny variant slug) to its Home sprite image filename
+    (filename inside ../../HomeImages/<sprite_size>x<sprite_size>/). This JSON file is the output of
+    build_all_form_home_sprite_map.py.
+
+Output files (written to the current working directory):
+- AllHomeSprites.png
+    combined PNG image with all form sprites (non-shiny first, then shiny) arranged in a grid
+- AllHomeSprites.json
+    JSON with sprite dimensions (spriteHeight, spriteWidth) and the top-left pixel location of each
+    form slug's sprite in AllHomeSprites.png
 """
 
 import os

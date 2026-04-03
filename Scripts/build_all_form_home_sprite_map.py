@@ -1,5 +1,24 @@
 """
-Build a JSON file that maps all forms (shiny forms included) to corresponding Pokemon Home sprite dump images
+Build a JSON file that maps all forms (shiny forms included) to corresponding Pokemon Home sprite dump images.
+
+Input files/folders:
+- ../../HomeImages/128x128/
+    folder of Pokemon Home sprite dump PNG images. The folder is inside repo "HomeImages". The repo is placed next to Arduino-Source/
+    repo. The repo is maintained by Zyro, at https://github.com/zyro670/HomeImages. The folder 128x128 hosts Home sprites of
+    128x128 resolution. Each file inside is named like poke_capture_<dex_id>_<form_id>_<gender>_<gmax>_<subform_id>_<f/b>_<n/r>.png
+    The commit of the repo this script uses is: 08048a0ca180b3682dfef9d29f6291a2e1083927
+- Packages/SerialPrograms/Resources/Pokemon/Pokedex/Pokedex-National.json
+    national Pokédex — list of all species slugs
+- Packages/SerialPrograms/Resources/Pokemon/SpecialPokemonWithNoShinyForm.txt
+    species/forms that have no shiny sprite (one slug per line)
+- Packages/SerialPrograms/Resources/Pokemon/PokemonNameDisplay.json
+    English (and other language) display names for each species
+- Packages/SerialPrograms/Resources/Pokemon/AllFormDisplayMap.json
+    maps each species to its visually distinct forms (output of build_all_form_display_map.py)
+
+Output file (written to the current working directory):
+- AllFormHomeSpriteMap.json
+    maps each form slug (and shiny variant slug) to its corresponding Home sprite image filename
 """
 
 import os
