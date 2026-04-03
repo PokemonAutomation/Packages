@@ -7,7 +7,7 @@ In this doc we define a Pokémon "species" to mean all the Pokémon that share t
 ## Slug
 
 A slug is a string that uniquely identify an object for a program to manage it. Each Pokémon and in-game item needs a slug for SerialPrograms to identify it internally.
-For example, slugs for all the Pokémon species can be found in [Pokedex-National.json](Resources/Pokemon/Pokedex/Pokedex-National.json).
+For example, slugs for all the Pokémon species can be found in [*Pokedex-National.json*](Resources/Pokemon/Pokedex/Pokedex-National.json).
 
 We set a slug to consist only of lowercase letters, digits and hyphens. To sanitize Pokémon names into slugs, we convert white spaces and special characters to hyphens if they are in the middle of a name:
 
@@ -38,7 +38,10 @@ speciesname-regional-generalform-gender-mega-gmax-shiny
 
 ## Descriptions of Resource Files
 
-### Pokemon/AllFormDisplayMap.json
+Resource files are inside *Resources/*.
+Section names below are the file paths relative to *Resources* folder.
+
+### *Pokemon/AllFormDisplayMap.json*
 A dictionary of Pokémon species slug -> list of tuples. Each tuple represents a form of this species. Each tuple has two elements: the first is the form's slug; the second is the English display name of that form.
 
 This file lists all possible Pokémon shape and appearance variations (which we call "forms" in this doc), including gender differences, regional forms, Mega forms, Gigantamax forms, special Terastallized forms, and other general form differences.
@@ -50,9 +53,9 @@ Notes:
 - Different Spinda appearance variations are not counted in this file. There are too many Spinda variations to collect any way!
 - Technical forms that don't have unique appearances are not included in this file. For example, Rockruff has a technical form that has Own Tempo ability. Scatterbug and Spewpa have different technical forms that lead to different Vivillon forms when evolved. We don't count them in this file.
 
-This file is built by Scripts/build_all_form_display_map.py using data in other form-related files.
+This file is built by *Scripts/build_all_form_display_map.py* using data in other form-related files.
 
-### Pokemon/GeneralFormDisplayMap.json
+### *Pokemon/GeneralFormDisplayMap.json*
 A dictionary of Pokémon species slug -> list of tuples. Each tuple represents a form of this species. Each tuple has two elements: the first is the form's slug; the second is the English display name of that form.
 
 This file lists all the general form differences that don't go to catgories of gender differences, regional forms, Mega forms and Gigantamax forms. Since there are only two species having special Terastallized forms, those forms are in this file as well.
@@ -60,27 +63,27 @@ This file lists all the general form differences that don't go to catgories of g
 All the notes for **Pokemon/AllFormDisplayMap.json** apply in this file.
 
 
-### Pokemon/GigantamaxForms.txt
+### *Pokemon/GigantamaxForms.txt*
 Collects all the Gigantamax forms. Each line is a Gigantamax form slug.
 
-### Pokemon/ImpossibleToDiscernForms.txt
+### *Pokemon/ImpossibleToDiscernForms.txt*
 Collects all the form groups that are impossible or almost impossible to tell apart the forms within each group.
 Each line is a such form group, where each group is those form slugs spearated by ", ".
 
-### Pokemon/MajorGenderDifferenceList.txt
+### *Pokemon/MajorGenderDifferenceList.txt*
 Collects all the Pokémon species or regional forms with very different gender appearances.
 Each line is a slug for such Pokémon.
 As of Gen 9, all Pokémon both with gender differences and with Pokédex entry added since Gen 5 have such major gender differences.
 
-### Pokemon/MinorGenderDifferenceList.txt
+### *Pokemon/MinorGenderDifferenceList.txt*
 Collects all the Pokémon species or regional forms with subtle gender appearance differences.
 Each line is a slug for such Pokémon.
 As of Gen 9, all Pokémon both with gender differences and with Pokédex entry in Gen 1 to 4 have such minor gender differences.
 
-### Pokemon/MegaPokemonList.txt
+### *Pokemon/MegaPokemonList.txt*
 Collects slugs of all Pokémon Mega forms. Each line is a Mega slug.
 
-### Pokemon/RegionalForms.json
+### *Pokemon/RegionalForms.json*
 A dictionary of region name slug -> list of Pokémon species that have regional forms there.
 Collects all the regional form data. You can use this JSON file to build all the regional form slugs.
 
