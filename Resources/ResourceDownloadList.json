@@ -4,14 +4,14 @@
       "resourceName" : "PokemonSV/AreaZero",
       "version" : 1,
       "Type" : "ZippedFolder",
-      "CompressedBytes" : 10000000,
-      "DecompressedBytes" : 50000000,
+      "CompressedBytes" : 44276448,
+      "DecompressedBytes" : 53802335,
       "URL": "https://github.com/jw098/Packages/raw/refs/heads/download/DownloadedResources/AreaZero.zip",
       "SHA_256" : "48c299a3335dcd1da5d28dfe0c9e2e2a3174609f894cabf9aa86572d8e3cdbd4"
     },
     {
       "resourceName" : "PaddleOCR",
-      "version" : 2,
+      "version" : 1,
       "Type" : "ZippedFolder",
       "CompressedBytes" : 98822311,
       "DecompressedBytes" : 113693323,
