@@ -5,7 +5,7 @@
       "Version" : 1,
       "CompressedBytes" : 44276448,
       "DecompressedBytes" : 53802335,
-      "URL": "https://github.com/jw098/Packages/raw/refs/heads/download/DownloadedResources/AreaZero.zip",
+      "URL": "https://github.com/PokemonAutomation/Packages/raw/refs/heads/download/DownloadedResources/AreaZero.zip",
       "SHA256" : "7dd01d6b2d0d1ea8d6ac5e588520cdb94fad0322a7ebe1ce22e6b46c61eacb61"
     },
     {
@@ -13,7 +13,7 @@
       "Version" : 1,
       "CompressedBytes" : 98822311,
       "DecompressedBytes" : 113693323,
-      "URL": "https://github.com/jw098/Packages/raw/refs/heads/download/DownloadedResources/PaddleOCR.zip",
+      "URL": "https://github.com/PokemonAutomation/Packages/raw/refs/heads/download/DownloadedResources/PaddleOCR.zip",
       "SHA256" : "1452811f2d9d3eac698c346f6ad6e10fa412413e3ddac0244230dc8e7348c38b"
     }
   ]
