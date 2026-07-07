@@ -39,6 +39,14 @@
         [
             "raichu-alola",
             "Alolan Raichu"
+        ],
+        [
+            "raichu-mega-x",
+            "Mega Raichu X"
+        ],
+        [
+            "raichu-mega-y",
+            "Mega Raichu Y"
         ]
     ],
     "sandshrew": [
@@ -1183,6 +1191,10 @@
         [
             "greninja-ash",
             "Ash-Greninja"
+        ],
+        [
+            "greninja-mega",
+            "Mega Greninja"
         ]
     ],
     "vivillon": [
@@ -1313,6 +1325,10 @@
         [
             "floette-eternal-flower",
             "Floette Eternal Flower"
+        ],
+        [
+            "floette-eternal-flower-mega",
+            "Mega Floette Eternal Flower"
         ]
     ],
     "florges": [
@@ -1447,6 +1463,10 @@
         [
             "zygarde-complete",
             "Zygarde Complete Forme"
+        ],
+        [
+            "zygarde-mega",
+            "Mega Zygarde"
         ]
     ],
     "hoopa": [
@@ -1649,6 +1669,14 @@
         [
             "magearna-original-color",
             "Original Color Magearna"
+        ],
+        [
+            "magearna-mega",
+            "Mega Magearna"
+        ],
+        [
+            "magearna-original-color-mega",
+            "Mega Original Color Magearna"
         ]
     ],
     "cramorant": [
@@ -2151,6 +2179,18 @@
         [
             "tatsugiri-stretchy",
             "Tatsugiri Stretchy Form"
+        ],
+        [
+            "tatsugiri-curly-mega",
+            "Mega Tatsugiri Curly Form"
+        ],
+        [
+            "tatsugiri-droopy-mega",
+            "Mega Tatsugiri Droopy Form"
+        ],
+        [
+            "tatsugiri-stretchy-mega",
+            "Mega Tatsugiri Stretchy Form"
         ]
     ],
     "dudunsparce": [
@@ -2335,6 +2375,36 @@
             "Gigantamax Blastoise"
         ]
     ],
+    "beedrill": [
+        [
+            "beedrill",
+            "Beedrill"
+        ],
+        [
+            "beedrill-mega",
+            "Mega Beedrill"
+        ]
+    ],
+    "pidgeot": [
+        [
+            "pidgeot",
+            "Pidgeot"
+        ],
+        [
+            "pidgeot-mega",
+            "Mega Pidgeot"
+        ]
+    ],
+    "clefable": [
+        [
+            "clefable",
+            "Clefable"
+        ],
+        [
+            "clefable-mega",
+            "Mega Clefable"
+        ]
+    ],
     "alakazam": [
         [
             "alakazam-male",
@@ -2347,6 +2417,16 @@
         [
             "alakazam-mega",
             "Mega Alakazam"
+        ]
+    ],
+    "victreebel": [
+        [
+            "victreebel",
+            "Victreebel"
+        ],
+        [
+            "victreebel-mega",
+            "Mega Victreebel"
         ]
     ],
     "gengar": [
@@ -2371,6 +2451,16 @@
         [
             "kangaskhan-mega",
             "Mega Kangaskhan"
+        ]
+    ],
+    "starmie": [
+        [
+            "starmie",
+            "Starmie"
+        ],
+        [
+            "starmie-mega",
+            "Mega Starmie"
         ]
     ],
     "pinsir": [
@@ -2407,6 +2497,16 @@
             "Mega Aerodactyl"
         ]
     ],
+    "dragonite": [
+        [
+            "dragonite",
+            "Dragonite"
+        ],
+        [
+            "dragonite-mega",
+            "Mega Dragonite"
+        ]
+    ],
     "mewtwo": [
         [
             "mewtwo",
@@ -2421,6 +2521,30 @@
             "Mega Mewtwo Y"
         ]
     ],
+    "meganium": [
+        [
+            "meganium-male",
+            "Male Meganium"
+        ],
+        [
+            "meganium-female",
+            "Female Meganium"
+        ],
+        [
+            "meganium-mega",
+            "Mega Meganium"
+        ]
+    ],
+    "feraligatr": [
+        [
+            "feraligatr",
+            "Feraligatr"
+        ],
+        [
+            "feraligatr-mega",
+            "Mega Feraligatr"
+        ]
+    ],
     "ampharos": [
         [
             "ampharos",
@@ -2429,6 +2553,20 @@
         [
             "ampharos-mega",
             "Mega Ampharos"
+        ]
+    ],
+    "steelix": [
+        [
+            "steelix-male",
+            "Male Steelix"
+        ],
+        [
+            "steelix-female",
+            "Female Steelix"
+        ],
+        [
+            "steelix-mega",
+            "Mega Steelix"
         ]
     ],
     "scizor": [
@@ -2459,6 +2597,16 @@
             "Mega Heracross"
         ]
     ],
+    "skarmory": [
+        [
+            "skarmory",
+            "Skarmory"
+        ],
+        [
+            "skarmory-mega",
+            "Mega Skarmory"
+        ]
+    ],
     "houndoom": [
         [
             "houndoom-male",
@@ -2483,6 +2631,16 @@
             "Mega Tyranitar"
         ]
     ],
+    "sceptile": [
+        [
+            "sceptile",
+            "Sceptile"
+        ],
+        [
+            "sceptile-mega",
+            "Mega Sceptile"
+        ]
+    ],
     "blaziken": [
         [
             "blaziken-male",
@@ -2497,6 +2655,16 @@
             "Mega Blaziken"
         ]
     ],
+    "swampert": [
+        [
+            "swampert",
+            "Swampert"
+        ],
+        [
+            "swampert-mega",
+            "Mega Swampert"
+        ]
+    ],
     "gardevoir": [
         [
             "gardevoir",
@@ -2505,6 +2673,16 @@
         [
             "gardevoir-mega",
             "Mega Gardevoir"
+        ]
+    ],
+    "sableye": [
+        [
+            "sableye",
+            "Sableye"
+        ],
+        [
+            "sableye-mega",
+            "Mega Sableye"
         ]
     ],
     "mawile": [
@@ -2551,148 +2729,6 @@
             "Mega Manectric"
         ]
     ],
-    "banette": [
-        [
-            "banette",
-            "Banette"
-        ],
-        [
-            "banette-mega",
-            "Mega Banette"
-        ]
-    ],
-    "absol": [
-        [
-            "absol",
-            "Absol"
-        ],
-        [
-            "absol-mega",
-            "Mega Absol"
-        ]
-    ],
-    "latias": [
-        [
-            "latias",
-            "Latias"
-        ],
-        [
-            "latias-mega",
-            "Mega Latias"
-        ]
-    ],
-    "latios": [
-        [
-            "latios",
-            "Latios"
-        ],
-        [
-            "latios-mega",
-            "Mega Latios"
-        ]
-    ],
-    "garchomp": [
-        [
-            "garchomp-male",
-            "Male Garchomp"
-        ],
-        [
-            "garchomp-female",
-            "Female Garchomp"
-        ],
-        [
-            "garchomp-mega",
-            "Mega Garchomp"
-        ]
-    ],
-    "lucario": [
-        [
-            "lucario",
-            "Lucario"
-        ],
-        [
-            "lucario-mega",
-            "Mega Lucario"
-        ]
-    ],
-    "abomasnow": [
-        [
-            "abomasnow-male",
-            "Male Abomasnow"
-        ],
-        [
-            "abomasnow-female",
-            "Female Abomasnow"
-        ],
-        [
-            "abomasnow-mega",
-            "Mega Abomasnow"
-        ]
-    ],
-    "beedrill": [
-        [
-            "beedrill",
-            "Beedrill"
-        ],
-        [
-            "beedrill-mega",
-            "Mega Beedrill"
-        ]
-    ],
-    "pidgeot": [
-        [
-            "pidgeot",
-            "Pidgeot"
-        ],
-        [
-            "pidgeot-mega",
-            "Mega Pidgeot"
-        ]
-    ],
-    "steelix": [
-        [
-            "steelix-male",
-            "Male Steelix"
-        ],
-        [
-            "steelix-female",
-            "Female Steelix"
-        ],
-        [
-            "steelix-mega",
-            "Mega Steelix"
-        ]
-    ],
-    "sceptile": [
-        [
-            "sceptile",
-            "Sceptile"
-        ],
-        [
-            "sceptile-mega",
-            "Mega Sceptile"
-        ]
-    ],
-    "swampert": [
-        [
-            "swampert",
-            "Swampert"
-        ],
-        [
-            "swampert-mega",
-            "Mega Swampert"
-        ]
-    ],
-    "sableye": [
-        [
-            "sableye",
-            "Sableye"
-        ],
-        [
-            "sableye-mega",
-            "Mega Sableye"
-        ]
-    ],
     "sharpedo": [
         [
             "sharpedo",
@@ -2727,6 +2763,40 @@
             "Mega Altaria"
         ]
     ],
+    "banette": [
+        [
+            "banette",
+            "Banette"
+        ],
+        [
+            "banette-mega",
+            "Mega Banette"
+        ]
+    ],
+    "chimecho": [
+        [
+            "chimecho",
+            "Chimecho"
+        ],
+        [
+            "chimecho-mega",
+            "Mega Chimecho"
+        ]
+    ],
+    "absol": [
+        [
+            "absol",
+            "Absol"
+        ],
+        [
+            "absol-mega",
+            "Mega Absol"
+        ],
+        [
+            "absol-mega-z",
+            "Mega Absol Z"
+        ]
+    ],
     "glalie": [
         [
             "glalie",
@@ -2757,6 +2827,26 @@
             "Mega Metagross"
         ]
     ],
+    "latias": [
+        [
+            "latias",
+            "Latias"
+        ],
+        [
+            "latias-mega",
+            "Mega Latias"
+        ]
+    ],
+    "latios": [
+        [
+            "latios",
+            "Latios"
+        ],
+        [
+            "latios-mega",
+            "Mega Latios"
+        ]
+    ],
     "rayquaza": [
         [
             "rayquaza",
@@ -2765,6 +2855,20 @@
         [
             "rayquaza-mega",
             "Mega Rayquaza"
+        ]
+    ],
+    "staraptor": [
+        [
+            "staraptor-male",
+            "Male Staraptor"
+        ],
+        [
+            "staraptor-female",
+            "Female Staraptor"
+        ],
+        [
+            "staraptor-mega",
+            "Mega Staraptor"
         ]
     ],
     "lopunny": [
@@ -2777,6 +2881,52 @@
             "Mega Lopunny"
         ]
     ],
+    "garchomp": [
+        [
+            "garchomp-male",
+            "Male Garchomp"
+        ],
+        [
+            "garchomp-female",
+            "Female Garchomp"
+        ],
+        [
+            "garchomp-mega",
+            "Mega Garchomp"
+        ],
+        [
+            "garchomp-mega-z",
+            "Mega Garchomp Z"
+        ]
+    ],
+    "lucario": [
+        [
+            "lucario",
+            "Lucario"
+        ],
+        [
+            "lucario-mega",
+            "Mega Lucario"
+        ],
+        [
+            "lucario-mega-z",
+            "Mega Lucario Z"
+        ]
+    ],
+    "abomasnow": [
+        [
+            "abomasnow-male",
+            "Male Abomasnow"
+        ],
+        [
+            "abomasnow-female",
+            "Female Abomasnow"
+        ],
+        [
+            "abomasnow-mega",
+            "Mega Abomasnow"
+        ]
+    ],
     "gallade": [
         [
             "gallade",
@@ -2785,6 +2935,56 @@
         [
             "gallade-mega",
             "Mega Gallade"
+        ]
+    ],
+    "froslass": [
+        [
+            "froslass",
+            "Froslass"
+        ],
+        [
+            "froslass-mega",
+            "Mega Froslass"
+        ]
+    ],
+    "heatran": [
+        [
+            "heatran",
+            "Heatran"
+        ],
+        [
+            "heatran-mega",
+            "Mega Heatran"
+        ]
+    ],
+    "darkrai": [
+        [
+            "darkrai",
+            "Darkrai"
+        ],
+        [
+            "darkrai-mega",
+            "Mega Darkrai"
+        ]
+    ],
+    "emboar": [
+        [
+            "emboar",
+            "Emboar"
+        ],
+        [
+            "emboar-mega",
+            "Mega Emboar"
+        ]
+    ],
+    "excadrill": [
+        [
+            "excadrill",
+            "Excadrill"
+        ],
+        [
+            "excadrill-mega",
+            "Mega Excadrill"
         ]
     ],
     "audino": [
@@ -2797,6 +2997,144 @@
             "Mega Audino"
         ]
     ],
+    "scolipede": [
+        [
+            "scolipede",
+            "Scolipede"
+        ],
+        [
+            "scolipede-mega",
+            "Mega Scolipede"
+        ]
+    ],
+    "scrafty": [
+        [
+            "scrafty",
+            "Scrafty"
+        ],
+        [
+            "scrafty-mega",
+            "Mega Scrafty"
+        ]
+    ],
+    "eelektross": [
+        [
+            "eelektross",
+            "Eelektross"
+        ],
+        [
+            "eelektross-mega",
+            "Mega Eelektross"
+        ]
+    ],
+    "chandelure": [
+        [
+            "chandelure",
+            "Chandelure"
+        ],
+        [
+            "chandelure-mega",
+            "Mega Chandelure"
+        ]
+    ],
+    "golurk": [
+        [
+            "golurk",
+            "Golurk"
+        ],
+        [
+            "golurk-mega",
+            "Mega Golurk"
+        ]
+    ],
+    "chesnaught": [
+        [
+            "chesnaught",
+            "Chesnaught"
+        ],
+        [
+            "chesnaught-mega",
+            "Mega Chesnaught"
+        ]
+    ],
+    "delphox": [
+        [
+            "delphox",
+            "Delphox"
+        ],
+        [
+            "delphox-mega",
+            "Mega Delphox"
+        ]
+    ],
+    "pyroar": [
+        [
+            "pyroar-male",
+            "Male Pyroar"
+        ],
+        [
+            "pyroar-female",
+            "Female Pyroar"
+        ],
+        [
+            "pyroar-mega",
+            "Mega Pyroar"
+        ]
+    ],
+    "meowstic": [
+        [
+            "meowstic-male",
+            "Male Meowstic"
+        ],
+        [
+            "meowstic-female",
+            "Female Meowstic"
+        ],
+        [
+            "meowstic-mega",
+            "Mega Meowstic"
+        ]
+    ],
+    "malamar": [
+        [
+            "malamar",
+            "Malamar"
+        ],
+        [
+            "malamar-mega",
+            "Mega Malamar"
+        ]
+    ],
+    "barbaracle": [
+        [
+            "barbaracle",
+            "Barbaracle"
+        ],
+        [
+            "barbaracle-mega",
+            "Mega Barbaracle"
+        ]
+    ],
+    "dragalge": [
+        [
+            "dragalge",
+            "Dragalge"
+        ],
+        [
+            "dragalge-mega",
+            "Mega Dragalge"
+        ]
+    ],
+    "hawlucha": [
+        [
+            "hawlucha",
+            "Hawlucha"
+        ],
+        [
+            "hawlucha-mega",
+            "Mega Hawlucha"
+        ]
+    ],
     "diancie": [
         [
             "diancie",
@@ -2805,6 +3143,86 @@
         [
             "diancie-mega",
             "Mega Diancie"
+        ]
+    ],
+    "crabominable": [
+        [
+            "crabominable",
+            "Crabominable"
+        ],
+        [
+            "crabominable-mega",
+            "Mega Crabominable"
+        ]
+    ],
+    "golisopod": [
+        [
+            "golisopod",
+            "Golisopod"
+        ],
+        [
+            "golisopod-mega",
+            "Mega Golisopod"
+        ]
+    ],
+    "drampa": [
+        [
+            "drampa",
+            "Drampa"
+        ],
+        [
+            "drampa-mega",
+            "Mega Drampa"
+        ]
+    ],
+    "zeraora": [
+        [
+            "zeraora",
+            "Zeraora"
+        ],
+        [
+            "zeraora-mega",
+            "Mega Zeraora"
+        ]
+    ],
+    "falinks": [
+        [
+            "falinks",
+            "Falinks"
+        ],
+        [
+            "falinks-mega",
+            "Mega Falinks"
+        ]
+    ],
+    "scovillain": [
+        [
+            "scovillain",
+            "Scovillain"
+        ],
+        [
+            "scovillain-mega",
+            "Mega Scovillain"
+        ]
+    ],
+    "glimmora": [
+        [
+            "glimmora",
+            "Glimmora"
+        ],
+        [
+            "glimmora-mega",
+            "Mega Glimmora"
+        ]
+    ],
+    "baxcalibur": [
+        [
+            "baxcalibur",
+            "Baxcalibur"
+        ],
+        [
+            "baxcalibur-mega",
+            "Mega Baxcalibur"
         ]
     ],
     "butterfree": [
@@ -3185,16 +3603,6 @@
             "Female Magikarp"
         ]
     ],
-    "meganium": [
-        [
-            "meganium-male",
-            "Male Meganium"
-        ],
-        [
-            "meganium-female",
-            "Female Meganium"
-        ]
-    ],
     "ledyba": [
         [
             "ledyba-male",
@@ -3515,16 +3923,6 @@
             "Female Staravia"
         ]
     ],
-    "staraptor": [
-        [
-            "staraptor-male",
-            "Male Staraptor"
-        ],
-        [
-            "staraptor-female",
-            "Female Staraptor"
-        ]
-    ],
     "bidoof": [
         [
             "bidoof-male",
@@ -3813,26 +4211,6 @@
         [
             "jellicent-female",
             "Female Jellicent"
-        ]
-    ],
-    "pyroar": [
-        [
-            "pyroar-male",
-            "Male Pyroar"
-        ],
-        [
-            "pyroar-female",
-            "Female Pyroar"
-        ]
-    ],
-    "meowstic": [
-        [
-            "meowstic-male",
-            "Male Meowstic"
-        ],
-        [
-            "meowstic-female",
-            "Female Meowstic"
         ]
     ],
     "indeedee": [
