@@ -3254,8 +3254,17 @@
     "natID": 229,
     "primaryType": "dark",
     "secondaryType": "fire",
-    "slug": "houndoom",
-    "has_gender_difference": false
+    "slug": "houndoom-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "houndoom",
+    "form_slug": "none",
+    "natID": 229,
+    "primaryType": "dark",
+    "secondaryType": "fire",
+    "slug": "houndoom-female",
+    "has_gender_difference": true
   },
   {
     "species_slug": "kingdra",
