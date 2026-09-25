@@ -3,10 +3,10 @@
     {
       "ResourceName": "Tesseract",
       "Version": 1,
-      "CompressedBytes": 101891112,
-      "DecompressedBytes": 231785960,
+      "CompressedBytes": 101891235,
+      "DecompressedBytes": 231785983,
       "URL": "https://github.com/PokemonAutomation/Packages/raw/refs/heads/master/DownloadedResources/Tesseract.zip",
-      "SHA256": "aeaa2b9ac209533d9901ade31ba85cffd04f64bcb21c52072395f4d1cb57f1cc"
+      "SHA256": "c9413cb234a291bb29351610000cc60e38ff13a91fda64ccc179784af876a22f"
     },
     {
       "ResourceName": "PokemonSV/AreaZero",
