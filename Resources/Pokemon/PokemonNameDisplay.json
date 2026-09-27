@@ -2559,7 +2559,7 @@
         "deu": "Porygon2",
         "ita": "Porygon2",
         "kor": "폴리곤2",
-        "chi_sim": "多边兽２",
+        "chi_sim": "多边兽２型",
         "chi_tra": "多邊獸２"
     },
     "stantler": {
@@ -5210,7 +5210,7 @@
         "deu": "Porygon-Z",
         "ita": "Porygon-Z",
         "kor": "폴리곤Z",
-        "chi_sim": "多边兽Ｚ",
+        "chi_sim": "多边兽乙型",
         "chi_tra": "多邊獸Ｚ"
     },
     "gallade": {
@@ -6189,7 +6189,7 @@
         "deu": "Echnatoll",
         "ita": "Cofagrigus",
         "kor": "데스니칸",
-        "chi_sim": "死神棺",
+        "chi_sim": "迭失棺",
         "chi_tra": "死神棺"
     },
     "tirtouga": {
@@ -7421,7 +7421,7 @@
         "deu": "Pandagro",
         "ita": "Pangoro",
         "kor": "부란다",
-        "chi_sim": "流氓熊猫",
+        "chi_sim": "霸道熊猫",
         "chi_tra": "流氓熊貓"
     },
     "furfrou": {
@@ -8554,7 +8554,7 @@
         "deu": "Mimigma",
         "ita": "Mimikyu",
         "kor": "따라큐",
-        "chi_sim": "谜拟Ｑ",
+        "chi_sim": "谜拟丘",
         "chi_tra": "謎擬Ｑ"
     },
     "bruxish": {
@@ -9093,7 +9093,7 @@
         "deu": "Kleptifux",
         "ita": "Nickit",
         "kor": "훔처우",
-        "chi_sim": "偷儿狐",
+        "chi_sim": "狡小狐",
         "chi_tra": "偷兒狐"
     },
     "thievul": {
@@ -9104,7 +9104,7 @@
         "deu": "Gaunux",
         "ita": "Thievul",
         "kor": "폭슬라이",
-        "chi_sim": "狐大盗",
+        "chi_sim": "猾大狐",
         "chi_tra": "狐大盜"
     },
     "gossifleur": {
