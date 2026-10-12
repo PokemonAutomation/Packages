@@ -1,0 +1,85 @@
+{
+    "eng": {
+        "poke-ball": [
+            "Poké Ball"
+        ],
+        "great-ball": [
+            "Great Ball"
+        ],
+        "ultra-ball": [
+            "Ultra Ball"
+        ],
+        "heal-ball": [
+            "Heal Ball"
+        ],
+        "net-ball": [
+            "Net Ball"
+        ],
+        "nest-ball": [
+            "Nest Ball"
+        ],
+        "dusk-ball": [
+            "Dusk Ball"
+        ],
+        "quick-ball": [
+            "Quick Ball"
+        ],
+        "timer-ball": [
+            "Timer Ball"
+        ],
+        "repeat-ball": [
+            "Repeat Ball"
+        ],
+        "luxury-ball": [
+            "Luxury Ball"
+        ],
+        "potion": [
+            "Potion"
+        ],
+        "super-potion": [
+            "Super Potion"
+        ],
+        "hyper-potion": [
+            "Hyper Potion"
+        ],
+        "max-potion": [
+            "Max Potion"
+        ],
+        "full-restore": [
+            "Full Restore"
+        ],
+        "revive": [
+            "Revive"
+        ],
+        "antidote": [
+            "Antidote"
+        ],
+        "paralyze-heal": [
+            "Paralyze Heal"
+        ],
+        "awakening": [
+            "Awakening"
+        ],
+        "burn-heal": [
+            "Burn Heal"
+        ],
+        "ice-heal": [
+            "Ice Heal"
+        ],
+        "full-heal": [
+            "Full Heal"
+        ],
+        "escape-rope": [
+            "Escape Rope"
+        ],
+        "repel": [
+            "Repel"
+        ],
+        "super-repel": [
+            "Super Repel"
+        ],
+        "max-repel": [
+            "Max Repel"
+        ]
+    }
+}
