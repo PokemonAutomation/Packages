@@ -5864,8 +5864,17 @@
     "natID": 461,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "slug": "weavile",
-    "has_gender_difference": false
+    "slug": "weavile-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "weavile",
+    "form_slug": "none",
+    "natID": 461,
+    "primaryType": "dark",
+    "secondaryType": "ice",
+    "slug": "weavile-female",
+    "has_gender_difference": true
   },
   {
     "species_slug": "magnezone",

@@ -1765,15 +1765,6 @@
   },
   {
     "species_slug": "wooper",
-    "form_slug": "paldean",
-    "natID": 194,
-    "primaryType": "poison",
-    "secondaryType": "ground",
-    "slug": "wooper-paldean",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "wooper",
     "form_slug": "none",
     "natID": 194,
     "primaryType": "water",
@@ -4244,8 +4235,8 @@
     "natID": 461,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "slug": "weavile",
-    "has_gender_difference": false
+    "slug": "weavile-male",
+    "has_gender_difference": true
   },
   {
     "species_slug": "magnezone",
@@ -10135,6 +10126,15 @@
   },
   {
     "species_slug": "wooper",
+    "form_slug": "paldean",
+    "natID": 194,
+    "primaryType": "poison",
+    "secondaryType": "ground",
+    "slug": "wooper-paldean",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wooper",
     "form_slug": "none",
     "natID": 194,
     "primaryType": "water",
@@ -10995,6 +10995,15 @@
     "primaryType": "grass",
     "secondaryType": "ice",
     "slug": "abomasnow-female",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "weavile",
+    "form_slug": "none",
+    "natID": 461,
+    "primaryType": "dark",
+    "secondaryType": "ice",
+    "slug": "weavile-female",
     "has_gender_difference": true
   },
   {
