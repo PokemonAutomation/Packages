@@ -1,0 +1,1046 @@
+{
+  "templates": [
+    {
+      "label": "Ultra Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 1
+    },
+    {
+      "label": "Premier Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 2
+    },
+    {
+      "label": "Quick Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 3
+    },
+    {
+      "label": "Timer Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 4
+    },
+    {
+      "label": "Repeat Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 5
+    },
+    {
+      "label": "Dusk Ball",
+      "image": "ball_pocket_6items.png",
+      "row": 6
+    },
+    {
+      "label": "X Defense",
+      "image": "battle_items_pocket_6items.png",
+      "row": 1
+    },
+    {
+      "label": "Guard Spec.",
+      "image": "battle_items_pocket_6items.png",
+      "row": 2
+    },
+    {
+      "label": "X Speed",
+      "image": "battle_items_pocket_6items.png",
+      "row": 3
+    },
+    {
+      "label": "X Sp. Def",
+      "image": "battle_items_pocket_6items.png",
+      "row": 4
+    },
+    {
+      "label": "X Sp. Atk",
+      "image": "battle_items_pocket_6items.png",
+      "row": 5
+    },
+    {
+      "label": "Poké Doll",
+      "image": "battle_items_pocket_6items.png",
+      "row": 6
+    },
+    {
+      "label": "Pecha Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 1
+    },
+    {
+      "label": "Chesto Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 2
+    },
+    {
+      "label": "Oran Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 3
+    },
+    {
+      "label": "Lum Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 4
+    },
+    {
+      "label": "Tamato Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 5
+    },
+    {
+      "label": "Sitrus Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 6
+    },
+    {
+      "label": "Aspear Berry",
+      "image": "berries_pocket_7items.png",
+      "row": 7
+    },
+    {
+      "label": "Guidebook",
+      "image": "key_items_pocket.png",
+      "row": 1
+    },
+    {
+      "label": "Works Key",
+      "image": "key_items_pocket.png",
+      "row": 2
+    },
+    {
+      "label": "Explorer Kit",
+      "image": "key_items_pocket.png",
+      "row": 3
+    },
+    {
+      "label": "Bike",
+      "image": "key_items_pocket.png",
+      "row": 4
+    },
+    {
+      "label": "Vs. Seeker",
+      "image": "key_items_pocket.png",
+      "row": 5
+    },
+    {
+      "label": "Secret Medicine",
+      "image": "key_items_pocket.png",
+      "row": 6
+    },
+    {
+      "label": "Galactic Key",
+      "image": "key_items_pocket.png",
+      "row": 7
+    },
+    {
+      "label": "Antidote",
+      "image": "medicine_pocket_7items.png",
+      "row": 1
+    },
+    {
+      "label": "Revive",
+      "image": "medicine_pocket_7items.png",
+      "row": 2
+    },
+    {
+      "label": "Ether",
+      "image": "medicine_pocket_7items.png",
+      "row": 3
+    },
+    {
+      "label": "Full Heal",
+      "image": "medicine_pocket_7items.png",
+      "row": 4
+    },
+    {
+      "label": "Max Potion",
+      "image": "medicine_pocket_7items.png",
+      "row": 5
+    },
+    {
+      "label": "Max Ether",
+      "image": "medicine_pocket_7items.png",
+      "row": 6
+    },
+    {
+      "label": "Hyper Potion",
+      "image": "medicine_pocket_7items.png",
+      "row": 7
+    },
+    {
+      "label": "Potion",
+      "image": "medicine_pocket_potion_1.png",
+      "row": 1
+    },
+    {
+      "label": "Amulet Coin",
+      "image": "other_items_name_sort_position1.png",
+      "row": 1
+    },
+    {
+      "label": "Calcium",
+      "image": "other_items_name_sort_position1.png",
+      "row": 2
+    },
+    {
+      "label": "Carbos",
+      "image": "other_items_name_sort_position1.png",
+      "row": 3
+    },
+    {
+      "label": "Charcoal",
+      "image": "other_items_name_sort_position1.png",
+      "row": 4
+    },
+    {
+      "label": "Choice Specs",
+      "image": "other_items_name_sort_position1.png",
+      "row": 5
+    },
+    {
+      "label": "Cleanse Tag",
+      "image": "other_items_name_sort_position1.png",
+      "row": 6
+    },
+    {
+      "label": "Destiny Knot",
+      "image": "other_items_name_sort_position1.png",
+      "row": 7
+    },
+    {
+      "label": "Escape Rope",
+      "image": "other_items_pocket_escape_1.png",
+      "row": 1
+    },
+    {
+      "label": "Super Repel",
+      "image": "other_items_type_sort.png",
+      "row": 1
+    },
+    {
+      "label": "Max Repel",
+      "image": "other_items_type_sort.png",
+      "row": 2
+    },
+    {
+      "label": "Honey",
+      "image": "other_items_type_sort.png",
+      "row": 4
+    },
+    {
+      "label": "Red Shard",
+      "image": "other_items_type_sort.png",
+      "row": 5
+    },
+    {
+      "label": "Rare Candy",
+      "image": "other_items_type_sort.png",
+      "row": 6
+    },
+    {
+      "label": "PP Up",
+      "image": "other_items_type_sort.png",
+      "row": 7
+    },
+    {
+      "label": "TM06",
+      "image": "tms_pocket_7items.png",
+      "row": 1
+    },
+    {
+      "label": "TM11",
+      "image": "tms_pocket_7items.png",
+      "row": 2
+    },
+    {
+      "label": "TM14",
+      "image": "tms_pocket_7items.png",
+      "row": 3
+    },
+    {
+      "label": "TM35",
+      "image": "tms_pocket_7items.png",
+      "row": 4
+    },
+    {
+      "label": "TM37",
+      "image": "tms_pocket_7items.png",
+      "row": 5
+    },
+    {
+      "label": "TM42",
+      "image": "tms_pocket_7items.png",
+      "row": 6
+    },
+    {
+      "label": "TM43",
+      "image": "tms_pocket_7items.png",
+      "row": 7
+    },
+    {
+      "label": "Nugget",
+      "image": "treasures_pocket_6items.png",
+      "row": 1
+    },
+    {
+      "label": "Star Piece",
+      "image": "treasures_pocket_6items.png",
+      "row": 2
+    },
+    {
+      "label": "Big Pearl",
+      "image": "treasures_pocket_6items.png",
+      "row": 3
+    },
+    {
+      "label": "Big Mushroom",
+      "image": "treasures_pocket_6items.png",
+      "row": 4
+    },
+    {
+      "label": "Armor Fossil",
+      "image": "treasures_pocket_6items.png",
+      "row": 5
+    },
+    {
+      "label": "Rare Bone",
+      "image": "treasures_pocket_6items.png",
+      "row": 6
+    },
+    {
+      "label": "Dusk Stone",
+      "image": "screenshot-20261004-122615633626.png",
+      "row": 7
+    }
+  ],
+  "cases": [
+    {
+      "image": "ball_pocket_6items.png",
+      "cursor": 1,
+      "items": [
+        "Ultra Ball",
+        "Premier Ball",
+        "Quick Ball",
+        "Timer Ball",
+        "Repeat Ball",
+        "Dusk Ball",
+        ""
+      ],
+      "queries": [
+        {
+          "item": "Ultra Ball",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Premier Ball",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Quick Ball",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Timer Ball",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Repeat Ball",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Dusk Ball",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "battle_items_pocket_6items.png",
+      "cursor": 1,
+      "items": [
+        "X Defense",
+        "Guard Spec.",
+        "X Speed",
+        "X Sp. Def",
+        "X Sp. Atk",
+        "Poké Doll",
+        ""
+      ],
+      "queries": [
+        {
+          "item": "X Defense",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Guard Spec.",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "X Speed",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "X Sp. Def",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "X Sp. Atk",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Poké Doll",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "berries_pocket_7items.png",
+      "cursor": 1,
+      "items": [
+        "Pecha Berry",
+        "Chesto Berry",
+        "Oran Berry",
+        "Lum Berry",
+        "Tamato Berry",
+        "Sitrus Berry",
+        "Aspear Berry"
+      ],
+      "queries": [
+        {
+          "item": "Pecha Berry",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Chesto Berry",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Oran Berry",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Lum Berry",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Tamato Berry",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Sitrus Berry",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Aspear Berry",
+          "action": "Down",
+          "presses": 6
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "key_items_pocket.png",
+      "cursor": 1,
+      "items": [
+        "Guidebook",
+        "Works Key",
+        "Explorer Kit",
+        "Bike",
+        "Vs. Seeker",
+        "Secret Medicine",
+        "Galactic Key"
+      ],
+      "queries": [
+        {
+          "item": "Guidebook",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Works Key",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Explorer Kit",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Bike",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Vs. Seeker",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Secret Medicine",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Galactic Key",
+          "action": "Down",
+          "presses": 6
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "medicine_pocket_7items.png",
+      "cursor": 1,
+      "items": [
+        "Antidote",
+        "Revive",
+        "Ether",
+        "Full Heal",
+        "Max Potion",
+        "Max Ether",
+        "Hyper Potion"
+      ],
+      "queries": [
+        {
+          "item": "Antidote",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Revive",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Ether",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Full Heal",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Max Potion",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Max Ether",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Hyper Potion",
+          "action": "Down",
+          "presses": 6
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "medicine_pocket_potion_1.png",
+      "cursor": 1,
+      "items": [
+        "Potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "queries": [
+        {
+          "item": "Potion",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "other_items_name_sort_position1.png",
+      "cursor": 1,
+      "items": [
+        "Amulet Coin",
+        "Calcium",
+        "Carbos",
+        "Charcoal",
+        "Choice Specs",
+        "Cleanse Tag",
+        "Destiny Knot"
+      ],
+      "queries": [
+        {
+          "item": "Amulet Coin",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Calcium",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Carbos",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Charcoal",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Choice Specs",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Cleanse Tag",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Destiny Knot",
+          "action": "Down",
+          "presses": 6
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "other_items_name_sort_position6.png",
+      "cursor": 6,
+      "items": [
+        "Amulet Coin",
+        "Calcium",
+        "Carbos",
+        "Charcoal",
+        "Choice Specs",
+        "Cleanse Tag",
+        "Destiny Knot"
+      ],
+      "queries": [
+        {
+          "item": "Amulet Coin",
+          "action": "Up",
+          "presses": 5
+        },
+        {
+          "item": "Calcium",
+          "action": "Up",
+          "presses": 4
+        },
+        {
+          "item": "Carbos",
+          "action": "Up",
+          "presses": 3
+        },
+        {
+          "item": "Charcoal",
+          "action": "Up",
+          "presses": 2
+        },
+        {
+          "item": "Choice Specs",
+          "action": "Up",
+          "presses": 1
+        },
+        {
+          "item": "Cleanse Tag",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Destiny Knot",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 7
+        }
+      ]
+    },
+    {
+      "image": "other_items_pocket_escape_1.png",
+      "cursor": 1,
+      "items": [
+        "Escape Rope",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "queries": [
+        {
+          "item": "Escape Rope",
+          "action": "Confirm",
+          "presses": 0
+        }
+      ]
+    },
+    {
+      "image": "other_items_type_sort.png",
+      "cursor": 1,
+      "items": [
+        "Super Repel",
+        "Max Repel",
+        "Escape Rope",
+        "Honey",
+        "Red Shard",
+        "Rare Candy",
+        "PP Up"
+      ],
+      "queries": [
+        {
+          "item": "Super Repel",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Max Repel",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Honey",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Red Shard",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Rare Candy",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "PP Up",
+          "action": "Down",
+          "presses": 6
+        }
+      ]
+    },
+    {
+      "image": "tms_pocket_7items.png",
+      "cursor": 1,
+      "items": [
+        "TM06",
+        "TM11",
+        "TM14",
+        "TM35",
+        "TM37",
+        "TM42",
+        "TM43"
+      ],
+      "queries": [
+        {
+          "item": "TM06",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "TM11",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "TM14",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "TM35",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "TM37",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "TM42",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "TM43",
+          "action": "Down",
+          "presses": 6
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "treasures_pocket_6items.png",
+      "cursor": 1,
+      "items": [
+        "Nugget",
+        "Star Piece",
+        "Big Pearl",
+        "Big Mushroom",
+        "Armor Fossil",
+        "Rare Bone",
+        ""
+      ],
+      "queries": [
+        {
+          "item": "Nugget",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Star Piece",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Big Pearl",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Big Mushroom",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Armor Fossil",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Rare Bone",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 13
+        }
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122615633626.png",
+      "cursor": 6,
+      "items": [
+        "Calcium",
+        "Carbos",
+        "Charcoal",
+        "Choice Specs",
+        "Cleanse Tag",
+        "Destiny Knot",
+        "Dusk Stone"
+      ],
+      "queries": [
+        {
+          "item": "Calcium",
+          "action": "Up",
+          "presses": 5
+        },
+        {
+          "item": "Carbos",
+          "action": "Up",
+          "presses": 4
+        },
+        {
+          "item": "Charcoal",
+          "action": "Up",
+          "presses": 3
+        },
+        {
+          "item": "Choice Specs",
+          "action": "Up",
+          "presses": 2
+        },
+        {
+          "item": "Cleanse Tag",
+          "action": "Up",
+          "presses": 1
+        },
+        {
+          "item": "Destiny Knot",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 7
+        }
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122623647403.png",
+      "cursor": 2,
+      "items": [
+        "Calcium",
+        "Carbos",
+        "Charcoal",
+        "Choice Specs",
+        "Cleanse Tag",
+        "Destiny Knot",
+        "Dusk Stone"
+      ],
+      "queries": [
+        {
+          "item": "Calcium",
+          "action": "Up",
+          "presses": 1
+        },
+        {
+          "item": "Carbos",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Charcoal",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Choice Specs",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Cleanse Tag",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Destiny Knot",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 11
+        }
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122626774941.png",
+      "cursor": 2,
+      "items": [
+        "Amulet Coin",
+        "Calcium",
+        "Carbos",
+        "Charcoal",
+        "Choice Specs",
+        "Cleanse Tag",
+        "Destiny Knot"
+      ],
+      "queries": [
+        {
+          "item": "Amulet Coin",
+          "action": "Up",
+          "presses": 1
+        },
+        {
+          "item": "Calcium",
+          "action": "Confirm",
+          "presses": 0
+        },
+        {
+          "item": "Carbos",
+          "action": "Down",
+          "presses": 1
+        },
+        {
+          "item": "Charcoal",
+          "action": "Down",
+          "presses": 2
+        },
+        {
+          "item": "Choice Specs",
+          "action": "Down",
+          "presses": 3
+        },
+        {
+          "item": "Cleanse Tag",
+          "action": "Down",
+          "presses": 4
+        },
+        {
+          "item": "Destiny Knot",
+          "action": "Down",
+          "presses": 5
+        },
+        {
+          "item": "Escape Rope",
+          "action": "Page down",
+          "presses": 11
+        }
+      ]
+    }
+  ]
+}
