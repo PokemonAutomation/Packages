@@ -1,0 +1,89 @@
+{
+  "cases": [
+    {
+      "image": "pockets/male_medicine.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "pockets/male_poke_balls.png",
+      "pocket": 2,
+      "empty": false
+    },
+    {
+      "image": "pockets/male_battle_items.png",
+      "pocket": 3,
+      "empty": true
+    },
+    {
+      "image": "pockets/male_berries.png",
+      "pocket": 4,
+      "empty": true
+    },
+    {
+      "image": "pockets/male_other_items.png",
+      "pocket": 5,
+      "empty": true
+    },
+    {
+      "image": "pockets/male_tms.png",
+      "pocket": 6,
+      "empty": false
+    },
+    {
+      "image": "pockets/male_treasures.png",
+      "pocket": 7,
+      "empty": true
+    },
+    {
+      "image": "pockets/male_key_items.png",
+      "pocket": 8,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_medicine.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_poke_balls.png",
+      "pocket": 2,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_battle_items.png",
+      "pocket": 3,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_berries.png",
+      "pocket": 4,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_other_items.png",
+      "pocket": 5,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_tms.png",
+      "pocket": 6,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_treasures.png",
+      "pocket": 7,
+      "empty": false
+    },
+    {
+      "image": "pockets/female_key_items.png",
+      "pocket": 8,
+      "empty": false
+    },
+    {
+      "image": "pockets/male_medicine_new_badges.png",
+      "pocket": 1,
+      "empty": false
+    }
+  ]
+}
