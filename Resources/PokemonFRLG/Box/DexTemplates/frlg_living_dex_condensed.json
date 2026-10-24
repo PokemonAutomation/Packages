@@ -1,0 +1,1928 @@
+[
+  {
+    "species_slug": "bulbasaur",
+    "form_slug": "none",
+    "natID": 1,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "bulbasaur",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ivysaur",
+    "form_slug": "none",
+    "natID": 2,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "ivysaur",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "venusaur",
+    "form_slug": "none",
+    "natID": 3,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "venusaur-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "charmander",
+    "form_slug": "none",
+    "natID": 4,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "charmander",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "charmeleon",
+    "form_slug": "none",
+    "natID": 5,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "charmeleon",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "charizard",
+    "form_slug": "none",
+    "natID": 6,
+    "primaryType": "fire",
+    "secondaryType": "flying",
+    "slug": "charizard",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "squirtle",
+    "form_slug": "none",
+    "natID": 7,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "squirtle",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wartortle",
+    "form_slug": "none",
+    "natID": 8,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "wartortle",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "blastoise",
+    "form_slug": "none",
+    "natID": 9,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "blastoise",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "caterpie",
+    "form_slug": "none",
+    "natID": 10,
+    "primaryType": "bug",
+    "secondaryType": null,
+    "slug": "caterpie",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "metapod",
+    "form_slug": "none",
+    "natID": 11,
+    "primaryType": "bug",
+    "secondaryType": null,
+    "slug": "metapod",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "butterfree",
+    "form_slug": "none",
+    "natID": 12,
+    "primaryType": "bug",
+    "secondaryType": "flying",
+    "slug": "butterfree-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "weedle",
+    "form_slug": "none",
+    "natID": 13,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "weedle",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kakuna",
+    "form_slug": "none",
+    "natID": 14,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "kakuna",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "beedrill",
+    "form_slug": "none",
+    "natID": 15,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "beedrill",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pidgey",
+    "form_slug": "none",
+    "natID": 16,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "pidgey",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pidgeotto",
+    "form_slug": "none",
+    "natID": 17,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "pidgeotto",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pidgeot",
+    "form_slug": "none",
+    "natID": 18,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "pidgeot",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "rattata",
+    "form_slug": "none",
+    "natID": 19,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "rattata-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "raticate",
+    "form_slug": "none",
+    "natID": 20,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "raticate-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "spearow",
+    "form_slug": "none",
+    "natID": 21,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "spearow",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "fearow",
+    "form_slug": "none",
+    "natID": 22,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "fearow",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ekans",
+    "form_slug": "none",
+    "natID": 23,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "ekans",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "arbok",
+    "form_slug": "none",
+    "natID": 24,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "arbok",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pikachu",
+    "form_slug": "none",
+    "natID": 25,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "pikachu-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "raichu",
+    "form_slug": "none",
+    "natID": 26,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "raichu-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "sandshrew",
+    "form_slug": "none",
+    "natID": 27,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "sandshrew",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "sandslash",
+    "form_slug": "none",
+    "natID": 28,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "sandslash",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidoran-f",
+    "form_slug": "none",
+    "natID": 29,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "nidoran-f",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidorina",
+    "form_slug": "none",
+    "natID": 30,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "nidorina",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidoqueen",
+    "form_slug": "none",
+    "natID": 31,
+    "primaryType": "poison",
+    "secondaryType": "ground",
+    "slug": "nidoqueen",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidoran-m",
+    "form_slug": "none",
+    "natID": 32,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "nidoran-m",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidorino",
+    "form_slug": "none",
+    "natID": 33,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "nidorino",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "nidoking",
+    "form_slug": "none",
+    "natID": 34,
+    "primaryType": "poison",
+    "secondaryType": "ground",
+    "slug": "nidoking",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "clefairy",
+    "form_slug": "none",
+    "natID": 35,
+    "primaryType": "fairy",
+    "secondaryType": null,
+    "slug": "clefairy",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "clefable",
+    "form_slug": "none",
+    "natID": 36,
+    "primaryType": "fairy",
+    "secondaryType": null,
+    "slug": "clefable",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "vulpix",
+    "form_slug": "none",
+    "natID": 37,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "vulpix",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ninetales",
+    "form_slug": "none",
+    "natID": 38,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "ninetales",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "jigglypuff",
+    "form_slug": "none",
+    "natID": 39,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
+    "slug": "jigglypuff",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wigglytuff",
+    "form_slug": "none",
+    "natID": 40,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
+    "slug": "wigglytuff",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "zubat",
+    "form_slug": "none",
+    "natID": 41,
+    "primaryType": "poison",
+    "secondaryType": "flying",
+    "slug": "zubat-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "golbat",
+    "form_slug": "none",
+    "natID": 42,
+    "primaryType": "poison",
+    "secondaryType": "flying",
+    "slug": "golbat-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "oddish",
+    "form_slug": "none",
+    "natID": 43,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "oddish",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "gloom",
+    "form_slug": "none",
+    "natID": 44,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "gloom-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "vileplume",
+    "form_slug": "none",
+    "natID": 45,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "vileplume-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "paras",
+    "form_slug": "none",
+    "natID": 46,
+    "primaryType": "bug",
+    "secondaryType": "grass",
+    "slug": "paras",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "parasect",
+    "form_slug": "none",
+    "natID": 47,
+    "primaryType": "bug",
+    "secondaryType": "grass",
+    "slug": "parasect",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "venonat",
+    "form_slug": "none",
+    "natID": 48,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "venonat",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "venomoth",
+    "form_slug": "none",
+    "natID": 49,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "venomoth",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "diglett",
+    "form_slug": "none",
+    "natID": 50,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "diglett",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "dugtrio",
+    "form_slug": "none",
+    "natID": 51,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "dugtrio",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "meowth",
+    "form_slug": "none",
+    "natID": 52,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "meowth",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "persian",
+    "form_slug": "none",
+    "natID": 53,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "persian",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "psyduck",
+    "form_slug": "none",
+    "natID": 54,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "psyduck",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "golduck",
+    "form_slug": "none",
+    "natID": 55,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "golduck",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "mankey",
+    "form_slug": "none",
+    "natID": 56,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "mankey",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "primeape",
+    "form_slug": "none",
+    "natID": 57,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "primeape",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "growlithe",
+    "form_slug": "none",
+    "natID": 58,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "growlithe",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "arcanine",
+    "form_slug": "none",
+    "natID": 59,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "arcanine",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "poliwag",
+    "form_slug": "none",
+    "natID": 60,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "poliwag",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "poliwhirl",
+    "form_slug": "none",
+    "natID": 61,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "poliwhirl",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "poliwrath",
+    "form_slug": "none",
+    "natID": 62,
+    "primaryType": "water",
+    "secondaryType": "fighting",
+    "slug": "poliwrath",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "abra",
+    "form_slug": "none",
+    "natID": 63,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "abra",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kadabra",
+    "form_slug": "none",
+    "natID": 64,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "kadabra-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "alakazam",
+    "form_slug": "none",
+    "natID": 65,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "alakazam-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "machop",
+    "form_slug": "none",
+    "natID": 66,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "machop",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "machoke",
+    "form_slug": "none",
+    "natID": 67,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "machoke",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "machamp",
+    "form_slug": "none",
+    "natID": 68,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "machamp",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "bellsprout",
+    "form_slug": "none",
+    "natID": 69,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "bellsprout",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "weepinbell",
+    "form_slug": "none",
+    "natID": 70,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "weepinbell",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "victreebel",
+    "form_slug": "none",
+    "natID": 71,
+    "primaryType": "grass",
+    "secondaryType": "poison",
+    "slug": "victreebel",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tentacool",
+    "form_slug": "none",
+    "natID": 72,
+    "primaryType": "water",
+    "secondaryType": "poison",
+    "slug": "tentacool",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tentacruel",
+    "form_slug": "none",
+    "natID": 73,
+    "primaryType": "water",
+    "secondaryType": "poison",
+    "slug": "tentacruel",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "geodude",
+    "form_slug": "none",
+    "natID": 74,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "geodude",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "graveler",
+    "form_slug": "none",
+    "natID": 75,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "graveler",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "golem",
+    "form_slug": "none",
+    "natID": 76,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "golem",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ponyta",
+    "form_slug": "none",
+    "natID": 77,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "ponyta",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "rapidash",
+    "form_slug": "none",
+    "natID": 78,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "rapidash",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "slowpoke",
+    "form_slug": "none",
+    "natID": 79,
+    "primaryType": "water",
+    "secondaryType": "psychic",
+    "slug": "slowpoke",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "slowbro",
+    "form_slug": "none",
+    "natID": 80,
+    "primaryType": "water",
+    "secondaryType": "psychic",
+    "slug": "slowbro",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magnemite",
+    "form_slug": "none",
+    "natID": 81,
+    "primaryType": "electric",
+    "secondaryType": "steel",
+    "slug": "magnemite",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magneton",
+    "form_slug": "none",
+    "natID": 82,
+    "primaryType": "electric",
+    "secondaryType": "steel",
+    "slug": "magneton",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "farfetch-d",
+    "form_slug": "none",
+    "natID": 83,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "farfetch-d",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "doduo",
+    "form_slug": "none",
+    "natID": 84,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "doduo-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "dodrio",
+    "form_slug": "none",
+    "natID": 85,
+    "primaryType": "normal",
+    "secondaryType": "flying",
+    "slug": "dodrio-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "seel",
+    "form_slug": "none",
+    "natID": 86,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "seel",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "dewgong",
+    "form_slug": "none",
+    "natID": 87,
+    "primaryType": "water",
+    "secondaryType": "ice",
+    "slug": "dewgong",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "grimer",
+    "form_slug": "none",
+    "natID": 88,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "grimer",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "muk",
+    "form_slug": "none",
+    "natID": 89,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "muk",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "shellder",
+    "form_slug": "none",
+    "natID": 90,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "shellder",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "cloyster",
+    "form_slug": "none",
+    "natID": 91,
+    "primaryType": "water",
+    "secondaryType": "ice",
+    "slug": "cloyster",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "gastly",
+    "form_slug": "none",
+    "natID": 92,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
+    "slug": "gastly",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "haunter",
+    "form_slug": "none",
+    "natID": 93,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
+    "slug": "haunter",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "gengar",
+    "form_slug": "none",
+    "natID": 94,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
+    "slug": "gengar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "onix",
+    "form_slug": "none",
+    "natID": 95,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "onix",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "drowzee",
+    "form_slug": "none",
+    "natID": 96,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "drowzee",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "hypno",
+    "form_slug": "none",
+    "natID": 97,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "hypno-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "krabby",
+    "form_slug": "none",
+    "natID": 98,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "krabby",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kingler",
+    "form_slug": "none",
+    "natID": 99,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "kingler",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "voltorb",
+    "form_slug": "none",
+    "natID": 100,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "voltorb",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "electrode",
+    "form_slug": "none",
+    "natID": 101,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "electrode",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "exeggcute",
+    "form_slug": "none",
+    "natID": 102,
+    "primaryType": "grass",
+    "secondaryType": "psychic",
+    "slug": "exeggcute",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "exeggutor",
+    "form_slug": "none",
+    "natID": 103,
+    "primaryType": "grass",
+    "secondaryType": "psychic",
+    "slug": "exeggutor",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "cubone",
+    "form_slug": "none",
+    "natID": 104,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "cubone",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "marowak",
+    "form_slug": "none",
+    "natID": 105,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "marowak",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "hitmonlee",
+    "form_slug": "none",
+    "natID": 106,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "hitmonlee",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "hitmonchan",
+    "form_slug": "none",
+    "natID": 107,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "hitmonchan",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "lickitung",
+    "form_slug": "none",
+    "natID": 108,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "lickitung",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "koffing",
+    "form_slug": "none",
+    "natID": 109,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "koffing",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "weezing",
+    "form_slug": "none",
+    "natID": 110,
+    "primaryType": "poison",
+    "secondaryType": null,
+    "slug": "weezing",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "rhyhorn",
+    "form_slug": "none",
+    "natID": 111,
+    "primaryType": "ground",
+    "secondaryType": "rock",
+    "slug": "rhyhorn-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "rhydon",
+    "form_slug": "none",
+    "natID": 112,
+    "primaryType": "ground",
+    "secondaryType": "rock",
+    "slug": "rhydon-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "chansey",
+    "form_slug": "none",
+    "natID": 113,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "chansey",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tangela",
+    "form_slug": "none",
+    "natID": 114,
+    "primaryType": "grass",
+    "secondaryType": null,
+    "slug": "tangela",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kangaskhan",
+    "form_slug": "none",
+    "natID": 115,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "kangaskhan",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "horsea",
+    "form_slug": "none",
+    "natID": 116,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "horsea",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "seadra",
+    "form_slug": "none",
+    "natID": 117,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "seadra",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "goldeen",
+    "form_slug": "none",
+    "natID": 118,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "goldeen-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "seaking",
+    "form_slug": "none",
+    "natID": 119,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "seaking-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "staryu",
+    "form_slug": "none",
+    "natID": 120,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "staryu",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "starmie",
+    "form_slug": "none",
+    "natID": 121,
+    "primaryType": "water",
+    "secondaryType": "psychic",
+    "slug": "starmie",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "mr-mime",
+    "form_slug": "none",
+    "natID": 122,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
+    "slug": "mr-mime",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "scyther",
+    "form_slug": "none",
+    "natID": 123,
+    "primaryType": "bug",
+    "secondaryType": "flying",
+    "slug": "scyther-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "jynx",
+    "form_slug": "none",
+    "natID": 124,
+    "primaryType": "ice",
+    "secondaryType": "psychic",
+    "slug": "jynx",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "electabuzz",
+    "form_slug": "none",
+    "natID": 125,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "electabuzz",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magmar",
+    "form_slug": "none",
+    "natID": 126,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "magmar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pinsir",
+    "form_slug": "none",
+    "natID": 127,
+    "primaryType": "bug",
+    "secondaryType": null,
+    "slug": "pinsir",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tauros",
+    "form_slug": "none",
+    "natID": 128,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "tauros",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magikarp",
+    "form_slug": "none",
+    "natID": 129,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "magikarp-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "gyarados",
+    "form_slug": "none",
+    "natID": 130,
+    "primaryType": "water",
+    "secondaryType": "flying",
+    "slug": "gyarados-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "lapras",
+    "form_slug": "none",
+    "natID": 131,
+    "primaryType": "water",
+    "secondaryType": "ice",
+    "slug": "lapras",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ditto",
+    "form_slug": "none",
+    "natID": 132,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "ditto",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "eevee",
+    "form_slug": "none",
+    "natID": 133,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "eevee-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "vaporeon",
+    "form_slug": "none",
+    "natID": 134,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "vaporeon",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "jolteon",
+    "form_slug": "none",
+    "natID": 135,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "jolteon",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "flareon",
+    "form_slug": "none",
+    "natID": 136,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "flareon",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "porygon",
+    "form_slug": "none",
+    "natID": 137,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "porygon",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "omanyte",
+    "form_slug": "none",
+    "natID": 138,
+    "primaryType": "rock",
+    "secondaryType": "water",
+    "slug": "omanyte",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "omastar",
+    "form_slug": "none",
+    "natID": 139,
+    "primaryType": "rock",
+    "secondaryType": "water",
+    "slug": "omastar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kabuto",
+    "form_slug": "none",
+    "natID": 140,
+    "primaryType": "rock",
+    "secondaryType": "water",
+    "slug": "kabuto",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kabutops",
+    "form_slug": "none",
+    "natID": 141,
+    "primaryType": "rock",
+    "secondaryType": "water",
+    "slug": "kabutops",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "aerodactyl",
+    "form_slug": "none",
+    "natID": 142,
+    "primaryType": "rock",
+    "secondaryType": "flying",
+    "slug": "aerodactyl",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "snorlax",
+    "form_slug": "none",
+    "natID": 143,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "snorlax",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "articuno",
+    "form_slug": "none",
+    "natID": 144,
+    "primaryType": "ice",
+    "secondaryType": "flying",
+    "slug": "articuno",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "zapdos",
+    "form_slug": "none",
+    "natID": 145,
+    "primaryType": "electric",
+    "secondaryType": "flying",
+    "slug": "zapdos",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "moltres",
+    "form_slug": "none",
+    "natID": 146,
+    "primaryType": "fire",
+    "secondaryType": "flying",
+    "slug": "moltres",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "dratini",
+    "form_slug": "none",
+    "natID": 147,
+    "primaryType": "dragon",
+    "secondaryType": null,
+    "slug": "dratini",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "dragonair",
+    "form_slug": "none",
+    "natID": 148,
+    "primaryType": "dragon",
+    "secondaryType": null,
+    "slug": "dragonair",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "dragonite",
+    "form_slug": "none",
+    "natID": 149,
+    "primaryType": "dragon",
+    "secondaryType": "flying",
+    "slug": "dragonite",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "mewtwo",
+    "form_slug": "none",
+    "natID": 150,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "mewtwo",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "sentret",
+    "form_slug": "none",
+    "natID": 161,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "sentret",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "furret",
+    "form_slug": "none",
+    "natID": 162,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "furret",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ledyba",
+    "form_slug": "none",
+    "natID": 165,
+    "primaryType": "bug",
+    "secondaryType": "flying",
+    "slug": "ledyba-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "spinarak",
+    "form_slug": "none",
+    "natID": 167,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "spinarak",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ariados",
+    "form_slug": "none",
+    "natID": 168,
+    "primaryType": "bug",
+    "secondaryType": "poison",
+    "slug": "ariados",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "crobat",
+    "form_slug": "none",
+    "natID": 169,
+    "primaryType": "poison",
+    "secondaryType": "flying",
+    "slug": "crobat",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pichu",
+    "form_slug": "none",
+    "natID": 172,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "pichu",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "cleffa",
+    "form_slug": "none",
+    "natID": 173,
+    "primaryType": "fairy",
+    "secondaryType": null,
+    "slug": "cleffa",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "igglybuff",
+    "form_slug": "none",
+    "natID": 174,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
+    "slug": "igglybuff",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "togepi",
+    "form_slug": "none",
+    "natID": 175,
+    "primaryType": "fairy",
+    "secondaryType": null,
+    "slug": "togepi",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "togetic",
+    "form_slug": "none",
+    "natID": 176,
+    "primaryType": "fairy",
+    "secondaryType": "flying",
+    "slug": "togetic",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "natu",
+    "form_slug": "none",
+    "natID": 177,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
+    "slug": "natu",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "xatu",
+    "form_slug": "none",
+    "natID": 178,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
+    "slug": "xatu-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "bellossom",
+    "form_slug": "none",
+    "natID": 182,
+    "primaryType": "grass",
+    "secondaryType": null,
+    "slug": "bellossom",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "marill",
+    "form_slug": "none",
+    "natID": 183,
+    "primaryType": "water",
+    "secondaryType": "fairy",
+    "slug": "marill",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "azumarill",
+    "form_slug": "none",
+    "natID": 184,
+    "primaryType": "water",
+    "secondaryType": "fairy",
+    "slug": "azumarill",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "politoed",
+    "form_slug": "none",
+    "natID": 186,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "politoed-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "hoppip",
+    "form_slug": "none",
+    "natID": 187,
+    "primaryType": "grass",
+    "secondaryType": "flying",
+    "slug": "hoppip",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "skiploom",
+    "form_slug": "none",
+    "natID": 188,
+    "primaryType": "grass",
+    "secondaryType": "flying",
+    "slug": "skiploom",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "jumpluff",
+    "form_slug": "none",
+    "natID": 189,
+    "primaryType": "grass",
+    "secondaryType": "flying",
+    "slug": "jumpluff",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "yanma",
+    "form_slug": "none",
+    "natID": 193,
+    "primaryType": "bug",
+    "secondaryType": "flying",
+    "slug": "yanma",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wooper",
+    "form_slug": "none",
+    "natID": 194,
+    "primaryType": "water",
+    "secondaryType": "ground",
+    "slug": "wooper-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "quagsire",
+    "form_slug": "none",
+    "natID": 195,
+    "primaryType": "water",
+    "secondaryType": "ground",
+    "slug": "quagsire-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "murkrow",
+    "form_slug": "none",
+    "natID": 198,
+    "primaryType": "dark",
+    "secondaryType": "flying",
+    "slug": "murkrow-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "slowking",
+    "form_slug": "none",
+    "natID": 199,
+    "primaryType": "water",
+    "secondaryType": "psychic",
+    "slug": "slowking",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "misdreavus",
+    "form_slug": "none",
+    "natID": 200,
+    "primaryType": "ghost",
+    "secondaryType": null,
+    "slug": "misdreavus",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "unown",
+    "form_slug": "a",
+    "natID": 201,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "unown-a",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wobbuffet",
+    "form_slug": "none",
+    "natID": 202,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "wobbuffet-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "dunsparce",
+    "form_slug": "none",
+    "natID": 206,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "dunsparce",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "steelix",
+    "form_slug": "none",
+    "natID": 208,
+    "primaryType": "steel",
+    "secondaryType": "ground",
+    "slug": "steelix-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "qwilfish",
+    "form_slug": "none",
+    "natID": 211,
+    "primaryType": "water",
+    "secondaryType": "poison",
+    "slug": "qwilfish",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "scizor",
+    "form_slug": "none",
+    "natID": 212,
+    "primaryType": "bug",
+    "secondaryType": "steel",
+    "slug": "scizor-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "heracross",
+    "form_slug": "none",
+    "natID": 214,
+    "primaryType": "bug",
+    "secondaryType": "fighting",
+    "slug": "heracross-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "sneasel",
+    "form_slug": "none",
+    "natID": 215,
+    "primaryType": "dark",
+    "secondaryType": "ice",
+    "slug": "sneasel-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "slugma",
+    "form_slug": "none",
+    "natID": 218,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "slugma",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magcargo",
+    "form_slug": "none",
+    "natID": 219,
+    "primaryType": "fire",
+    "secondaryType": "rock",
+    "slug": "magcargo",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "swinub",
+    "form_slug": "none",
+    "natID": 220,
+    "primaryType": "ice",
+    "secondaryType": "ground",
+    "slug": "swinub",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "piloswine",
+    "form_slug": "none",
+    "natID": 221,
+    "primaryType": "ice",
+    "secondaryType": "ground",
+    "slug": "piloswine-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "remoraid",
+    "form_slug": "none",
+    "natID": 223,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "remoraid",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "octillery",
+    "form_slug": "none",
+    "natID": 224,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "octillery-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "delibird",
+    "form_slug": "none",
+    "natID": 225,
+    "primaryType": "ice",
+    "secondaryType": "flying",
+    "slug": "delibird",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "mantine",
+    "form_slug": "none",
+    "natID": 226,
+    "primaryType": "water",
+    "secondaryType": "flying",
+    "slug": "mantine",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "skarmory",
+    "form_slug": "none",
+    "natID": 227,
+    "primaryType": "steel",
+    "secondaryType": "flying",
+    "slug": "skarmory",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "kingdra",
+    "form_slug": "none",
+    "natID": 230,
+    "primaryType": "water",
+    "secondaryType": "dragon",
+    "slug": "kingdra",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "phanpy",
+    "form_slug": "none",
+    "natID": 231,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "phanpy",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "donphan",
+    "form_slug": "none",
+    "natID": 232,
+    "primaryType": "ground",
+    "secondaryType": null,
+    "slug": "donphan-male",
+    "has_gender_difference": true
+  },
+  {
+    "species_slug": "porygon2",
+    "form_slug": "none",
+    "natID": 233,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "porygon2",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tyrogue",
+    "form_slug": "none",
+    "natID": 236,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "tyrogue",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "hitmontop",
+    "form_slug": "none",
+    "natID": 237,
+    "primaryType": "fighting",
+    "secondaryType": null,
+    "slug": "hitmontop",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "smoochum",
+    "form_slug": "none",
+    "natID": 238,
+    "primaryType": "ice",
+    "secondaryType": "psychic",
+    "slug": "smoochum",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "elekid",
+    "form_slug": "none",
+    "natID": 239,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "elekid",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "magby",
+    "form_slug": "none",
+    "natID": 240,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "magby",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "blissey",
+    "form_slug": "none",
+    "natID": 242,
+    "primaryType": "normal",
+    "secondaryType": null,
+    "slug": "blissey",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "raikou",
+    "form_slug": "none",
+    "natID": 243,
+    "primaryType": "electric",
+    "secondaryType": null,
+    "slug": "raikou",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "entei",
+    "form_slug": "none",
+    "natID": 244,
+    "primaryType": "fire",
+    "secondaryType": null,
+    "slug": "entei",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "suicune",
+    "form_slug": "none",
+    "natID": 245,
+    "primaryType": "water",
+    "secondaryType": null,
+    "slug": "suicune",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "larvitar",
+    "form_slug": "none",
+    "natID": 246,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "larvitar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "pupitar",
+    "form_slug": "none",
+    "natID": 247,
+    "primaryType": "rock",
+    "secondaryType": "ground",
+    "slug": "pupitar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "tyranitar",
+    "form_slug": "none",
+    "natID": 248,
+    "primaryType": "rock",
+    "secondaryType": "dark",
+    "slug": "tyranitar",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "lugia",
+    "form_slug": "none",
+    "natID": 249,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
+    "slug": "lugia",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ho-oh",
+    "form_slug": "none",
+    "natID": 250,
+    "primaryType": "fire",
+    "secondaryType": "flying",
+    "slug": "ho-oh",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "azurill",
+    "form_slug": "none",
+    "natID": 298,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
+    "slug": "azurill",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "wynaut",
+    "form_slug": "none",
+    "natID": 360,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "wynaut",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "deoxys",
+    "form_slug": "normal-forme",
+    "natID": 386,
+    "primaryType": "psychic",
+    "secondaryType": null,
+    "slug": "deoxys-normal-forme",
+    "has_gender_difference": false
+  }
+]
