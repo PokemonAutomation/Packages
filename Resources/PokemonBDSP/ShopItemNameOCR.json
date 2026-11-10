@@ -1,5 +1,8 @@
 {
     "eng": {
+        "x-attack": [
+            "X Attack"
+        ],
         "poke-ball": [
             "Poké Ball"
         ],
@@ -80,6 +83,15 @@
         ],
         "max-repel": [
             "Max Repel"
+        ],
+        "x-sp-def": [
+            "X Sp. Def"
+        ],
+        "x-sp-atk": [
+            "X Sp. Atk"
+        ],
+        "x-speed": [
+            "X Speed"
         ]
     }
 }

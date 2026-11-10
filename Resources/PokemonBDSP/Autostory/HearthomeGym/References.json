@@ -1,0 +1,49 @@
+{
+  "source_screenshot": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\screenshot-20261023-220232794198.png",
+  "source_size": [
+    1920,
+    1080
+  ],
+  "active_anchors": [
+    {
+      "file": "DoorArch.png",
+      "target_crop_xyxy": [
+        886,
+        194,
+        1046,
+        278
+      ],
+      "target_center_normalized": [
+        0.503125,
+        0.21851851851851853
+      ]
+    },
+    {
+      "file": "LeftFacade.png",
+      "target_crop_xyxy": [
+        610,
+        204,
+        828,
+        426
+      ],
+      "target_center_normalized": [
+        0.37447916666666664,
+        0.2916666666666667
+      ]
+    }
+  ],
+  "score_threshold": 0.93,
+  "uniqueness_margin": 0.2,
+  "requires_two_agreeing_anchors": true,
+  "lighting_references": "LightingReferences.json",
+  "hourly_captures_acquired": 120,
+  "hourly_captures_total": 120,
+  "target_pose": "Original user screenshot retained. Test pose was displaced; captured frames correctly remain off-target.",
+  "language_independent": true,
+  "excluded": [
+    "localized lettering",
+    "moving NPCs",
+    "cyan cursor"
+  ],
+  "gym_route_added": false
+}
