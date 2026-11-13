@@ -1,0 +1,90 @@
+{
+    "hp-up": {
+        "eng": "HP Up",
+        "jpn": "マックスアップ",
+        "spa": "Más PS",
+        "fra": "PV Plus",
+        "deu": "KP-Plus",
+        "ita": "PS-Su",
+        "kor": "맥스업",
+        "chi_sim": "ＨＰ增强剂",
+        "chi_tra": "ＨＰ增強劑"
+    },
+    "protein": {
+        "eng": "Protein",
+        "jpn": "タウリン",
+        "spa": "Proteína",
+        "fra": "Protéine",
+        "deu": "Protein",
+        "ita": "Proteina",
+        "kor": "타우린",
+        "chi_sim": "攻击增强剂",
+        "chi_tra": "攻擊增強劑"
+    },
+    "iron": {
+        "eng": "Iron",
+        "jpn": "ブロムヘキシン",
+        "spa": "Hierro",
+        "fra": "Fer",
+        "deu": "Eisen",
+        "ita": "Ferro",
+        "kor": "사포닌",
+        "chi_sim": "防御增强剂",
+        "chi_tra": "防禦增強劑"
+    },
+    "calcium": {
+        "eng": "Calcium",
+        "jpn": "リゾチウム",
+        "spa": "Calcio",
+        "fra": "Calcium",
+        "deu": "Kalzium",
+        "ita": "Calcio",
+        "kor": "리보플라빈",
+        "chi_sim": "特攻增强剂",
+        "chi_tra": "特攻增強劑"
+    },
+    "zinc": {
+        "eng": "Zinc",
+        "jpn": "キトサン",
+        "spa": "Zinc",
+        "fra": "Zinc",
+        "deu": "Zink",
+        "ita": "Zinco",
+        "kor": "키토산",
+        "chi_sim": "特防增强剂",
+        "chi_tra": "特防增強劑"
+    },
+    "carbos": {
+        "eng": "Carbos",
+        "jpn": "インドメタシン",
+        "spa": "Carburante",
+        "fra": "Carbone",
+        "deu": "Carbon",
+        "ita": "Carburante",
+        "kor": "알칼로이드",
+        "chi_sim": "速度增强剂",
+        "chi_tra": "速度增強劑"
+    },
+    "pp-up": {
+        "eng": "PP Up",
+        "jpn": "ポイントアップ",
+        "spa": "Más PP",
+        "fra": "PP Plus",
+        "deu": "AP-Plus",
+        "ita": "PP-Su",
+        "kor": "포인트업",
+        "chi_sim": "ＰＰ提升剂",
+        "chi_tra": "ＰＰ提升劑"
+    },
+    "pp-max": {
+        "eng": "PP Max",
+        "jpn": "ポイントマックス",
+        "spa": "PP Máximos",
+        "fra": "PP Max",
+        "deu": "AP-Top",
+        "ita": "PP-Max",
+        "kor": "포인트맥스",
+        "chi_sim": "ＰＰ极限提升剂",
+        "chi_tra": "ＰＰ極限提升劑"
+    }
+}

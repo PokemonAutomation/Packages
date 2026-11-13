@@ -1,0 +1,1017 @@
+{
+    "confirm": {
+        "eng": "Confirm",
+        "jpn": [
+            "けってい",
+            "決定"
+        ],
+        "spa": "Aceptar",
+        "fra": "Confirmer",
+        "deu": "OK",
+        "ita": "Ok",
+        "kor": "결정",
+        "chi_sim": "确定",
+        "chi_tra": "確定"
+    },
+    "textspeed": {
+        "eng": "Text Speed",
+        "jpn": [
+            "はなしの　はやさ",
+            "話の速さ"
+        ],
+        "spa": "Velocidad del texto",
+        "fra": "Vitesse du texte",
+        "deu": "Text-Tempo",
+        "ita": "Velocità testo",
+        "kor": "이야기의 속도",
+        "chi_sim": "语速",
+        "chi_tra": "語速"
+    },
+    "slow": {
+        "eng": "Slow",
+        "jpn": [
+            "おそい",
+            "遅い"
+        ],
+        "spa": "Lenta",
+        "fra": "Lente",
+        "deu": "1",
+        "ita": "Lenta",
+        "kor": "느리게",
+        "chi_sim": "慢",
+        "chi_tra": "慢"
+    },
+    "normal": {
+        "eng": "Normal",
+        "jpn": [
+            "ふつう",
+            "普通"
+        ],
+        "spa": "Media",
+        "fra": "Normale",
+        "deu": "2",
+        "ita": "Normale",
+        "kor": "보통",
+        "chi_sim": "普通",
+        "chi_tra": "普通"
+    },
+    "fast": {
+        "eng": "Fast",
+        "jpn": [
+            "はやい",
+            "速い"
+        ],
+        "spa": "Rápida",
+        "fra": "Rapide",
+        "deu": "3",
+        "ita": "Veloce",
+        "kor": "빠르게",
+        "chi_sim": "快",
+        "chi_tra": "快"
+    },
+    "battleeffects": {
+        "eng": "Battle Effects",
+        "jpn": [
+            "せんとうアニメ",
+            "戦闘アニメ"
+        ],
+        "spa": "Animaciones en combate",
+        "fra": "Animations de combat",
+        "deu": "Animationen",
+        "ita": "Animazioni",
+        "kor": "배틀 애니메이션",
+        "chi_sim": "对战动画",
+        "chi_tra": "對戰動畫"
+    },
+    "on": {
+        "eng": "On",
+        "jpn": [
+            "みる"
+        ],
+        "spa": "Ver",
+        "fra": "Avec",
+        "deu": "Anschalten",
+        "ita": "Sì",
+        "kor": "본다",
+        "chi_sim": "看",
+        "chi_tra": "看"
+    },
+    "off": {
+        "eng": "Off",
+        "jpn": [
+            "みない"
+        ],
+        "spa": "No ver",
+        "fra": "Sans",
+        "deu": "Ausschalten",
+        "ita": "No",
+        "kor": "보지 않는다",
+        "chi_sim": "不看",
+        "chi_tra": "不看"
+    },
+    "battlestyle": {
+        "eng": "Battle Style",
+        "jpn": [
+            "しあいのルール",
+            "試合のルール"
+        ],
+        "spa": "Tipo de combate",
+        "fra": "Style de combat",
+        "deu": "Kampfstil",
+        "ita": "Pokémon in lotta",
+        "kor": "시합 룰",
+        "chi_sim": "比赛规则",
+        "chi_tra": "對戰規則"
+    },
+    "switch": {
+        "eng": "Switch",
+        "jpn": [
+            "いれかえ"
+        ],
+        "spa": "Con cambios",
+        "fra": "Choix",
+        "deu": "Wechseln",
+        "ita": "Chiedi se sostituire",
+        "kor": "교체",
+        "chi_sim": "替换",
+        "chi_tra": "替換"
+    },
+    "set": {
+        "eng": "Set",
+        "jpn": [
+            "かちぬき"
+        ],
+        "spa": "Fijo",
+        "fra": "Défini",
+        "deu": "Nicht wechseln",
+        "ita": "Non sostituire",
+        "kor": "토너먼트",
+        "chi_sim": "连战",
+        "chi_tra": "連戰"
+    },
+    "characters": {
+        "eng": "Characters",
+        "jpn": [
+            "もじモード",
+            "文字モード"
+        ],
+        "spa": "Caracteres",
+        "fra": "Caractères",
+        "deu": "Textmodus",
+        "ita": "Caratteri",
+        "kor": "글자 모드",
+        "chi_sim": "文字模式",
+        "chi_tra": "文字模式"
+    },
+    "hiragana": {
+        "eng": "Hiragana",
+        "jpn": [
+            "ひらがな"
+        ],
+        "spa": "Hiragana",
+        "fra": "Hiragana",
+        "deu": "Hiragana",
+        "ita": "Hiragana",
+        "kor": "ひらがな",
+        "chi_sim": "平假名",
+        "chi_tra": "平假名"
+    },
+    "kanji": {
+        "eng": "Kanji",
+        "jpn": [
+            "漢字"
+        ],
+        "spa": "Kanji",
+        "fra": "Kanji",
+        "deu": "Kanji",
+        "ita": "Kanji",
+        "kor": "漢字",
+        "chi_sim": "汉字",
+        "chi_tra": "漢字"
+    },
+    "sendtoboxes": {
+        "eng": "Send to Boxes",
+        "jpn": [
+            "てもち／ボックス",
+            "手持ち／ボックス"
+        ],
+        "spa": "Equipo/Caja",
+        "fra": "Équipe/Boîte",
+        "deu": "Team/Box",
+        "ita": "Invio automatico ai Box",
+        "kor": "지닌 포켓몬/박스",
+        "chi_sim": "同行／盒子",
+        "chi_tra": "同行／盒子"
+    },
+    "manual": {
+        "eng": "Manual",
+        "jpn": [
+            "じぶんでえらぶ",
+            "自分で選ぶ"
+        ],
+        "spa": "Manual",
+        "fra": "Choix manuel",
+        "deu": "Manuell",
+        "ita": "No",
+        "kor": "직접 결정한다",
+        "chi_sim": "自己选择",
+        "chi_tra": "自己選擇"
+    },
+    "automatic": {
+        "eng": "Automatic",
+        "jpn": [
+            "じどうでおくる",
+            "自動で送る"
+        ],
+        "spa": "Automático",
+        "fra": "Envoi automatique",
+        "deu": "Automatisch",
+        "ita": "Sì",
+        "kor": "박스로 보낸다",
+        "chi_sim": "自动发送",
+        "chi_tra": "自動發送"
+    },
+    "yes": {
+        "eng": "Yes",
+        "jpn": [
+            "はい"
+        ],
+        "spa": "Sí",
+        "fra": "Oui",
+        "deu": "Ja",
+        "ita": "Sì",
+        "kor": "예",
+        "chi_sim": "要",
+        "chi_tra": "要"
+    },
+    "no": {
+        "eng": "No",
+        "jpn": [
+            "いいえ"
+        ],
+        "spa": "No",
+        "fra": "Non",
+        "deu": "Nein",
+        "ita": "No",
+        "kor": "아니요",
+        "chi_sim": "不要",
+        "chi_tra": "不要"
+    },
+    "options": {
+        "eng": "OPTIONS",
+        "jpn": [
+            "せってい",
+            "設定"
+        ],
+        "spa": "Opciones",
+        "fra": "Paramètres",
+        "deu": "Einstellungen",
+        "ita": "Opzioni",
+        "kor": "설정",
+        "chi_sim": "设置",
+        "chi_tra": "設定"
+    },
+    "gyroscope": {
+        "eng": "Gyroscope",
+        "jpn": [
+            "ジャイロセンサー"
+        ],
+        "spa": "Giroscopio",
+        "fra": "Capteur de mouvement",
+        "deu": "Bewegungssteuerung",
+        "ita": "Giroscopio",
+        "kor": "자이로 센서",
+        "chi_sim": "陀螺仪感应器",
+        "chi_tra": "陀螺儀感應器"
+    },
+    "use": {
+        "eng": "Use",
+        "jpn": [
+            "つかう",
+            "使う"
+        ],
+        "spa": "Sí",
+        "fra": "Activer",
+        "deu": "Aktivieren",
+        "ita": "Usa",
+        "kor": "사용한다",
+        "chi_sim": "使用",
+        "chi_tra": "使用"
+    },
+    "dontuse": {
+        "eng": "Don’t use",
+        "jpn": [
+            "つかわない",
+            "使わない"
+        ],
+        "spa": "No",
+        "fra": "Désactiver",
+        "deu": "Deaktivieren",
+        "ita": "Non usare",
+        "kor": "사용하지 않는다",
+        "chi_sim": "不使用",
+        "chi_tra": "不使用"
+    },
+    "autosave": {
+        "eng": "Autosave",
+        "jpn": [
+            "おまかせレポート"
+        ],
+        "spa": "Guardado automático",
+        "fra": "Sauvegarde automatique",
+        "deu": "Automatisches Speichern",
+        "ita": "Salvataggio automatico",
+        "kor": "자동 리포트",
+        "chi_sim": "自动记录",
+        "chi_tra": "自動紀錄"
+    },
+    "backgroundmusic": {
+        "eng": "Background Music",
+        "jpn": [
+            "BGM"
+        ],
+        "spa": "Volumen de la música",
+        "fra": "Musique",
+        "deu": "Musik",
+        "ita": "Musica",
+        "kor": "BGM",
+        "chi_sim": "音乐",
+        "chi_tra": "BGM"
+    },
+    "soundeffects": {
+        "eng": "Sound Effects",
+        "jpn": [
+            "SE"
+        ],
+        "spa": "Volumen de los efectos",
+        "fra": "Effets sonores",
+        "deu": "Soundeffekte",
+        "ita": "Effetti sonori",
+        "kor": "효과음",
+        "chi_sim": "音效",
+        "chi_tra": "效果音"
+    },
+    "pokemoncries": {
+        "eng": "Pokémon Cries",
+        "jpn": [
+            "なきごえ",
+            "鳴き声"
+        ],
+        "spa": "Volumen de los gritos",
+        "fra": "Cris des Pokémon",
+        "deu": "Pokémon-Rufe",
+        "ita": "Versi Pokémon",
+        "kor": "울음소리",
+        "chi_sim": "叫声",
+        "chi_tra": "叫聲"
+    },
+    "setandend": {
+        "eng": "Set and End",
+        "jpn": [
+            "セットしておわる",
+            "セットして終わる"
+        ],
+        "spa": "Salir",
+        "fra": "Retour",
+        "deu": "Beenden",
+        "ita": "Indietro",
+        "kor": "설정하고 종료",
+        "chi_sim": "保存设置后退出",
+        "chi_tra": "設定後結束"
+    },
+    "reset": {
+        "eng": "Reset",
+        "jpn": [
+            "しょきか",
+            "初期化"
+        ],
+        "spa": "Restablecer",
+        "fra": "Réinitialiser",
+        "deu": "Zurücksetzen",
+        "ita": "Predefinite",
+        "kor": "초기화",
+        "chi_sim": "初始化",
+        "chi_tra": "初始化"
+    },
+    "verticalcamera": {
+        "eng": "Vertical Camera",
+        "jpn": [
+            "カメラ　うえ／した",
+            "カメラ　上／下"
+        ],
+        "spa": "Eje vertical de la cámara",
+        "fra": "Caméra (axe vertical)",
+        "deu": "Vertikale Kamera",
+        "ita": "Telecamera (verticale)",
+        "kor": "카메라 위/아래",
+        "chi_sim": "镜头　上／下",
+        "chi_tra": "鏡頭　上／下"
+    },
+    "regular": {
+        "eng": "Regular",
+        "jpn": [
+            "ノーマル"
+        ],
+        "spa": "Normal",
+        "fra": "Mode normal",
+        "deu": "Normal",
+        "ita": "Normale",
+        "kor": "보통",
+        "chi_sim": "默认",
+        "chi_tra": "預設"
+    },
+    "inverted": {
+        "eng": "Inverted",
+        "jpn": [
+            "リバース"
+        ],
+        "spa": "Invertido",
+        "fra": "Mode inversé",
+        "deu": "Invertiert",
+        "ita": "Invertita",
+        "kor": "반전",
+        "chi_sim": "反转",
+        "chi_tra": "反轉"
+    },
+    "horizontalcamera": {
+        "eng": "Horizontal Camera",
+        "jpn": [
+            "カメラ　ひだり／みぎ",
+            "カメラ　左／右"
+        ],
+        "spa": "Eje horizontal de la cámara",
+        "fra": "Caméra (axe horizontal)",
+        "deu": "Horizontale Kamera",
+        "ita": "Telecamera (orizzontale)",
+        "kor": "카메라 왼쪽/오른쪽",
+        "chi_sim": "镜头　左／右",
+        "chi_tra": "鏡頭　左／右"
+    },
+    "shownicknames": {
+        "eng": "Show Nicknames",
+        "jpn": [
+            "ニックネームひょうじ",
+            "ニックネーム表示"
+        ],
+        "spa": "Mostrar motes",
+        "fra": "Affichage des surnoms",
+        "deu": "Spitznamen-Anzeige",
+        "ita": "Visualizza soprannomi",
+        "kor": "닉네임 표시",
+        "chi_sim": "显示宝可梦昵称",
+        "chi_tra": "顯示暱稱"
+    },
+    "show": {
+        "eng": "Show",
+        "jpn": [
+            "みる"
+        ],
+        "spa": "Sí",
+        "fra": "Activer",
+        "deu": "Anschalten",
+        "ita": "Sì",
+        "kor": "본다",
+        "chi_sim": "显示",
+        "chi_tra": "顯示"
+    },
+    "dontshow": {
+        "eng": "Don’t show",
+        "jpn": [
+            "みない"
+        ],
+        "spa": "No",
+        "fra": "Désactiver",
+        "deu": "Ausschalten",
+        "ita": "No",
+        "kor": "보지 않는다",
+        "chi_sim": "不显示",
+        "chi_tra": "隱藏"
+    },
+    "givenicknames": {
+        "eng": "Give Nicknames",
+        "jpn": [
+            "ニックネームとうろく",
+            "ニックネーム登録"
+        ],
+        "spa": "Poner motes",
+        "fra": "Surnommer à la capture",
+        "deu": "Spitznamen-Frage",
+        "ita": "Dai soprannomi",
+        "kor": "닉네임 등록",
+        "chi_sim": "给宝可梦取昵称",
+        "chi_tra": "登錄暱稱"
+    },
+    "give": {
+        "eng": "Give",
+        "jpn": [
+            "する"
+        ],
+        "spa": "Sí",
+        "fra": "Activer",
+        "deu": "Anschalten",
+        "ita": "Sì",
+        "kor": "한다",
+        "chi_sim": "取昵称",
+        "chi_tra": "登錄"
+    },
+    "dontgive": {
+        "eng": "Don’t give",
+        "jpn": [
+            "しない"
+        ],
+        "spa": "No",
+        "fra": "Désactiver",
+        "deu": "Ausschalten",
+        "ita": "No",
+        "kor": "하지 않는다",
+        "chi_sim": "不取昵称",
+        "chi_tra": "不登錄"
+    },
+    "changewindow": {
+        "eng": "Change Window",
+        "jpn": [
+            "ウィンドウのへんこう",
+            "ウィンドウの変更"
+        ],
+        "spa": "Cambiar marco",
+        "fra": "Type de fenêtre",
+        "deu": "Textfenster",
+        "ita": "Cambia cornice",
+        "kor": "윈도우 변경",
+        "chi_sim": "更改窗口",
+        "chi_tra": "更改視窗"
+    },
+    "type1": {
+        "eng": "Type 1",
+        "jpn": [
+            "タイプ１"
+        ],
+        "spa": "Tipo 1",
+        "fra": "Type 1",
+        "deu": "Motiv 1",
+        "ita": "Tipo 1",
+        "kor": "타입1",
+        "chi_sim": "类型１",
+        "chi_tra": "類型１"
+    },
+    "type2": {
+        "eng": "Type 2",
+        "jpn": [
+            "タイプ２"
+        ],
+        "spa": "Tipo 2",
+        "fra": "Type 2",
+        "deu": "Motiv 2",
+        "ita": "Tipo 2",
+        "kor": "타입2",
+        "chi_sim": "类型２",
+        "chi_tra": "類型２"
+    },
+    "type3": {
+        "eng": "Type 3",
+        "jpn": [
+            "タイプ３"
+        ],
+        "spa": "Tipo 3",
+        "fra": "Type 3",
+        "deu": "Motiv 3",
+        "ita": "Tipo 3",
+        "kor": "타입3",
+        "chi_sim": "类型３",
+        "chi_tra": "類型３"
+    },
+    "type4": {
+        "eng": "Type 4",
+        "jpn": [
+            "タイプ４"
+        ],
+        "spa": "Tipo 4",
+        "fra": "Type 4",
+        "deu": "Motiv 4",
+        "ita": "Tipo 4",
+        "kor": "타입4",
+        "chi_sim": "类型４",
+        "chi_tra": "類型４"
+    },
+    "type5": {
+        "eng": "Type 5",
+        "jpn": [
+            "タイプ５"
+        ],
+        "spa": "Tipo 5",
+        "fra": "Type 5",
+        "deu": "Motiv 5",
+        "ita": "Tipo 5",
+        "kor": "타입5",
+        "chi_sim": "类型５",
+        "chi_tra": "類型５"
+    },
+    "type6": {
+        "eng": "Type 6",
+        "jpn": [
+            "タイプ６"
+        ],
+        "spa": "Tipo 6",
+        "fra": "Type 6",
+        "deu": "Motiv 6",
+        "ita": "Tipo 6",
+        "kor": "타입6",
+        "chi_sim": "类型６",
+        "chi_tra": "類型６"
+    },
+    "type7": {
+        "eng": "Type 7",
+        "jpn": [
+            "タイプ７"
+        ],
+        "spa": "Tipo 7",
+        "fra": "Type 7",
+        "deu": "Motiv 7",
+        "ita": "Tipo 7",
+        "kor": "타입7",
+        "chi_sim": "类型７",
+        "chi_tra": "類型７"
+    },
+    "type8": {
+        "eng": "Type 8",
+        "jpn": [
+            "タイプ８"
+        ],
+        "spa": "Tipo 8",
+        "fra": "Type 8",
+        "deu": "Motiv 8",
+        "ita": "Tipo 8",
+        "kor": "타입8",
+        "chi_sim": "类型８",
+        "chi_tra": "類型８"
+    },
+    "type9": {
+        "eng": "Type 9",
+        "jpn": [
+            "タイプ９"
+        ],
+        "spa": "Tipo 9",
+        "fra": "Type 9",
+        "deu": "Motiv 9",
+        "ita": "Tipo 9",
+        "kor": "타입9",
+        "chi_sim": "类型９",
+        "chi_tra": "類型９"
+    },
+    "type10": {
+        "eng": "Type 10",
+        "jpn": [
+            "タイプ１０"
+        ],
+        "spa": "Tipo 10",
+        "fra": "Type 10",
+        "deu": "Motiv 10",
+        "ita": "Tipo 10",
+        "kor": "타입10",
+        "chi_sim": "类型１０",
+        "chi_tra": "類型１０"
+    },
+    "type11": {
+        "eng": "Type 11",
+        "jpn": [
+            "タイプ１１"
+        ],
+        "spa": "Tipo 11",
+        "fra": "Type 11",
+        "deu": "Motiv 11",
+        "ita": "Tipo 11",
+        "kor": "타입11",
+        "chi_sim": "类型１１",
+        "chi_tra": "類型１１"
+    },
+    "type12": {
+        "eng": "Type 12",
+        "jpn": [
+            "タイプ１２"
+        ],
+        "spa": "Tipo 12",
+        "fra": "Type 12",
+        "deu": "Motiv 12",
+        "ita": "Tipo 12",
+        "kor": "타입12",
+        "chi_sim": "类型１２",
+        "chi_tra": "類型１２"
+    },
+    "type13": {
+        "eng": "Type 13",
+        "jpn": [
+            "タイプ１３"
+        ],
+        "spa": "Tipo 13",
+        "fra": "Type 13",
+        "deu": "Motiv 13",
+        "ita": "Tipo 13",
+        "kor": "타입13",
+        "chi_sim": "类型１３",
+        "chi_tra": "類型１３"
+    },
+    "type14": {
+        "eng": "Type 14",
+        "jpn": [
+            "タイプ１４"
+        ],
+        "spa": "Tipo 14",
+        "fra": "Type 14",
+        "deu": "Motiv 14",
+        "ita": "Tipo 14",
+        "kor": "타입14",
+        "chi_sim": "类型１４",
+        "chi_tra": "類型１４"
+    },
+    "type15": {
+        "eng": "Type 15",
+        "jpn": [
+            "タイプ１５"
+        ],
+        "spa": "Tipo 15",
+        "fra": "Type 15",
+        "deu": "Motiv 15",
+        "ita": "Tipo 15",
+        "kor": "타입15",
+        "chi_sim": "类型１５",
+        "chi_tra": "類型１５"
+    },
+    "type16": {
+        "eng": "Type 16",
+        "jpn": [
+            "タイプ１６"
+        ],
+        "spa": "Tipo 16",
+        "fra": "Type 16",
+        "deu": "Motiv 16",
+        "ita": "Tipo 16",
+        "kor": "타입16",
+        "chi_sim": "类型１６",
+        "chi_tra": "類型１６"
+    },
+    "type17": {
+        "eng": "Type 17",
+        "jpn": [
+            "タイプ１７"
+        ],
+        "spa": "Tipo 17",
+        "fra": "Type 17",
+        "deu": "Motiv 17",
+        "ita": "Tipo 17",
+        "kor": "타입17",
+        "chi_sim": "类型１７",
+        "chi_tra": "類型１７"
+    },
+    "type18": {
+        "eng": "Type 18",
+        "jpn": [
+            "タイプ１８"
+        ],
+        "spa": "Tipo 18",
+        "fra": "Type 18",
+        "deu": "Motiv 18",
+        "ita": "Tipo 18",
+        "kor": "타입18",
+        "chi_sim": "类型１８",
+        "chi_tra": "類型１８"
+    },
+    "type19": {
+        "eng": "Type 19",
+        "jpn": [
+            "タイプ１９"
+        ],
+        "spa": "Tipo 19",
+        "fra": "Type 19",
+        "deu": "Motiv 19",
+        "ita": "Tipo 19",
+        "kor": "타입19",
+        "chi_sim": "类型１９",
+        "chi_tra": "類型１９"
+    },
+    "type20": {
+        "eng": "Type 20",
+        "jpn": [
+            "タイプ２０"
+        ],
+        "spa": "Tipo 20",
+        "fra": "Type 20",
+        "deu": "Motiv 20",
+        "ita": "Tipo 20",
+        "kor": "타입20",
+        "chi_sim": "类型２０",
+        "chi_tra": "類型２０"
+    },
+    "type21": {
+        "eng": "Type 21",
+        "jpn": [
+            "タイプ２１"
+        ],
+        "spa": "Tipo 21",
+        "fra": "Type 21",
+        "deu": "Motiv 21",
+        "ita": "Tipo 21",
+        "kor": "타입21",
+        "chi_sim": "类型２１",
+        "chi_tra": "類型２１"
+    },
+    "type22": {
+        "eng": "Type 22",
+        "jpn": [
+            "タイプ２２"
+        ],
+        "spa": "Tipo 22",
+        "fra": "Type 22",
+        "deu": "Motiv 22",
+        "ita": "Tipo 22",
+        "kor": "타입22",
+        "chi_sim": "类型２２",
+        "chi_tra": "類型２２"
+    },
+    "type23": {
+        "eng": "Type 23",
+        "jpn": [
+            "タイプ２３"
+        ],
+        "spa": "Tipo 23",
+        "fra": "Type 23",
+        "deu": "Motiv 23",
+        "ita": "Tipo 23",
+        "kor": "타입23",
+        "chi_sim": "类型２３",
+        "chi_tra": "類型２３"
+    },
+    "type24": {
+        "eng": "Type 24",
+        "jpn": [
+            "タイプ２４"
+        ],
+        "spa": "Tipo 24",
+        "fra": "Type 24",
+        "deu": "Motiv 24",
+        "ita": "Tipo 24",
+        "kor": "타입24",
+        "chi_sim": "类型２４",
+        "chi_tra": "類型２４"
+    },
+    "fossildiggingscreen": {
+        "eng": "Fossil Digging Screen",
+        "jpn": [
+            "かせきほりがめんゆれ",
+            "化石掘り画面揺れ"
+        ],
+        "spa": "Temblor en excavaciones",
+        "fra": "Vibrations (excavation)",
+        "deu": "Vibrationen beim Graben",
+        "ita": "Vibrazione ricerca tesori",
+        "kor": "화석 채굴 화면 흔들림",
+        "chi_sim": "挖化石画面摇晃",
+        "chi_tra": "挖掘化石畫面搖晃"
+    },
+    "shake": {
+        "eng": "Shake",
+        "jpn": [
+            "する"
+        ],
+        "spa": "Sí",
+        "fra": "Activer",
+        "deu": "Anschalten",
+        "ita": "Sì",
+        "kor": "적용한다",
+        "chi_sim": "开启",
+        "chi_tra": "開啟"
+    },
+    "dontshake": {
+        "eng": "Don’t shake",
+        "jpn": [
+            "しない"
+        ],
+        "spa": "No",
+        "fra": "Désactiver",
+        "deu": "Ausschalten",
+        "ita": "No",
+        "kor": "적용하지 않는다",
+        "chi_sim": "关闭",
+        "chi_tra": "關閉"
+    },
+    "volume0": {
+        "eng": "0",
+        "jpn": "0",
+        "spa": "0",
+        "fra": "0",
+        "deu": "0",
+        "ita": "0",
+        "kor": "0",
+        "chi_sim": "0",
+        "chi_tra": "0"
+    },
+    "volume1": {
+        "eng": "1",
+        "jpn": "1",
+        "spa": "1",
+        "fra": "1",
+        "deu": "1",
+        "ita": "1",
+        "kor": "1",
+        "chi_sim": "1",
+        "chi_tra": "1"
+    },
+    "volume2": {
+        "eng": "2",
+        "jpn": "2",
+        "spa": "2",
+        "fra": "2",
+        "deu": "2",
+        "ita": "2",
+        "kor": "2",
+        "chi_sim": "2",
+        "chi_tra": "2"
+    },
+    "volume3": {
+        "eng": "3",
+        "jpn": "3",
+        "spa": "3",
+        "fra": "3",
+        "deu": "3",
+        "ita": "3",
+        "kor": "3",
+        "chi_sim": "3",
+        "chi_tra": "3"
+    },
+    "volume4": {
+        "eng": "4",
+        "jpn": "4",
+        "spa": "4",
+        "fra": "4",
+        "deu": "4",
+        "ita": "4",
+        "kor": "4",
+        "chi_sim": "4",
+        "chi_tra": "4"
+    },
+    "volume5": {
+        "eng": "5",
+        "jpn": "5",
+        "spa": "5",
+        "fra": "5",
+        "deu": "5",
+        "ita": "5",
+        "kor": "5",
+        "chi_sim": "5",
+        "chi_tra": "5"
+    },
+    "volume6": {
+        "eng": "6",
+        "jpn": "6",
+        "spa": "6",
+        "fra": "6",
+        "deu": "6",
+        "ita": "6",
+        "kor": "6",
+        "chi_sim": "6",
+        "chi_tra": "6"
+    },
+    "volume7": {
+        "eng": "7",
+        "jpn": "7",
+        "spa": "7",
+        "fra": "7",
+        "deu": "7",
+        "ita": "7",
+        "kor": "7",
+        "chi_sim": "7",
+        "chi_tra": "7"
+    },
+    "volume8": {
+        "eng": "8",
+        "jpn": "8",
+        "spa": "8",
+        "fra": "8",
+        "deu": "8",
+        "ita": "8",
+        "kor": "8",
+        "chi_sim": "8",
+        "chi_tra": "8"
+    },
+    "volume9": {
+        "eng": "9",
+        "jpn": "9",
+        "spa": "9",
+        "fra": "9",
+        "deu": "9",
+        "ita": "9",
+        "kor": "9",
+        "chi_sim": "9",
+        "chi_tra": "9"
+    },
+    "volume10": {
+        "eng": "10",
+        "jpn": "10",
+        "spa": "10",
+        "fra": "10",
+        "deu": "10",
+        "ita": "10",
+        "kor": "10",
+        "chi_sim": "10",
+        "chi_tra": "10"
+    }
+}
