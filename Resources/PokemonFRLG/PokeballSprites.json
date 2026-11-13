@@ -1,0 +1,54 @@
+{
+    "spriteHeight": 104,
+    "spriteWidth": 104,
+    "spriteLocations": {
+        "dive-ball": {
+            "top": 0,
+            "left": 0
+        },
+        "great-ball": {
+            "top": 0,
+            "left": 104
+        },
+        "luxury-ball": {
+            "top": 0,
+            "left": 208
+        },
+        "master-ball": {
+            "top": 0,
+            "left": 312
+        },
+        "nest-ball": {
+            "top": 104,
+            "left": 0
+        },
+        "net-ball": {
+            "top": 104,
+            "left": 104
+        },
+        "poke-ball": {
+            "top": 104,
+            "left": 208
+        },
+        "premier-ball": {
+            "top": 104,
+            "left": 312
+        },
+        "repeat-ball": {
+            "top": 208,
+            "left": 0
+        },
+        "safari-ball": {
+            "top": 208,
+            "left": 104
+        },
+        "timer-ball": {
+            "top": 208,
+            "left": 208
+        },
+        "ultra-ball": {
+            "top": 208,
+            "left": 312
+        }
+    }
+}
