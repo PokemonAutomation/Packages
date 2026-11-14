@@ -1,0 +1,3802 @@
+{
+    "tm01": {
+        "eng": [
+            "TM01",
+            "Focus Punch"
+        ],
+        "jpn": [
+            "わざマシン０１",
+            "きあいパンチ"
+        ],
+        "spa": [
+            "MT01",
+            "Puño Certero"
+        ],
+        "fra": [
+            "CT01",
+            "Mitra-Poing"
+        ],
+        "deu": [
+            "TM01",
+            "Power-Punch"
+        ],
+        "ita": [
+            "MT01",
+            "Centripugno"
+        ],
+        "kor": [
+            "기술머신01",
+            "힘껏펀치"
+        ],
+        "chi_sim": [
+            "招式学习器０１",
+            "真气拳"
+        ],
+        "chi_tra": [
+            "招式學習器０１",
+            "真氣拳"
+        ]
+    },
+    "tm02": {
+        "eng": [
+            "TM02",
+            "Dragon Claw"
+        ],
+        "jpn": [
+            "わざマシン０２",
+            "ドラゴンクロー"
+        ],
+        "spa": [
+            "MT02",
+            "Garra Dragón"
+        ],
+        "fra": [
+            "CT02",
+            "Draco-Griffe"
+        ],
+        "deu": [
+            "TM02",
+            "Drachenklaue"
+        ],
+        "ita": [
+            "MT02",
+            "Dragartigli"
+        ],
+        "kor": [
+            "기술머신02",
+            "드래곤크루"
+        ],
+        "chi_sim": [
+            "招式学习器０２",
+            "龙爪"
+        ],
+        "chi_tra": [
+            "招式學習器０２",
+            "龍爪"
+        ]
+    },
+    "tm03": {
+        "eng": [
+            "TM03",
+            "Water Pulse"
+        ],
+        "jpn": [
+            "わざマシン０３",
+            "みずのはどう"
+        ],
+        "spa": [
+            "MT03",
+            "Hidropulso"
+        ],
+        "fra": [
+            "CT03",
+            "Vibraqua"
+        ],
+        "deu": [
+            "TM03",
+            "Aquawelle"
+        ],
+        "ita": [
+            "MT03",
+            "Idropulsar"
+        ],
+        "kor": [
+            "기술머신03",
+            "물의파동"
+        ],
+        "chi_sim": [
+            "招式学习器０３",
+            "水之波动"
+        ],
+        "chi_tra": [
+            "招式學習器０３",
+            "水之波動"
+        ]
+    },
+    "tm04": {
+        "eng": [
+            "TM04",
+            "Calm Mind"
+        ],
+        "jpn": [
+            "わざマシン０４",
+            "めいそう"
+        ],
+        "spa": [
+            "MT04",
+            "Paz Mental"
+        ],
+        "fra": [
+            "CT04",
+            "Plénitude"
+        ],
+        "deu": [
+            "TM04",
+            "Gedankengut"
+        ],
+        "ita": [
+            "MT04",
+            "Calmamente"
+        ],
+        "kor": [
+            "기술머신04",
+            "명상"
+        ],
+        "chi_sim": [
+            "招式学习器０４",
+            "冥想"
+        ],
+        "chi_tra": [
+            "招式學習器０４",
+            "冥想"
+        ]
+    },
+    "tm05": {
+        "eng": [
+            "TM05",
+            "Roar"
+        ],
+        "jpn": [
+            "わざマシン０５",
+            "ほえる"
+        ],
+        "spa": [
+            "MT05",
+            "Rugido"
+        ],
+        "fra": [
+            "CT05",
+            "Hurlement"
+        ],
+        "deu": [
+            "TM05",
+            "Brüller"
+        ],
+        "ita": [
+            "MT05",
+            "Boato"
+        ],
+        "kor": [
+            "기술머신05",
+            "울부짖기"
+        ],
+        "chi_sim": [
+            "招式学习器０５",
+            "吼叫"
+        ],
+        "chi_tra": [
+            "招式學習器０５",
+            "吼叫"
+        ]
+    },
+    "tm06": {
+        "eng": [
+            "TM06",
+            "Toxic"
+        ],
+        "jpn": [
+            "わざマシン０６",
+            "どくどく"
+        ],
+        "spa": [
+            "MT06",
+            "Tóxico"
+        ],
+        "fra": [
+            "CT06",
+            "Toxik"
+        ],
+        "deu": [
+            "TM06",
+            "Toxin"
+        ],
+        "ita": [
+            "MT06",
+            "Tossina"
+        ],
+        "kor": [
+            "기술머신06",
+            "맹독"
+        ],
+        "chi_sim": [
+            "招式学习器０６",
+            "剧毒"
+        ],
+        "chi_tra": [
+            "招式學習器０６",
+            "劇毒"
+        ]
+    },
+    "tm07": {
+        "eng": [
+            "TM07",
+            "Hail"
+        ],
+        "jpn": [
+            "わざマシン０７",
+            "あられ"
+        ],
+        "spa": [
+            "MT07",
+            "Granizo"
+        ],
+        "fra": [
+            "CT07",
+            "Grêle"
+        ],
+        "deu": [
+            "TM07",
+            "Hagelsturm"
+        ],
+        "ita": [
+            "MT07",
+            "Grandine"
+        ],
+        "kor": [
+            "기술머신07",
+            "싸라기눈"
+        ],
+        "chi_sim": [
+            "招式学习器０７",
+            "冰雹"
+        ],
+        "chi_tra": [
+            "招式學習器０７",
+            "冰雹"
+        ]
+    },
+    "tm08": {
+        "eng": [
+            "TM08",
+            "Bulk Up"
+        ],
+        "jpn": [
+            "わざマシン０８",
+            "ビルドアップ"
+        ],
+        "spa": [
+            "MT08",
+            "Corpulencia"
+        ],
+        "fra": [
+            "CT08",
+            "Gonflette"
+        ],
+        "deu": [
+            "TM08",
+            "Protzer"
+        ],
+        "ita": [
+            "MT08",
+            "Granfisico"
+        ],
+        "kor": [
+            "기술머신08",
+            "벌크업"
+        ],
+        "chi_sim": [
+            "招式学习器０８",
+            "健美"
+        ],
+        "chi_tra": [
+            "招式學習器０８",
+            "健美"
+        ]
+    },
+    "tm09": {
+        "eng": [
+            "TM09",
+            "Bullet Seed"
+        ],
+        "jpn": [
+            "わざマシン０９",
+            "タネマシンガン"
+        ],
+        "spa": [
+            "MT09",
+            "Semilladora"
+        ],
+        "fra": [
+            "CT09",
+            "Balle Graine"
+        ],
+        "deu": [
+            "TM09",
+            "Kugelsaat"
+        ],
+        "ita": [
+            "MT09",
+            "Semitraglia"
+        ],
+        "kor": [
+            "기술머신09",
+            "기관총"
+        ],
+        "chi_sim": [
+            "招式学习器０９",
+            "种子机关枪"
+        ],
+        "chi_tra": [
+            "招式學習器０９",
+            "種子機關槍"
+        ]
+    },
+    "tm10": {
+        "eng": [
+            "TM10",
+            "Work Up"
+        ],
+        "jpn": [
+            "わざマシン１０",
+            "ふるいたてる"
+        ],
+        "spa": [
+            "MT10",
+            "Avivar"
+        ],
+        "fra": [
+            "CT10",
+            "Rengorgement"
+        ],
+        "deu": [
+            "TM10",
+            "Kraftschub"
+        ],
+        "ita": [
+            "MT10",
+            "Cuordileone"
+        ],
+        "kor": [
+            "기술머신10",
+            "분발"
+        ],
+        "chi_sim": [
+            "招式学习器１０",
+            "自我激励"
+        ],
+        "chi_tra": [
+            "招式學習器１０",
+            "自我激勵"
+        ]
+    },
+    "tm11": {
+        "eng": [
+            "TM11",
+            "Sunny Day"
+        ],
+        "jpn": [
+            "わざマシン１１",
+            "にほんばれ"
+        ],
+        "spa": [
+            "MT11",
+            "Día Soleado"
+        ],
+        "fra": [
+            "CT11",
+            "Zénith"
+        ],
+        "deu": [
+            "TM11",
+            "Sonnentag"
+        ],
+        "ita": [
+            "MT11",
+            "Giornodisole"
+        ],
+        "kor": [
+            "기술머신11",
+            "쾌청"
+        ],
+        "chi_sim": [
+            "招式学习器１１",
+            "大晴天"
+        ],
+        "chi_tra": [
+            "招式學習器１１",
+            "大晴天"
+        ]
+    },
+    "tm12": {
+        "eng": [
+            "TM12",
+            "Taunt"
+        ],
+        "jpn": [
+            "わざマシン１２",
+            "ちょうはつ"
+        ],
+        "spa": [
+            "MT12",
+            "Mofa"
+        ],
+        "fra": [
+            "CT12",
+            "Provoc"
+        ],
+        "deu": [
+            "TM12",
+            "Verhöhner"
+        ],
+        "ita": [
+            "MT12",
+            "Provocazione"
+        ],
+        "kor": [
+            "기술머신12",
+            "도발"
+        ],
+        "chi_sim": [
+            "招式学习器１２",
+            "挑衅"
+        ],
+        "chi_tra": [
+            "招式學習器１２",
+            "挑釁"
+        ]
+    },
+    "tm13": {
+        "eng": [
+            "TM13",
+            "Ice Beam"
+        ],
+        "jpn": [
+            "わざマシン１３",
+            "れいとうビーム"
+        ],
+        "spa": [
+            "MT13",
+            "Rayo Hielo"
+        ],
+        "fra": [
+            "CT13",
+            "Laser Glace"
+        ],
+        "deu": [
+            "TM13",
+            "Eisstrahl"
+        ],
+        "ita": [
+            "MT13",
+            "Geloraggio"
+        ],
+        "kor": [
+            "기술머신13",
+            "냉동빔"
+        ],
+        "chi_sim": [
+            "招式学习器１３",
+            "冰冻光束"
+        ],
+        "chi_tra": [
+            "招式學習器１３",
+            "冰凍光束"
+        ]
+    },
+    "tm14": {
+        "eng": [
+            "TM14",
+            "Blizzard"
+        ],
+        "jpn": [
+            "わざマシン１４",
+            "ふぶき"
+        ],
+        "spa": [
+            "MT14",
+            "Ventisca"
+        ],
+        "fra": [
+            "CT14",
+            "Blizzard"
+        ],
+        "deu": [
+            "TM14",
+            "Blizzard"
+        ],
+        "ita": [
+            "MT14",
+            "Bora"
+        ],
+        "kor": [
+            "기술머신14",
+            "눈보라"
+        ],
+        "chi_sim": [
+            "招式学习器１４",
+            "暴风雪"
+        ],
+        "chi_tra": [
+            "招式學習器１４",
+            "暴風雪"
+        ]
+    },
+    "tm15": {
+        "eng": [
+            "TM15",
+            "Hyper Beam"
+        ],
+        "jpn": [
+            "わざマシン１５",
+            "はかいこうせん"
+        ],
+        "spa": [
+            "MT15",
+            "Hiperrayo"
+        ],
+        "fra": [
+            "CT15",
+            "Ultralaser"
+        ],
+        "deu": [
+            "TM15",
+            "Hyperstrahl"
+        ],
+        "ita": [
+            "MT15",
+            "Iper Raggio"
+        ],
+        "kor": [
+            "기술머신15",
+            "파괴광선"
+        ],
+        "chi_sim": [
+            "招式学习器１５",
+            "破坏光线"
+        ],
+        "chi_tra": [
+            "招式學習器１５",
+            "破壞光線"
+        ]
+    },
+    "tm16": {
+        "eng": [
+            "TM16",
+            "Light Screen"
+        ],
+        "jpn": [
+            "わざマシン１６",
+            "ひかりのかべ"
+        ],
+        "spa": [
+            "MT16",
+            "Pantalla de Luz"
+        ],
+        "fra": [
+            "CT16",
+            "Mur Lumière"
+        ],
+        "deu": [
+            "TM16",
+            "Lichtschild"
+        ],
+        "ita": [
+            "MT16",
+            "Schermoluce"
+        ],
+        "kor": [
+            "기술머신16",
+            "빛의장막"
+        ],
+        "chi_sim": [
+            "招式学习器１６",
+            "光墙"
+        ],
+        "chi_tra": [
+            "招式學習器１６",
+            "光牆"
+        ]
+    },
+    "tm17": {
+        "eng": [
+            "TM17",
+            "Protect"
+        ],
+        "jpn": [
+            "わざマシン１７",
+            "まもる"
+        ],
+        "spa": [
+            "MT17",
+            "Protección"
+        ],
+        "fra": [
+            "CT17",
+            "Abri"
+        ],
+        "deu": [
+            "TM17",
+            "Schutzschild"
+        ],
+        "ita": [
+            "MT17",
+            "Protezione"
+        ],
+        "kor": [
+            "기술머신17",
+            "방어"
+        ],
+        "chi_sim": [
+            "招式学习器１７",
+            "守住"
+        ],
+        "chi_tra": [
+            "招式學習器１７",
+            "守住"
+        ]
+    },
+    "tm18": {
+        "eng": [
+            "TM18",
+            "Rain Dance"
+        ],
+        "jpn": [
+            "わざマシン１８",
+            "あまごい"
+        ],
+        "spa": [
+            "MT18",
+            "Danza Lluvia"
+        ],
+        "fra": [
+            "CT18",
+            "Danse Pluie"
+        ],
+        "deu": [
+            "TM18",
+            "Regentanz"
+        ],
+        "ita": [
+            "MT18",
+            "Pioggiadanza"
+        ],
+        "kor": [
+            "기술머신18",
+            "비바라기"
+        ],
+        "chi_sim": [
+            "招式学习器１８",
+            "求雨"
+        ],
+        "chi_tra": [
+            "招式學習器１８",
+            "求雨"
+        ]
+    },
+    "tm19": {
+        "eng": [
+            "TM19",
+            "Giga Drain"
+        ],
+        "jpn": [
+            "わざマシン１９",
+            "ギガドレイン"
+        ],
+        "spa": [
+            "MT19",
+            "Gigadrenado"
+        ],
+        "fra": [
+            "CT19",
+            "Giga-Sangsue"
+        ],
+        "deu": [
+            "TM19",
+            "Gigasauger"
+        ],
+        "ita": [
+            "MT19",
+            "Gigassorbimento"
+        ],
+        "kor": [
+            "기술머신19",
+            "기가드레인"
+        ],
+        "chi_sim": [
+            "招式学习器１９",
+            "终极吸取"
+        ],
+        "chi_tra": [
+            "招式學習器１９",
+            "終極吸取"
+        ]
+    },
+    "tm20": {
+        "eng": [
+            "TM20",
+            "Safeguard"
+        ],
+        "jpn": [
+            "わざマシン２０",
+            "しんぴのまもり"
+        ],
+        "spa": [
+            "MT20",
+            "Velo Sagrado"
+        ],
+        "fra": [
+            "CT20",
+            "Rune Protect"
+        ],
+        "deu": [
+            "TM20",
+            "Bodyguard"
+        ],
+        "ita": [
+            "MT20",
+            "Salvaguardia"
+        ],
+        "kor": [
+            "기술머신20",
+            "신비의부적"
+        ],
+        "chi_sim": [
+            "招式学习器２０",
+            "神秘守护"
+        ],
+        "chi_tra": [
+            "招式學習器２０",
+            "神秘守護"
+        ]
+    },
+    "tm21": {
+        "eng": [
+            "TM21",
+            "Dazzling Gleam"
+        ],
+        "jpn": [
+            "わざマシン２１",
+            "マジカルシャイン"
+        ],
+        "spa": [
+            "MT21",
+            "Brillo Mágico"
+        ],
+        "fra": [
+            "CT21",
+            "Éclat Magique"
+        ],
+        "deu": [
+            "TM21",
+            "Zauberschein"
+        ],
+        "ita": [
+            "MT21",
+            "Magibrillio"
+        ],
+        "kor": [
+            "기술머신21",
+            "매지컬샤인"
+        ],
+        "chi_sim": [
+            "招式学习器２１",
+            "魔法闪耀"
+        ],
+        "chi_tra": [
+            "招式學習器２１",
+            "魔法閃耀"
+        ]
+    },
+    "tm22": {
+        "eng": [
+            "TM22",
+            "Solar Beam"
+        ],
+        "jpn": [
+            "わざマシン２２",
+            "ソーラービーム"
+        ],
+        "spa": [
+            "MT22",
+            "Rayo Solar"
+        ],
+        "fra": [
+            "CT22",
+            "Lance-Soleil"
+        ],
+        "deu": [
+            "TM22",
+            "Solarstrahl"
+        ],
+        "ita": [
+            "MT22",
+            "Solarraggio"
+        ],
+        "kor": [
+            "기술머신22",
+            "솔라빔"
+        ],
+        "chi_sim": [
+            "招式学习器２２",
+            "日光束"
+        ],
+        "chi_tra": [
+            "招式學習器２２",
+            "日光束"
+        ]
+    },
+    "tm23": {
+        "eng": [
+            "TM23",
+            "Iron Tail"
+        ],
+        "jpn": [
+            "わざマシン２３",
+            "アイアンテール"
+        ],
+        "spa": [
+            "MT23",
+            "Cola Férrea"
+        ],
+        "fra": [
+            "CT23",
+            "Queue de Fer"
+        ],
+        "deu": [
+            "TM23",
+            "Eisenschweif"
+        ],
+        "ita": [
+            "MT23",
+            "Codacciaio"
+        ],
+        "kor": [
+            "기술머신23",
+            "아이언테일"
+        ],
+        "chi_sim": [
+            "招式学习器２３",
+            "铁尾"
+        ],
+        "chi_tra": [
+            "招式學習器２３",
+            "鐵尾"
+        ]
+    },
+    "tm24": {
+        "eng": [
+            "TM24",
+            "Thunderbolt"
+        ],
+        "jpn": [
+            "わざマシン２４",
+            "１０まんボルト"
+        ],
+        "spa": [
+            "MT24",
+            "Rayo"
+        ],
+        "fra": [
+            "CT24",
+            "Tonnerre"
+        ],
+        "deu": [
+            "TM24",
+            "Donnerblitz"
+        ],
+        "ita": [
+            "MT24",
+            "Fulmine"
+        ],
+        "kor": [
+            "기술머신24",
+            "10만볼트"
+        ],
+        "chi_sim": [
+            "招式学习器２４",
+            "十万伏特"
+        ],
+        "chi_tra": [
+            "招式學習器２４",
+            "十萬伏特"
+        ]
+    },
+    "tm25": {
+        "eng": [
+            "TM25",
+            "Thunder"
+        ],
+        "jpn": [
+            "わざマシン２５",
+            "かみなり"
+        ],
+        "spa": [
+            "MT25",
+            "Trueno"
+        ],
+        "fra": [
+            "CT25",
+            "Fatal-Foudre"
+        ],
+        "deu": [
+            "TM25",
+            "Donner"
+        ],
+        "ita": [
+            "MT25",
+            "Tuono"
+        ],
+        "kor": [
+            "기술머신25",
+            "번개"
+        ],
+        "chi_sim": [
+            "招式学习器２５",
+            "打雷"
+        ],
+        "chi_tra": [
+            "招式學習器２５",
+            "打雷"
+        ]
+    },
+    "tm26": {
+        "eng": [
+            "TM26",
+            "Earthquake"
+        ],
+        "jpn": [
+            "わざマシン２６",
+            "じしん"
+        ],
+        "spa": [
+            "MT26",
+            "Terremoto"
+        ],
+        "fra": [
+            "CT26",
+            "Séisme"
+        ],
+        "deu": [
+            "TM26",
+            "Erdbeben"
+        ],
+        "ita": [
+            "MT26",
+            "Terremoto"
+        ],
+        "kor": [
+            "기술머신26",
+            "지진"
+        ],
+        "chi_sim": [
+            "招式学习器２６",
+            "地震"
+        ],
+        "chi_tra": [
+            "招式學習器２６",
+            "地震"
+        ]
+    },
+    "tm27": {
+        "eng": [
+            "TM27",
+            "Low Sweep"
+        ],
+        "jpn": [
+            "わざマシン２７",
+            "ローキック"
+        ],
+        "spa": [
+            "MT27",
+            "Puntapié"
+        ],
+        "fra": [
+            "CT27",
+            "Balayette"
+        ],
+        "deu": [
+            "TM27",
+            "Fußtritt"
+        ],
+        "ita": [
+            "MT27",
+            "Calciobasso"
+        ],
+        "kor": [
+            "기술머신27",
+            "로킥"
+        ],
+        "chi_sim": [
+            "招式学习器２７",
+            "下盘踢"
+        ],
+        "chi_tra": [
+            "招式學習器２７",
+            "下盤踢"
+        ]
+    },
+    "tm28": {
+        "eng": [
+            "TM28",
+            "Dig"
+        ],
+        "jpn": [
+            "わざマシン２８",
+            "あなをほる"
+        ],
+        "spa": [
+            "MT28",
+            "Excavar"
+        ],
+        "fra": [
+            "CT28",
+            "Tunnel"
+        ],
+        "deu": [
+            "TM28",
+            "Schaufler"
+        ],
+        "ita": [
+            "MT28",
+            "Fossa"
+        ],
+        "kor": [
+            "기술머신28",
+            "구멍파기"
+        ],
+        "chi_sim": [
+            "招式学习器２８",
+            "挖洞"
+        ],
+        "chi_tra": [
+            "招式學習器２８",
+            "挖洞"
+        ]
+    },
+    "tm29": {
+        "eng": [
+            "TM29",
+            "Psychic"
+        ],
+        "jpn": [
+            "わざマシン２９",
+            "サイコキネシス"
+        ],
+        "spa": [
+            "MT29",
+            "Psíquico"
+        ],
+        "fra": [
+            "CT29",
+            "Psyko"
+        ],
+        "deu": [
+            "TM29",
+            "Psychokinese"
+        ],
+        "ita": [
+            "MT29",
+            "Psichico"
+        ],
+        "kor": [
+            "기술머신29",
+            "사이코키네시스"
+        ],
+        "chi_sim": [
+            "招式学习器２９",
+            "精神强念"
+        ],
+        "chi_tra": [
+            "招式學習器２９",
+            "精神強念"
+        ]
+    },
+    "tm30": {
+        "eng": [
+            "TM30",
+            "Shadow Ball"
+        ],
+        "jpn": [
+            "わざマシン３０",
+            "シャドーボール"
+        ],
+        "spa": [
+            "MT30",
+            "Bola Sombra"
+        ],
+        "fra": [
+            "CT30",
+            "Ball’Ombre"
+        ],
+        "deu": [
+            "TM30",
+            "Spukball"
+        ],
+        "ita": [
+            "MT30",
+            "Palla Ombra"
+        ],
+        "kor": [
+            "기술머신30",
+            "섀도볼"
+        ],
+        "chi_sim": [
+            "招式学习器３０",
+            "暗影球"
+        ],
+        "chi_tra": [
+            "招式學習器３０",
+            "暗影球"
+        ]
+    },
+    "tm31": {
+        "eng": [
+            "TM31",
+            "Brick Break"
+        ],
+        "jpn": [
+            "わざマシン３１",
+            "かわらわり"
+        ],
+        "spa": [
+            "MT31",
+            "Demolición"
+        ],
+        "fra": [
+            "CT31",
+            "Casse-Brique"
+        ],
+        "deu": [
+            "TM31",
+            "Durchbruch"
+        ],
+        "ita": [
+            "MT31",
+            "Breccia"
+        ],
+        "kor": [
+            "기술머신31",
+            "깨트리다"
+        ],
+        "chi_sim": [
+            "招式学习器３１",
+            "劈瓦"
+        ],
+        "chi_tra": [
+            "招式學習器３１",
+            "劈瓦"
+        ]
+    },
+    "tm32": {
+        "eng": [
+            "TM32",
+            "Double Team"
+        ],
+        "jpn": [
+            "わざマシン３２",
+            "かげぶんしん"
+        ],
+        "spa": [
+            "MT32",
+            "Doble Equipo"
+        ],
+        "fra": [
+            "CT32",
+            "Reflet"
+        ],
+        "deu": [
+            "TM32",
+            "Doppelteam"
+        ],
+        "ita": [
+            "MT32",
+            "Doppioteam"
+        ],
+        "kor": [
+            "기술머신32",
+            "그림자분신"
+        ],
+        "chi_sim": [
+            "招式学习器３２",
+            "影子分身"
+        ],
+        "chi_tra": [
+            "招式學習器３２",
+            "影子分身"
+        ]
+    },
+    "tm33": {
+        "eng": [
+            "TM33",
+            "Reflect"
+        ],
+        "jpn": [
+            "わざマシン３３",
+            "リフレクター"
+        ],
+        "spa": [
+            "MT33",
+            "Reflejo"
+        ],
+        "fra": [
+            "CT33",
+            "Protection"
+        ],
+        "deu": [
+            "TM33",
+            "Reflektor"
+        ],
+        "ita": [
+            "MT33",
+            "Riflesso"
+        ],
+        "kor": [
+            "기술머신33",
+            "리플렉터"
+        ],
+        "chi_sim": [
+            "招式学习器３３",
+            "反射壁"
+        ],
+        "chi_tra": [
+            "招式學習器３３",
+            "反射壁"
+        ]
+    },
+    "tm34": {
+        "eng": [
+            "TM34",
+            "Shock Wave"
+        ],
+        "jpn": [
+            "わざマシン３４",
+            "でんげきは"
+        ],
+        "spa": [
+            "MT34",
+            "Onda Voltio"
+        ],
+        "fra": [
+            "CT34",
+            "Onde de Choc"
+        ],
+        "deu": [
+            "TM34",
+            "Schockwelle"
+        ],
+        "ita": [
+            "MT34",
+            "Ondashock"
+        ],
+        "kor": [
+            "기술머신34",
+            "전격파"
+        ],
+        "chi_sim": [
+            "招式学习器３４",
+            "电击波"
+        ],
+        "chi_tra": [
+            "招式學習器３４",
+            "電擊波"
+        ]
+    },
+    "tm35": {
+        "eng": [
+            "TM35",
+            "Flamethrower"
+        ],
+        "jpn": [
+            "わざマシン３５",
+            "かえんほうしゃ"
+        ],
+        "spa": [
+            "MT35",
+            "Lanzallamas"
+        ],
+        "fra": [
+            "CT35",
+            "Lance-Flammes"
+        ],
+        "deu": [
+            "TM35",
+            "Flammenwurf"
+        ],
+        "ita": [
+            "MT35",
+            "Lanciafiamme"
+        ],
+        "kor": [
+            "기술머신35",
+            "화염방사"
+        ],
+        "chi_sim": [
+            "招式学习器３５",
+            "喷射火焰"
+        ],
+        "chi_tra": [
+            "招式學習器３５",
+            "噴射火焰"
+        ]
+    },
+    "tm36": {
+        "eng": [
+            "TM36",
+            "Sludge Bomb"
+        ],
+        "jpn": [
+            "わざマシン３６",
+            "ヘドロばくだん"
+        ],
+        "spa": [
+            "MT36",
+            "Bomba Lodo"
+        ],
+        "fra": [
+            "CT36",
+            "Bombe Beurk"
+        ],
+        "deu": [
+            "TM36",
+            "Matschbombe"
+        ],
+        "ita": [
+            "MT36",
+            "Fangobomba"
+        ],
+        "kor": [
+            "기술머신36",
+            "오물폭탄"
+        ],
+        "chi_sim": [
+            "招式学习器３６",
+            "污泥炸弹"
+        ],
+        "chi_tra": [
+            "招式學習器３６",
+            "污泥炸彈"
+        ]
+    },
+    "tm37": {
+        "eng": [
+            "TM37",
+            "Sandstorm"
+        ],
+        "jpn": [
+            "わざマシン３７",
+            "すなあらし"
+        ],
+        "spa": [
+            "MT37",
+            "Tormenta Arena"
+        ],
+        "fra": [
+            "CT37",
+            "Tempête de Sable"
+        ],
+        "deu": [
+            "TM37",
+            "Sandsturm"
+        ],
+        "ita": [
+            "MT37",
+            "Terrempesta"
+        ],
+        "kor": [
+            "기술머신37",
+            "모래바람"
+        ],
+        "chi_sim": [
+            "招式学习器３７",
+            "沙暴"
+        ],
+        "chi_tra": [
+            "招式學習器３７",
+            "沙暴"
+        ]
+    },
+    "tm38": {
+        "eng": [
+            "TM38",
+            "Fire Blast"
+        ],
+        "jpn": [
+            "わざマシン３８",
+            "だいもんじ"
+        ],
+        "spa": [
+            "MT38",
+            "Llamarada"
+        ],
+        "fra": [
+            "CT38",
+            "Déflagration"
+        ],
+        "deu": [
+            "TM38",
+            "Feuersturm"
+        ],
+        "ita": [
+            "MT38",
+            "Fuocobomba"
+        ],
+        "kor": [
+            "기술머신38",
+            "불대문자"
+        ],
+        "chi_sim": [
+            "招式学习器３８",
+            "大字爆炎"
+        ],
+        "chi_tra": [
+            "招式學習器３８",
+            "大字爆炎"
+        ]
+    },
+    "tm39": {
+        "eng": [
+            "TM39",
+            "Rock Tomb"
+        ],
+        "jpn": [
+            "わざマシン３９",
+            "がんせきふうじ"
+        ],
+        "spa": [
+            "MT39",
+            "Tumba Rocas"
+        ],
+        "fra": [
+            "CT39",
+            "Tomberoche"
+        ],
+        "deu": [
+            "TM39",
+            "Felsgrab"
+        ],
+        "ita": [
+            "MT39",
+            "Rocciotomba"
+        ],
+        "kor": [
+            "기술머신39",
+            "암석봉인"
+        ],
+        "chi_sim": [
+            "招式学习器３９",
+            "岩石封锁"
+        ],
+        "chi_tra": [
+            "招式學習器３９",
+            "岩石封鎖"
+        ]
+    },
+    "tm40": {
+        "eng": [
+            "TM40",
+            "Aerial Ace"
+        ],
+        "jpn": [
+            "わざマシン４０",
+            "つばめがえし"
+        ],
+        "spa": [
+            "MT40",
+            "Golpe Aéreo"
+        ],
+        "fra": [
+            "CT40",
+            "Aéropique"
+        ],
+        "deu": [
+            "TM40",
+            "Aero-Ass"
+        ],
+        "ita": [
+            "MT40",
+            "Aeroassalto"
+        ],
+        "kor": [
+            "기술머신40",
+            "제비반환"
+        ],
+        "chi_sim": [
+            "招式学习器４０",
+            "燕返"
+        ],
+        "chi_tra": [
+            "招式學習器４０",
+            "燕返"
+        ]
+    },
+    "tm41": {
+        "eng": [
+            "TM41",
+            "Torment"
+        ],
+        "jpn": [
+            "わざマシン４１",
+            "いちゃもん"
+        ],
+        "spa": [
+            "MT41",
+            "Tormento"
+        ],
+        "fra": [
+            "CT41",
+            "Tourmente"
+        ],
+        "deu": [
+            "TM41",
+            "Folterknecht"
+        ],
+        "ita": [
+            "MT41",
+            "Attaccalite"
+        ],
+        "kor": [
+            "기술머신41",
+            "트집"
+        ],
+        "chi_sim": [
+            "招式学习器４１",
+            "无理取闹"
+        ],
+        "chi_tra": [
+            "招式學習器４１",
+            "無理取鬧"
+        ]
+    },
+    "tm42": {
+        "eng": [
+            "TM42",
+            "Facade"
+        ],
+        "jpn": [
+            "わざマシン４２",
+            "からげんき"
+        ],
+        "spa": [
+            "MT42",
+            "Imagen"
+        ],
+        "fra": [
+            "CT42",
+            "Façade"
+        ],
+        "deu": [
+            "TM42",
+            "Fassade"
+        ],
+        "ita": [
+            "MT42",
+            "Facciata"
+        ],
+        "kor": [
+            "기술머신42",
+            "객기"
+        ],
+        "chi_sim": [
+            "招式学习器４２",
+            "硬撑"
+        ],
+        "chi_tra": [
+            "招式學習器４２",
+            "硬撐"
+        ]
+    },
+    "tm43": {
+        "eng": [
+            "TM43",
+            "Volt Switch"
+        ],
+        "jpn": [
+            "わざマシン４３",
+            "ボルトチェンジ"
+        ],
+        "spa": [
+            "MT43",
+            "Voltiocambio"
+        ],
+        "fra": [
+            "CT43",
+            "Change Éclair"
+        ],
+        "deu": [
+            "TM43",
+            "Voltwechsel"
+        ],
+        "ita": [
+            "MT43",
+            "Invertivolt"
+        ],
+        "kor": [
+            "기술머신43",
+            "볼트체인지"
+        ],
+        "chi_sim": [
+            "招式学习器４３",
+            "伏特替换"
+        ],
+        "chi_tra": [
+            "招式學習器４３",
+            "伏特替換"
+        ]
+    },
+    "tm44": {
+        "eng": [
+            "TM44",
+            "Rest"
+        ],
+        "jpn": [
+            "わざマシン４４",
+            "ねむる"
+        ],
+        "spa": [
+            "MT44",
+            "Descanso"
+        ],
+        "fra": [
+            "CT44",
+            "Repos"
+        ],
+        "deu": [
+            "TM44",
+            "Erholung"
+        ],
+        "ita": [
+            "MT44",
+            "Riposo"
+        ],
+        "kor": [
+            "기술머신44",
+            "잠자기"
+        ],
+        "chi_sim": [
+            "招式学习器４４",
+            "睡觉"
+        ],
+        "chi_tra": [
+            "招式學習器４４",
+            "睡覺"
+        ]
+    },
+    "tm45": {
+        "eng": [
+            "TM45",
+            "Attract"
+        ],
+        "jpn": [
+            "わざマシン４５",
+            "メロメロ"
+        ],
+        "spa": [
+            "MT45",
+            "Atracción"
+        ],
+        "fra": [
+            "CT45",
+            "Attraction"
+        ],
+        "deu": [
+            "TM45",
+            "Anziehung"
+        ],
+        "ita": [
+            "MT45",
+            "Attrazione"
+        ],
+        "kor": [
+            "기술머신45",
+            "헤롱헤롱"
+        ],
+        "chi_sim": [
+            "招式学习器４５",
+            "迷人"
+        ],
+        "chi_tra": [
+            "招式學習器４５",
+            "迷人"
+        ]
+    },
+    "tm46": {
+        "eng": [
+            "TM46",
+            "Thief"
+        ],
+        "jpn": [
+            "わざマシン４６",
+            "どろぼう"
+        ],
+        "spa": [
+            "MT46",
+            "Ladrón"
+        ],
+        "fra": [
+            "CT46",
+            "Larcin"
+        ],
+        "deu": [
+            "TM46",
+            "Raub"
+        ],
+        "ita": [
+            "MT46",
+            "Furto"
+        ],
+        "kor": [
+            "기술머신46",
+            "도둑질"
+        ],
+        "chi_sim": [
+            "招式学习器４６",
+            "小偷"
+        ],
+        "chi_tra": [
+            "招式學習器４６",
+            "小偷"
+        ]
+    },
+    "tm47": {
+        "eng": [
+            "TM47",
+            "Steel Wing"
+        ],
+        "jpn": [
+            "わざマシン４７",
+            "はがねのつばさ"
+        ],
+        "spa": [
+            "MT47",
+            "Ala de Acero"
+        ],
+        "fra": [
+            "CT47",
+            "Ailes d’Acier"
+        ],
+        "deu": [
+            "TM47",
+            "Stahlflügel"
+        ],
+        "ita": [
+            "MT47",
+            "Alacciaio"
+        ],
+        "kor": [
+            "기술머신47",
+            "강철날개"
+        ],
+        "chi_sim": [
+            "招式学习器４７",
+            "钢翼"
+        ],
+        "chi_tra": [
+            "招式學習器４７",
+            "鋼翼"
+        ]
+    },
+    "tm48": {
+        "eng": [
+            "TM48",
+            "Skill Swap"
+        ],
+        "jpn": [
+            "わざマシン４８",
+            "スキルスワップ"
+        ],
+        "spa": [
+            "MT48",
+            "Intercambio"
+        ],
+        "fra": [
+            "CT48",
+            "Échange"
+        ],
+        "deu": [
+            "TM48",
+            "Fähigkeitstausch"
+        ],
+        "ita": [
+            "MT48",
+            "Baratto"
+        ],
+        "kor": [
+            "기술머신48",
+            "스킬스웹"
+        ],
+        "chi_sim": [
+            "招式学习器４８",
+            "特性互换"
+        ],
+        "chi_tra": [
+            "招式學習器４８",
+            "特性互換"
+        ]
+    },
+    "tm49": {
+        "eng": [
+            "TM49",
+            "Scald"
+        ],
+        "jpn": [
+            "わざマシン４９",
+            "ねっとう"
+        ],
+        "spa": [
+            "MT49",
+            "Escaldar"
+        ],
+        "fra": [
+            "CT49",
+            "Ébullition"
+        ],
+        "deu": [
+            "TM49",
+            "Siedewasser"
+        ],
+        "ita": [
+            "MT49",
+            "Idrovampata"
+        ],
+        "kor": [
+            "기술머신49",
+            "열탕"
+        ],
+        "chi_sim": [
+            "招式学习器４９",
+            "热水"
+        ],
+        "chi_tra": [
+            "招式學習器４９",
+            "熱水"
+        ]
+    },
+    "tm50": {
+        "eng": [
+            "TM50",
+            "Overheat"
+        ],
+        "jpn": [
+            "わざマシン５０",
+            "オーバーヒート"
+        ],
+        "spa": [
+            "MT50",
+            "Sofoco"
+        ],
+        "fra": [
+            "CT50",
+            "Surchauffe"
+        ],
+        "deu": [
+            "TM50",
+            "Hitzekoller"
+        ],
+        "ita": [
+            "MT50",
+            "Vampata"
+        ],
+        "kor": [
+            "기술머신50",
+            "오버히트"
+        ],
+        "chi_sim": [
+            "招式学习器５０",
+            "过热"
+        ],
+        "chi_tra": [
+            "招式學習器５０",
+            "過熱"
+        ]
+    },
+    "tm51": {
+        "eng": [
+            "TM51",
+            "Roost"
+        ],
+        "jpn": [
+            "わざマシン５１",
+            "はねやすめ"
+        ],
+        "spa": [
+            "MT51",
+            "Respiro"
+        ],
+        "fra": [
+            "CT51",
+            "Atterrissage"
+        ],
+        "deu": [
+            "TM51",
+            "Ruheort"
+        ],
+        "ita": [
+            "MT51",
+            "Trespolo"
+        ],
+        "kor": [
+            "기술머신51",
+            "날개쉬기"
+        ],
+        "chi_sim": [
+            "招式学习器５１",
+            "羽栖"
+        ],
+        "chi_tra": [
+            "招式學習器５１",
+            "羽棲"
+        ]
+    },
+    "tm52": {
+        "eng": [
+            "TM52",
+            "Focus Blast"
+        ],
+        "jpn": [
+            "わざマシン５２",
+            "きあいだま"
+        ],
+        "spa": [
+            "MT52",
+            "Onda Certera"
+        ],
+        "fra": [
+            "CT52",
+            "Exploforce"
+        ],
+        "deu": [
+            "TM52",
+            "Fokusstoß"
+        ],
+        "ita": [
+            "MT52",
+            "Focalcolpo"
+        ],
+        "kor": [
+            "기술머신52",
+            "기합구슬"
+        ],
+        "chi_sim": [
+            "招式学习器５２",
+            "真气弹"
+        ],
+        "chi_tra": [
+            "招式學習器５２",
+            "真氣彈"
+        ]
+    },
+    "tm53": {
+        "eng": [
+            "TM53",
+            "Energy Ball"
+        ],
+        "jpn": [
+            "わざマシン５３",
+            "エナジーボール"
+        ],
+        "spa": [
+            "MT53",
+            "Energibola"
+        ],
+        "fra": [
+            "CT53",
+            "Éco-Sphère"
+        ],
+        "deu": [
+            "TM53",
+            "Energieball"
+        ],
+        "ita": [
+            "MT53",
+            "Energipalla"
+        ],
+        "kor": [
+            "기술머신53",
+            "에너지볼"
+        ],
+        "chi_sim": [
+            "招式学习器５３",
+            "能量球"
+        ],
+        "chi_tra": [
+            "招式學習器５３",
+            "能量球"
+        ]
+    },
+    "tm54": {
+        "eng": [
+            "TM54",
+            "False Swipe"
+        ],
+        "jpn": [
+            "わざマシン５４",
+            "みねうち"
+        ],
+        "spa": [
+            "MT54",
+            "Falso Tortazo"
+        ],
+        "fra": [
+            "CT54",
+            "Faux-Chage"
+        ],
+        "deu": [
+            "TM54",
+            "Trugschlag"
+        ],
+        "ita": [
+            "MT54",
+            "Falsofinale"
+        ],
+        "kor": [
+            "기술머신54",
+            "칼등치기"
+        ],
+        "chi_sim": [
+            "招式学习器５４",
+            "点到为止"
+        ],
+        "chi_tra": [
+            "招式學習器５４",
+            "點到為止"
+        ]
+    },
+    "tm55": {
+        "eng": [
+            "TM55",
+            "Brine"
+        ],
+        "jpn": [
+            "わざマシン５５",
+            "しおみず"
+        ],
+        "spa": [
+            "MT55",
+            "Salmuera"
+        ],
+        "fra": [
+            "CT55",
+            "Saumure"
+        ],
+        "deu": [
+            "TM55",
+            "Lake"
+        ],
+        "ita": [
+            "MT55",
+            "Acquadisale"
+        ],
+        "kor": [
+            "기술머신55",
+            "소금물"
+        ],
+        "chi_sim": [
+            "招式学习器５５",
+            "盐水"
+        ],
+        "chi_tra": [
+            "招式學習器５５",
+            "鹽水"
+        ]
+    },
+    "tm56": {
+        "eng": [
+            "TM56",
+            "Fling"
+        ],
+        "jpn": [
+            "わざマシン５６",
+            "なげつける"
+        ],
+        "spa": [
+            "MT56",
+            "Lanzamiento"
+        ],
+        "fra": [
+            "CT56",
+            "Dégommage"
+        ],
+        "deu": [
+            "TM56",
+            "Schleuder"
+        ],
+        "ita": [
+            "MT56",
+            "Lancio"
+        ],
+        "kor": [
+            "기술머신56",
+            "내던지기"
+        ],
+        "chi_sim": [
+            "招式学习器５６",
+            "投掷"
+        ],
+        "chi_tra": [
+            "招式學習器５６",
+            "投擲"
+        ]
+    },
+    "tm57": {
+        "eng": [
+            "TM57",
+            "Charge Beam"
+        ],
+        "jpn": [
+            "わざマシン５７",
+            "チャージビーム"
+        ],
+        "spa": [
+            "MT57",
+            "Rayo Carga"
+        ],
+        "fra": [
+            "CT57",
+            "Rayon Chargé"
+        ],
+        "deu": [
+            "TM57",
+            "Ladestrahl"
+        ],
+        "ita": [
+            "MT57",
+            "Raggioscossa"
+        ],
+        "kor": [
+            "기술머신57",
+            "차지빔"
+        ],
+        "chi_sim": [
+            "招式学习器５７",
+            "充电光束"
+        ],
+        "chi_tra": [
+            "招式學習器５７",
+            "充電光束"
+        ]
+    },
+    "tm58": {
+        "eng": [
+            "TM58",
+            "Endure"
+        ],
+        "jpn": [
+            "わざマシン５８",
+            "こらえる"
+        ],
+        "spa": [
+            "MT58",
+            "Aguante"
+        ],
+        "fra": [
+            "CT58",
+            "Ténacité"
+        ],
+        "deu": [
+            "TM58",
+            "Ausdauer"
+        ],
+        "ita": [
+            "MT58",
+            "Resistenza"
+        ],
+        "kor": [
+            "기술머신58",
+            "버티기"
+        ],
+        "chi_sim": [
+            "招式学习器５８",
+            "挺住"
+        ],
+        "chi_tra": [
+            "招式學習器５８",
+            "挺住"
+        ]
+    },
+    "tm59": {
+        "eng": [
+            "TM59",
+            "Dragon Pulse"
+        ],
+        "jpn": [
+            "わざマシン５９",
+            "りゅうのはどう"
+        ],
+        "spa": [
+            "MT59",
+            "Pulso Dragón"
+        ],
+        "fra": [
+            "CT59",
+            "Draco-Choc"
+        ],
+        "deu": [
+            "TM59",
+            "Drachenpuls"
+        ],
+        "ita": [
+            "MT59",
+            "Dragopulsar"
+        ],
+        "kor": [
+            "기술머신59",
+            "용의파동"
+        ],
+        "chi_sim": [
+            "招式学习器５９",
+            "龙之波动"
+        ],
+        "chi_tra": [
+            "招式學習器５９",
+            "龍之波動"
+        ]
+    },
+    "tm60": {
+        "eng": [
+            "TM60",
+            "Drain Punch"
+        ],
+        "jpn": [
+            "わざマシン６０",
+            "ドレインパンチ"
+        ],
+        "spa": [
+            "MT60",
+            "Puño Drenaje"
+        ],
+        "fra": [
+            "CT60",
+            "Vampi-Poing"
+        ],
+        "deu": [
+            "TM60",
+            "Ableithieb"
+        ],
+        "ita": [
+            "MT60",
+            "Assorbipugno"
+        ],
+        "kor": [
+            "기술머신60",
+            "드레인펀치"
+        ],
+        "chi_sim": [
+            "招式学习器６０",
+            "吸取拳"
+        ],
+        "chi_tra": [
+            "招式學習器６０",
+            "吸取拳"
+        ]
+    },
+    "tm61": {
+        "eng": [
+            "TM61",
+            "Will-O-Wisp"
+        ],
+        "jpn": [
+            "わざマシン６１",
+            "おにび"
+        ],
+        "spa": [
+            "MT61",
+            "Fuego Fatuo"
+        ],
+        "fra": [
+            "CT61",
+            "Feu Follet"
+        ],
+        "deu": [
+            "TM61",
+            "Irrlicht"
+        ],
+        "ita": [
+            "MT61",
+            "Fuocofatuo"
+        ],
+        "kor": [
+            "기술머신61",
+            "도깨비불"
+        ],
+        "chi_sim": [
+            "招式学习器６１",
+            "磷火"
+        ],
+        "chi_tra": [
+            "招式學習器６１",
+            "鬼火"
+        ]
+    },
+    "tm62": {
+        "eng": [
+            "TM62",
+            "Bug Buzz"
+        ],
+        "jpn": [
+            "わざマシン６２",
+            "むしのさざめき"
+        ],
+        "spa": [
+            "MT62",
+            "Zumbido"
+        ],
+        "fra": [
+            "CT62",
+            "Bourdon"
+        ],
+        "deu": [
+            "TM62",
+            "Käfergebrumm"
+        ],
+        "ita": [
+            "MT62",
+            "Ronzio"
+        ],
+        "kor": [
+            "기술머신62",
+            "벌레의야단법석"
+        ],
+        "chi_sim": [
+            "招式学习器６２",
+            "虫鸣"
+        ],
+        "chi_tra": [
+            "招式學習器６２",
+            "蟲鳴"
+        ]
+    },
+    "tm63": {
+        "eng": [
+            "TM63",
+            "Nasty Plot"
+        ],
+        "jpn": [
+            "わざマシン６３",
+            "わるだくみ"
+        ],
+        "spa": [
+            "MT63",
+            "Maquinación"
+        ],
+        "fra": [
+            "CT63",
+            "Machination"
+        ],
+        "deu": [
+            "TM63",
+            "Ränkeschmied"
+        ],
+        "ita": [
+            "MT63",
+            "Congiura"
+        ],
+        "kor": [
+            "기술머신63",
+            "나쁜음모"
+        ],
+        "chi_sim": [
+            "招式学习器６３",
+            "诡计"
+        ],
+        "chi_tra": [
+            "招式學習器６３",
+            "詭計"
+        ]
+    },
+    "tm64": {
+        "eng": [
+            "TM64",
+            "Explosion"
+        ],
+        "jpn": [
+            "わざマシン６４",
+            "だいばくはつ"
+        ],
+        "spa": [
+            "MT64",
+            "Explosión"
+        ],
+        "fra": [
+            "CT64",
+            "Explosion"
+        ],
+        "deu": [
+            "TM64",
+            "Explosion"
+        ],
+        "ita": [
+            "MT64",
+            "Esplosione"
+        ],
+        "kor": [
+            "기술머신64",
+            "대폭발"
+        ],
+        "chi_sim": [
+            "招式学习器６４",
+            "大爆炸"
+        ],
+        "chi_tra": [
+            "招式學習器６４",
+            "大爆炸"
+        ]
+    },
+    "tm65": {
+        "eng": [
+            "TM65",
+            "Shadow Claw"
+        ],
+        "jpn": [
+            "わざマシン６５",
+            "シャドークロー"
+        ],
+        "spa": [
+            "MT65",
+            "Garra Umbría"
+        ],
+        "fra": [
+            "CT65",
+            "Griffe Ombre"
+        ],
+        "deu": [
+            "TM65",
+            "Dunkelklaue"
+        ],
+        "ita": [
+            "MT65",
+            "Ombrartigli"
+        ],
+        "kor": [
+            "기술머신65",
+            "섀도크루"
+        ],
+        "chi_sim": [
+            "招式学习器６５",
+            "暗影爪"
+        ],
+        "chi_tra": [
+            "招式學習器６５",
+            "暗影爪"
+        ]
+    },
+    "tm66": {
+        "eng": [
+            "TM66",
+            "Payback"
+        ],
+        "jpn": [
+            "わざマシン６６",
+            "しっぺがえし"
+        ],
+        "spa": [
+            "MT66",
+            "Vendetta"
+        ],
+        "fra": [
+            "CT66",
+            "Représailles"
+        ],
+        "deu": [
+            "TM66",
+            "Gegenstoß"
+        ],
+        "ita": [
+            "MT66",
+            "Rivincita"
+        ],
+        "kor": [
+            "기술머신66",
+            "보복"
+        ],
+        "chi_sim": [
+            "招式学习器６６",
+            "以牙还牙"
+        ],
+        "chi_tra": [
+            "招式學習器６６",
+            "以牙還牙"
+        ]
+    },
+    "tm67": {
+        "eng": [
+            "TM67",
+            "Recycle"
+        ],
+        "jpn": [
+            "わざマシン６７",
+            "リサイクル"
+        ],
+        "spa": [
+            "MT67",
+            "Reciclaje"
+        ],
+        "fra": [
+            "CT67",
+            "Recyclage"
+        ],
+        "deu": [
+            "TM67",
+            "Aufbereitung"
+        ],
+        "ita": [
+            "MT67",
+            "Riciclo"
+        ],
+        "kor": [
+            "기술머신67",
+            "리사이클"
+        ],
+        "chi_sim": [
+            "招式学习器６７",
+            "回收利用"
+        ],
+        "chi_tra": [
+            "招式學習器６７",
+            "回收利用"
+        ]
+    },
+    "tm68": {
+        "eng": [
+            "TM68",
+            "Giga Impact"
+        ],
+        "jpn": [
+            "わざマシン６８",
+            "ギガインパクト"
+        ],
+        "spa": [
+            "MT68",
+            "Gigaimpacto"
+        ],
+        "fra": [
+            "CT68",
+            "Giga Impact"
+        ],
+        "deu": [
+            "TM68",
+            "Gigastoß"
+        ],
+        "ita": [
+            "MT68",
+            "Gigaimpatto"
+        ],
+        "kor": [
+            "기술머신68",
+            "기가임팩트"
+        ],
+        "chi_sim": [
+            "招式学习器６８",
+            "终极冲击"
+        ],
+        "chi_tra": [
+            "招式學習器６８",
+            "終極衝擊"
+        ]
+    },
+    "tm69": {
+        "eng": [
+            "TM69",
+            "Rock Polish"
+        ],
+        "jpn": [
+            "わざマシン６９",
+            "ロックカット"
+        ],
+        "spa": [
+            "MT69",
+            "Pulimento"
+        ],
+        "fra": [
+            "CT69",
+            "Poliroche"
+        ],
+        "deu": [
+            "TM69",
+            "Steinpolitur"
+        ],
+        "ita": [
+            "MT69",
+            "Lucidatura"
+        ],
+        "kor": [
+            "기술머신69",
+            "록커트"
+        ],
+        "chi_sim": [
+            "招式学习器６９",
+            "岩石打磨"
+        ],
+        "chi_tra": [
+            "招式學習器６９",
+            "岩石打磨"
+        ]
+    },
+    "tm70": {
+        "eng": [
+            "TM70",
+            "Flash"
+        ],
+        "jpn": [
+            "わざマシン７０",
+            "フラッシュ"
+        ],
+        "spa": [
+            "MT70",
+            "Destello"
+        ],
+        "fra": [
+            "CT70",
+            "Flash"
+        ],
+        "deu": [
+            "TM70",
+            "Blitz"
+        ],
+        "ita": [
+            "MT70",
+            "Flash"
+        ],
+        "kor": [
+            "기술머신70",
+            "플래시"
+        ],
+        "chi_sim": [
+            "招式学习器７０",
+            "闪光"
+        ],
+        "chi_tra": [
+            "招式學習器７０",
+            "閃光"
+        ]
+    },
+    "tm71": {
+        "eng": [
+            "TM71",
+            "Stone Edge"
+        ],
+        "jpn": [
+            "わざマシン７１",
+            "ストーンエッジ"
+        ],
+        "spa": [
+            "MT71",
+            "Roca Afilada"
+        ],
+        "fra": [
+            "CT71",
+            "Lame de Roc"
+        ],
+        "deu": [
+            "TM71",
+            "Steinkante"
+        ],
+        "ita": [
+            "MT71",
+            "Pietrataglio"
+        ],
+        "kor": [
+            "기술머신71",
+            "스톤에지"
+        ],
+        "chi_sim": [
+            "招式学习器７１",
+            "尖石攻击"
+        ],
+        "chi_tra": [
+            "招式學習器７１",
+            "尖石攻擊"
+        ]
+    },
+    "tm72": {
+        "eng": [
+            "TM72",
+            "Avalanche"
+        ],
+        "jpn": [
+            "わざマシン７２",
+            "ゆきなだれ"
+        ],
+        "spa": [
+            "MT72",
+            "Alud"
+        ],
+        "fra": [
+            "CT72",
+            "Avalanche"
+        ],
+        "deu": [
+            "TM72",
+            "Lawine"
+        ],
+        "ita": [
+            "MT72",
+            "Slavina"
+        ],
+        "kor": [
+            "기술머신72",
+            "눈사태"
+        ],
+        "chi_sim": [
+            "招式学习器７２",
+            "雪崩"
+        ],
+        "chi_tra": [
+            "招式學習器７２",
+            "雪崩"
+        ]
+    },
+    "tm73": {
+        "eng": [
+            "TM73",
+            "Thunder Wave"
+        ],
+        "jpn": [
+            "わざマシン７３",
+            "でんじは"
+        ],
+        "spa": [
+            "MT73",
+            "Onda Trueno"
+        ],
+        "fra": [
+            "CT73",
+            "Cage Éclair"
+        ],
+        "deu": [
+            "TM73",
+            "Donnerwelle"
+        ],
+        "ita": [
+            "MT73",
+            "Tuononda"
+        ],
+        "kor": [
+            "기술머신73",
+            "전기자석파"
+        ],
+        "chi_sim": [
+            "招式学习器７３",
+            "电磁波"
+        ],
+        "chi_tra": [
+            "招式學習器７３",
+            "電磁波"
+        ]
+    },
+    "tm74": {
+        "eng": [
+            "TM74",
+            "Gyro Ball"
+        ],
+        "jpn": [
+            "わざマシン７４",
+            "ジャイロボール"
+        ],
+        "spa": [
+            "MT74",
+            "Giro Bola"
+        ],
+        "fra": [
+            "CT74",
+            "Gyroballe"
+        ],
+        "deu": [
+            "TM74",
+            "Gyroball"
+        ],
+        "ita": [
+            "MT74",
+            "Vortexpalla"
+        ],
+        "kor": [
+            "기술머신74",
+            "자이로볼"
+        ],
+        "chi_sim": [
+            "招式学习器７４",
+            "陀螺球"
+        ],
+        "chi_tra": [
+            "招式學習器７４",
+            "陀螺球"
+        ]
+    },
+    "tm75": {
+        "eng": [
+            "TM75",
+            "Swords Dance"
+        ],
+        "jpn": [
+            "わざマシン７５",
+            "つるぎのまい"
+        ],
+        "spa": [
+            "MT75",
+            "Danza Espada"
+        ],
+        "fra": [
+            "CT75",
+            "Danse Lames"
+        ],
+        "deu": [
+            "TM75",
+            "Schwerttanz"
+        ],
+        "ita": [
+            "MT75",
+            "Danzaspada"
+        ],
+        "kor": [
+            "기술머신75",
+            "칼춤"
+        ],
+        "chi_sim": [
+            "招式学习器７５",
+            "剑舞"
+        ],
+        "chi_tra": [
+            "招式學習器７５",
+            "劍舞"
+        ]
+    },
+    "tm76": {
+        "eng": [
+            "TM76",
+            "Stealth Rock"
+        ],
+        "jpn": [
+            "わざマシン７６",
+            "ステルスロック"
+        ],
+        "spa": [
+            "MT76",
+            "Trampa Rocas"
+        ],
+        "fra": [
+            "CT76",
+            "Piège de Roc"
+        ],
+        "deu": [
+            "TM76",
+            "Tarnsteine"
+        ],
+        "ita": [
+            "MT76",
+            "Levitoroccia"
+        ],
+        "kor": [
+            "기술머신76",
+            "스텔스록"
+        ],
+        "chi_sim": [
+            "招式学习器７６",
+            "隐形岩"
+        ],
+        "chi_tra": [
+            "招式學習器７６",
+            "隱形岩"
+        ]
+    },
+    "tm77": {
+        "eng": [
+            "TM77",
+            "Psych Up"
+        ],
+        "jpn": [
+            "わざマシン７７",
+            "じこあんじ"
+        ],
+        "spa": [
+            "MT77",
+            "Más Psique"
+        ],
+        "fra": [
+            "CT77",
+            "Boost"
+        ],
+        "deu": [
+            "TM77",
+            "Psycho-Plus"
+        ],
+        "ita": [
+            "MT77",
+            "Psicamisù"
+        ],
+        "kor": [
+            "기술머신77",
+            "자기암시"
+        ],
+        "chi_sim": [
+            "招式学习器７７",
+            "自我暗示"
+        ],
+        "chi_tra": [
+            "招式學習器７７",
+            "自我暗示"
+        ]
+    },
+    "tm78": {
+        "eng": [
+            "TM78",
+            "Snarl"
+        ],
+        "jpn": [
+            "わざマシン７８",
+            "バークアウト"
+        ],
+        "spa": [
+            "MT78",
+            "Alarido"
+        ],
+        "fra": [
+            "CT78",
+            "Aboiement"
+        ],
+        "deu": [
+            "TM78",
+            "Standpauke"
+        ],
+        "ita": [
+            "MT78",
+            "Urlorabbia"
+        ],
+        "kor": [
+            "기술머신78",
+            "바크아웃"
+        ],
+        "chi_sim": [
+            "招式学习器７８",
+            "大声咆哮"
+        ],
+        "chi_tra": [
+            "招式學習器７８",
+            "大聲咆哮"
+        ]
+    },
+    "tm79": {
+        "eng": [
+            "TM79",
+            "Dark Pulse"
+        ],
+        "jpn": [
+            "わざマシン７９",
+            "あくのはどう"
+        ],
+        "spa": [
+            "MT79",
+            "Pulso Umbrío"
+        ],
+        "fra": [
+            "CT79",
+            "Vibrobscur"
+        ],
+        "deu": [
+            "TM79",
+            "Finsteraura"
+        ],
+        "ita": [
+            "MT79",
+            "Neropulsar"
+        ],
+        "kor": [
+            "기술머신79",
+            "악의파동"
+        ],
+        "chi_sim": [
+            "招式学习器７９",
+            "恶之波动"
+        ],
+        "chi_tra": [
+            "招式學習器７９",
+            "惡之波動"
+        ]
+    },
+    "tm80": {
+        "eng": [
+            "TM80",
+            "Rock Slide"
+        ],
+        "jpn": [
+            "わざマシン８０",
+            "いわなだれ"
+        ],
+        "spa": [
+            "MT80",
+            "Avalancha"
+        ],
+        "fra": [
+            "CT80",
+            "Éboulement"
+        ],
+        "deu": [
+            "TM80",
+            "Steinhagel"
+        ],
+        "ita": [
+            "MT80",
+            "Frana"
+        ],
+        "kor": [
+            "기술머신80",
+            "스톤샤워"
+        ],
+        "chi_sim": [
+            "招式学习器８０",
+            "岩崩"
+        ],
+        "chi_tra": [
+            "招式學習器８０",
+            "岩崩"
+        ]
+    },
+    "tm81": {
+        "eng": [
+            "TM81",
+            "X-Scissor"
+        ],
+        "jpn": [
+            "わざマシン８１",
+            "シザークロス"
+        ],
+        "spa": [
+            "MT81",
+            "Tijera X"
+        ],
+        "fra": [
+            "CT81",
+            "Plaie Croix"
+        ],
+        "deu": [
+            "TM81",
+            "Kreuzschere"
+        ],
+        "ita": [
+            "MT81",
+            "Forbice X"
+        ],
+        "kor": [
+            "기술머신81",
+            "시저크로스"
+        ],
+        "chi_sim": [
+            "招式学习器８１",
+            "十字剪"
+        ],
+        "chi_tra": [
+            "招式學習器８１",
+            "十字剪"
+        ]
+    },
+    "tm82": {
+        "eng": [
+            "TM82",
+            "Sleep Talk"
+        ],
+        "jpn": [
+            "わざマシン８２",
+            "ねごと"
+        ],
+        "spa": [
+            "MT82",
+            "Sonámbulo"
+        ],
+        "fra": [
+            "CT82",
+            "Blabla Dodo"
+        ],
+        "deu": [
+            "TM82",
+            "Schlafrede"
+        ],
+        "ita": [
+            "MT82",
+            "Sonnolalia"
+        ],
+        "kor": [
+            "기술머신82",
+            "잠꼬대"
+        ],
+        "chi_sim": [
+            "招式学习器８２",
+            "梦话"
+        ],
+        "chi_tra": [
+            "招式學習器８２",
+            "夢話"
+        ]
+    },
+    "tm83": {
+        "eng": [
+            "TM83",
+            "Bulldoze"
+        ],
+        "jpn": [
+            "わざマシン８３",
+            "じならし"
+        ],
+        "spa": [
+            "MT83",
+            "Terratemblor"
+        ],
+        "fra": [
+            "CT83",
+            "Piétisol"
+        ],
+        "deu": [
+            "TM83",
+            "Dampfwalze"
+        ],
+        "ita": [
+            "MT83",
+            "Battiterra"
+        ],
+        "kor": [
+            "기술머신83",
+            "땅고르기"
+        ],
+        "chi_sim": [
+            "招式学习器８３",
+            "重踏"
+        ],
+        "chi_tra": [
+            "招式學習器８３",
+            "重踏"
+        ]
+    },
+    "tm84": {
+        "eng": [
+            "TM84",
+            "Poison Jab"
+        ],
+        "jpn": [
+            "わざマシン８４",
+            "どくづき"
+        ],
+        "spa": [
+            "MT84",
+            "Puya Nociva"
+        ],
+        "fra": [
+            "CT84",
+            "Direct Toxik"
+        ],
+        "deu": [
+            "TM84",
+            "Gifthieb"
+        ],
+        "ita": [
+            "MT84",
+            "Velenpuntura"
+        ],
+        "kor": [
+            "기술머신84",
+            "독찌르기"
+        ],
+        "chi_sim": [
+            "招式学习器８４",
+            "毒击"
+        ],
+        "chi_tra": [
+            "招式學習器８４",
+            "毒擊"
+        ]
+    },
+    "tm85": {
+        "eng": [
+            "TM85",
+            "Dream Eater"
+        ],
+        "jpn": [
+            "わざマシン８５",
+            "ゆめくい"
+        ],
+        "spa": [
+            "MT85",
+            "Comesueños"
+        ],
+        "fra": [
+            "CT85",
+            "Dévorêve"
+        ],
+        "deu": [
+            "TM85",
+            "Traumfresser"
+        ],
+        "ita": [
+            "MT85",
+            "Mangiasogni"
+        ],
+        "kor": [
+            "기술머신85",
+            "꿈먹기"
+        ],
+        "chi_sim": [
+            "招式学习器８５",
+            "食梦"
+        ],
+        "chi_tra": [
+            "招式學習器８５",
+            "食夢"
+        ]
+    },
+    "tm86": {
+        "eng": [
+            "TM86",
+            "Grass Knot"
+        ],
+        "jpn": [
+            "わざマシン８６",
+            "くさむすび"
+        ],
+        "spa": [
+            "MT86",
+            "Hierba Lazo"
+        ],
+        "fra": [
+            "CT86",
+            "Nœud Herbe"
+        ],
+        "deu": [
+            "TM86",
+            "Strauchler"
+        ],
+        "ita": [
+            "MT86",
+            "Laccioerboso"
+        ],
+        "kor": [
+            "기술머신86",
+            "풀묶기"
+        ],
+        "chi_sim": [
+            "招式学习器８６",
+            "打草结"
+        ],
+        "chi_tra": [
+            "招式學習器８６",
+            "打草結"
+        ]
+    },
+    "tm87": {
+        "eng": [
+            "TM87",
+            "Swagger"
+        ],
+        "jpn": [
+            "わざマシン８７",
+            "いばる"
+        ],
+        "spa": [
+            "MT87",
+            "Contoneo"
+        ],
+        "fra": [
+            "CT87",
+            "Vantardise"
+        ],
+        "deu": [
+            "TM87",
+            "Angeberei"
+        ],
+        "ita": [
+            "MT87",
+            "Bullo"
+        ],
+        "kor": [
+            "기술머신87",
+            "뽐내기"
+        ],
+        "chi_sim": [
+            "招式学习器８７",
+            "虚张声势"
+        ],
+        "chi_tra": [
+            "招式學習器８７",
+            "虛張聲勢"
+        ]
+    },
+    "tm88": {
+        "eng": [
+            "TM88",
+            "Pluck"
+        ],
+        "jpn": [
+            "わざマシン８８",
+            "ついばむ"
+        ],
+        "spa": [
+            "MT88",
+            "Picoteo"
+        ],
+        "fra": [
+            "CT88",
+            "Picore"
+        ],
+        "deu": [
+            "TM88",
+            "Pflücker"
+        ],
+        "ita": [
+            "MT88",
+            "Spennata"
+        ],
+        "kor": [
+            "기술머신88",
+            "쪼아대기"
+        ],
+        "chi_sim": [
+            "招式学习器８８",
+            "啄食"
+        ],
+        "chi_tra": [
+            "招式學習器８８",
+            "啄食"
+        ]
+    },
+    "tm89": {
+        "eng": [
+            "TM89",
+            "U-turn"
+        ],
+        "jpn": [
+            "わざマシン８９",
+            "とんぼがえり"
+        ],
+        "spa": [
+            "MT89",
+            "Ida y Vuelta"
+        ],
+        "fra": [
+            "CT89",
+            "Demi-Tour"
+        ],
+        "deu": [
+            "TM89",
+            "Kehrtwende"
+        ],
+        "ita": [
+            "MT89",
+            "Retromarcia"
+        ],
+        "kor": [
+            "기술머신89",
+            "유턴"
+        ],
+        "chi_sim": [
+            "招式学习器８９",
+            "急速折返"
+        ],
+        "chi_tra": [
+            "招式學習器８９",
+            "急速折返"
+        ]
+    },
+    "tm90": {
+        "eng": [
+            "TM90",
+            "Substitute"
+        ],
+        "jpn": [
+            "わざマシン９０",
+            "みがわり"
+        ],
+        "spa": [
+            "MT90",
+            "Sustituto"
+        ],
+        "fra": [
+            "CT90",
+            "Clonage"
+        ],
+        "deu": [
+            "TM90",
+            "Delegator"
+        ],
+        "ita": [
+            "MT90",
+            "Sostituto"
+        ],
+        "kor": [
+            "기술머신90",
+            "대타출동"
+        ],
+        "chi_sim": [
+            "招式学习器９０",
+            "替身"
+        ],
+        "chi_tra": [
+            "招式學習器９０",
+            "替身"
+        ]
+    },
+    "tm91": {
+        "eng": [
+            "TM91",
+            "Flash Cannon"
+        ],
+        "jpn": [
+            "わざマシン９１",
+            "ラスターカノン"
+        ],
+        "spa": [
+            "MT91",
+            "Foco Resplandor"
+        ],
+        "fra": [
+            "CT91",
+            "Luminocanon"
+        ],
+        "deu": [
+            "TM91",
+            "Lichtkanone"
+        ],
+        "ita": [
+            "MT91",
+            "Cannonflash"
+        ],
+        "kor": [
+            "기술머신91",
+            "러스터캐논"
+        ],
+        "chi_sim": [
+            "招式学习器９１",
+            "加农光炮"
+        ],
+        "chi_tra": [
+            "招式學習器９１",
+            "加農光炮"
+        ]
+    },
+    "tm92": {
+        "eng": [
+            "TM92",
+            "Trick Room"
+        ],
+        "jpn": [
+            "わざマシン９２",
+            "トリックルーム"
+        ],
+        "spa": [
+            "MT92",
+            "Espacio Raro"
+        ],
+        "fra": [
+            "CT92",
+            "Distorsion"
+        ],
+        "deu": [
+            "TM92",
+            "Bizarroraum"
+        ],
+        "ita": [
+            "MT92",
+            "Distortozona"
+        ],
+        "kor": [
+            "기술머신92",
+            "트릭룸"
+        ],
+        "chi_sim": [
+            "招式学习器９２",
+            "戏法空间"
+        ],
+        "chi_tra": [
+            "招式學習器９２",
+            "戲法空間"
+        ]
+    },
+    "tm93": {
+        "eng": [
+            "TM93",
+            "Cut"
+        ],
+        "jpn": [
+            "わざマシン９３",
+            "いあいぎり"
+        ],
+        "spa": [
+            "MT93",
+            "Corte"
+        ],
+        "fra": [
+            "CT93",
+            "Coupe"
+        ],
+        "deu": [
+            "TM93",
+            "Zerschneider"
+        ],
+        "ita": [
+            "MT93",
+            "Taglio"
+        ],
+        "kor": [
+            "기술머신93",
+            "풀베기"
+        ],
+        "chi_sim": [
+            "招式学习器９３",
+            "居合劈"
+        ],
+        "chi_tra": [
+            "招式學習器９３",
+            "居合斬"
+        ]
+    },
+    "tm94": {
+        "eng": [
+            "TM94",
+            "Fly"
+        ],
+        "jpn": [
+            "わざマシン９４",
+            "そらをとぶ"
+        ],
+        "spa": [
+            "MT94",
+            "Vuelo"
+        ],
+        "fra": [
+            "CT94",
+            "Vol"
+        ],
+        "deu": [
+            "TM94",
+            "Fliegen"
+        ],
+        "ita": [
+            "MT94",
+            "Volo"
+        ],
+        "kor": [
+            "기술머신94",
+            "공중날기"
+        ],
+        "chi_sim": [
+            "招式学习器９４",
+            "飞翔"
+        ],
+        "chi_tra": [
+            "招式學習器９４",
+            "飛翔"
+        ]
+    },
+    "tm95": {
+        "eng": [
+            "TM95",
+            "Surf"
+        ],
+        "jpn": [
+            "わざマシン９５",
+            "なみのり"
+        ],
+        "spa": [
+            "MT95",
+            "Surf"
+        ],
+        "fra": [
+            "CT95",
+            "Surf"
+        ],
+        "deu": [
+            "TM95",
+            "Surfer"
+        ],
+        "ita": [
+            "MT95",
+            "Surf"
+        ],
+        "kor": [
+            "기술머신95",
+            "파도타기"
+        ],
+        "chi_sim": [
+            "招式学习器９５",
+            "冲浪"
+        ],
+        "chi_tra": [
+            "招式學習器９５",
+            "衝浪"
+        ]
+    },
+    "tm96": {
+        "eng": [
+            "TM96",
+            "Strength"
+        ],
+        "jpn": [
+            "わざマシン９６",
+            "かいりき"
+        ],
+        "spa": [
+            "MT96",
+            "Fuerza"
+        ],
+        "fra": [
+            "CT96",
+            "Force"
+        ],
+        "deu": [
+            "TM96",
+            "Stärke"
+        ],
+        "ita": [
+            "MT96",
+            "Forza"
+        ],
+        "kor": [
+            "기술머신96",
+            "괴력"
+        ],
+        "chi_sim": [
+            "招式学习器９６",
+            "怪力"
+        ],
+        "chi_tra": [
+            "招式學習器９６",
+            "怪力"
+        ]
+    },
+    "tm97": {
+        "eng": [
+            "TM97",
+            "Defog"
+        ],
+        "jpn": [
+            "わざマシン９７",
+            "きりばらい"
+        ],
+        "spa": [
+            "MT97",
+            "Despejar"
+        ],
+        "fra": [
+            "CT97",
+            "Anti-Brume"
+        ],
+        "deu": [
+            "TM97",
+            "Auflockern"
+        ],
+        "ita": [
+            "MT97",
+            "Scacciabruma"
+        ],
+        "kor": [
+            "기술머신97",
+            "안개제거"
+        ],
+        "chi_sim": [
+            "招式学习器９７",
+            "清除浓雾"
+        ],
+        "chi_tra": [
+            "招式學習器９７",
+            "清除濃霧"
+        ]
+    },
+    "tm98": {
+        "eng": [
+            "TM98",
+            "Rock Smash"
+        ],
+        "jpn": [
+            "わざマシン９８",
+            "いわくだき"
+        ],
+        "spa": [
+            "MT98",
+            "Golpe Roca"
+        ],
+        "fra": [
+            "CT98",
+            "Éclate-Roc"
+        ],
+        "deu": [
+            "TM98",
+            "Zertrümmerer"
+        ],
+        "ita": [
+            "MT98",
+            "Spaccaroccia"
+        ],
+        "kor": [
+            "기술머신98",
+            "바위깨기"
+        ],
+        "chi_sim": [
+            "招式学习器９８",
+            "碎岩"
+        ],
+        "chi_tra": [
+            "招式學習器９８",
+            "碎岩"
+        ]
+    },
+    "tm99": {
+        "eng": [
+            "TM99",
+            "Waterfall"
+        ],
+        "jpn": [
+            "わざマシン９９",
+            "たきのぼり"
+        ],
+        "spa": [
+            "MT99",
+            "Cascada"
+        ],
+        "fra": [
+            "CT99",
+            "Cascade"
+        ],
+        "deu": [
+            "TM99",
+            "Kaskade"
+        ],
+        "ita": [
+            "MT99",
+            "Cascata"
+        ],
+        "kor": [
+            "기술머신99",
+            "폭포오르기"
+        ],
+        "chi_sim": [
+            "招式学习器９９",
+            "攀瀑"
+        ],
+        "chi_tra": [
+            "招式學習器９９",
+            "攀瀑"
+        ]
+    },
+    "tm100": {
+        "eng": [
+            "TM100",
+            "Rock Climb"
+        ],
+        "jpn": [
+            "わざマシン１００",
+            "ロッククライム"
+        ],
+        "spa": [
+            "MT100",
+            "Treparrocas"
+        ],
+        "fra": [
+            "CT100",
+            "Escalade"
+        ],
+        "deu": [
+            "TM100",
+            "Kraxler"
+        ],
+        "ita": [
+            "MT100",
+            "Scalaroccia"
+        ],
+        "kor": [
+            "기술머신100",
+            "락클라임"
+        ],
+        "chi_sim": [
+            "招式学习器１００",
+            "攀岩"
+        ],
+        "chi_tra": [
+            "招式學習器１００",
+            "攀岩"
+        ]
+    }
+}

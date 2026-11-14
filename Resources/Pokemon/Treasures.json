@@ -1,0 +1,112 @@
+{
+    "tiny-mushroom": {
+        "eng": "Tiny Mushroom",
+        "jpn": "ちいさなキノコ",
+        "spa": "Miniseta",
+        "fra": "Petit Champi",
+        "deu": "Minipilz",
+        "ita": "Minifungo",
+        "kor": "작은버섯",
+        "chi_sim": "小蘑菇",
+        "chi_tra": "小蘑菇"
+    },
+    "big-mushroom": {
+        "eng": "Big Mushroom",
+        "jpn": "おおきなキノコ",
+        "spa": "Seta Grande",
+        "fra": "Gros Champi",
+        "deu": "Riesenpilz",
+        "ita": "Grande Fungo",
+        "kor": "큰버섯",
+        "chi_sim": "大蘑菇",
+        "chi_tra": "大蘑菇"
+    },
+    "pearl": {
+        "eng": "Pearl",
+        "jpn": "しんじゅ",
+        "spa": "Perla",
+        "fra": "Perle",
+        "deu": "Perle",
+        "ita": "Perla",
+        "kor": "진주",
+        "chi_sim": "珍珠",
+        "chi_tra": "珍珠"
+    },
+    "big-pearl": {
+        "eng": "Big Pearl",
+        "jpn": "おおきなしんじゅ",
+        "spa": "Perla Grande",
+        "fra": "Grande Perle",
+        "deu": "Riesenperle",
+        "ita": "Grande Perla",
+        "kor": "큰진주",
+        "chi_sim": "大珍珠",
+        "chi_tra": "大珍珠"
+    },
+    "stardust": {
+        "eng": "Stardust",
+        "jpn": "ほしのすな",
+        "spa": "Polvo Estelar",
+        "fra": "Poussière Étoile",
+        "deu": "Sternenstaub",
+        "ita": "Polvostella",
+        "kor": "별의모래",
+        "chi_sim": "星星沙子",
+        "chi_tra": "星星沙子"
+    },
+    "star-piece": {
+        "eng": "Star Piece",
+        "jpn": "ほしのかけら",
+        "spa": "Trozo Estrella",
+        "fra": "Morceau d’Étoile",
+        "deu": "Sternenstück",
+        "ita": "Pezzo Stella",
+        "kor": "별의조각",
+        "chi_sim": "星星碎片",
+        "chi_tra": "星星碎片"
+    },
+    "nugget": {
+        "eng": "Nugget",
+        "jpn": "きんのたま",
+        "spa": "Pepita",
+        "fra": "Pépite",
+        "deu": "Nugget",
+        "ita": "Pepita",
+        "kor": "금구슬",
+        "chi_sim": "金珠",
+        "chi_tra": "金珠"
+    },
+    "rare-bone": {
+        "eng": "Rare Bone",
+        "jpn": "きちょうなホネ",
+        "spa": "Hueso Raro",
+        "fra": "Os Rare",
+        "deu": "Steinknochen",
+        "ita": "Osso Raro",
+        "kor": "귀중한뼈",
+        "chi_sim": "贵重骨头",
+        "chi_tra": "貴重骨頭"
+    },
+    "bottle-cap": {
+        "eng": "Bottle Cap",
+        "jpn": "ぎんのおうかん",
+        "spa": "Chapa Plateada",
+        "fra": "Capsule d’Argent",
+        "deu": "Silberkronkorken",
+        "ita": "Tappo d’argento",
+        "kor": "은왕관",
+        "chi_sim": "银色王冠",
+        "chi_tra": "銀色王冠"
+    },
+    "gold-bottle-cap": {
+        "eng": "Gold Bottle Cap",
+        "jpn": "きんのおうかん",
+        "spa": "Chapa Dorada",
+        "fra": "Capsule d’Or",
+        "deu": "Goldkronkorken",
+        "ita": "Tappo d’oro",
+        "kor": "금왕관",
+        "chi_sim": "金色王冠",
+        "chi_tra": "金色王冠"
+    }
+}

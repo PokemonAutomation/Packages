@@ -1,0 +1,101 @@
+{
+    "x-attack": {
+        "eng": "X Attack",
+        "jpn": "プラスパワー",
+        "spa": "Ataque X",
+        "fra": "Attaque +",
+        "deu": "X-Angriff",
+        "ita": "Attacco X",
+        "kor": "플러스파워",
+        "chi_sim": "力量强化",
+        "chi_tra": "力量強化"
+    },
+    "x-defense": {
+        "eng": "X Defense",
+        "jpn": "ディフェンダー",
+        "spa": "Defensa X",
+        "fra": "Défense +",
+        "deu": "X-Verteidigung",
+        "ita": "Difesa X",
+        "kor": "디펜드업",
+        "chi_sim": "防御强化",
+        "chi_tra": "防禦強化"
+    },
+    "x-sp-atk": {
+        "eng": "X Sp. Atk",
+        "jpn": "スペシャルアップ",
+        "spa": "At. Especial X",
+        "fra": "Atq. Spé. +",
+        "deu": "X-Sp.-Ang.",
+        "ita": "Att. Speciale X",
+        "kor": "스페셜업",
+        "chi_sim": "特攻强化",
+        "chi_tra": "特攻強化"
+    },
+    "x-sp-def": {
+        "eng": "X Sp. Def",
+        "jpn": "スペシャルガード",
+        "spa": "Def. Especial X",
+        "fra": "Def. Spé. +",
+        "deu": "X-Sp.-Vert.",
+        "ita": "Dif. Speciale X",
+        "kor": "스페셜가드",
+        "chi_sim": "特防强化",
+        "chi_tra": "特防強化"
+    },
+    "x-speed": {
+        "eng": "X Speed",
+        "jpn": "スピーダー",
+        "spa": "Velocidad X",
+        "fra": "Vitesse +",
+        "deu": "X-Initiative",
+        "ita": "Velocità X",
+        "kor": "스피드업",
+        "chi_sim": "速度强化",
+        "chi_tra": "速度強化"
+    },
+    "x-accuracy": {
+        "eng": "X Accuracy",
+        "jpn": "ヨクアタール",
+        "spa": "Precisión X",
+        "fra": "Précision +",
+        "deu": "X-Genauigkeit",
+        "ita": "Precisione X",
+        "kor": "잘-맞히기",
+        "chi_sim": "命中强化",
+        "chi_tra": "命中強化"
+    },
+    "dire-hit": {
+        "eng": "Dire Hit",
+        "jpn": "クリティカット",
+        "spa": "Crítico X",
+        "fra": "Muscle +",
+        "deu": "Angriffplus",
+        "ita": "Supercolpo",
+        "kor": "크리티컬커터",
+        "chi_sim": "要害攻击",
+        "chi_tra": "要害攻擊"
+    },
+    "guard-spec": {
+        "eng": "Guard Spec.",
+        "jpn": "エフェクトガード",
+        "spa": "Protección X",
+        "fra": "Garde-Stats",
+        "deu": "Megablock",
+        "ita": "Superguardia",
+        "kor": "이펙트가드",
+        "chi_sim": "能力防守",
+        "chi_tra": "能力防守"
+    },
+    "poke-doll": {
+        "eng": "Poké Doll",
+        "jpn": "ピッピにんぎょう",
+        "spa": "Poké Muñeco",
+        "fra": "Poké Poupée",
+        "deu": "Poképuppe",
+        "ita": "Poké Bambola",
+        "kor": "삐삐인형",
+        "chi_sim": "皮皮玩偶",
+        "chi_tra": "皮皮玩偶"
+    }
+}
