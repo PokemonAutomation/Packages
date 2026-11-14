@@ -5,8 +5,8 @@
     "natID": 3,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "slug": "venusaur-male",
-    "has_gender_difference": true
+    "slug": "venusaur",
+    "has_gender_difference": false
   },
   {
     "species_slug": "charizard",
@@ -32,8 +32,8 @@
     "natID": 12,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "slug": "butterfree-male",
-    "has_gender_difference": true
+    "slug": "butterfree",
+    "has_gender_difference": false
   },
   {
     "species_slug": "beedrill",
@@ -59,8 +59,8 @@
     "natID": 20,
     "primaryType": "normal",
     "secondaryType": null,
-    "slug": "raticate-male",
-    "has_gender_difference": true
+    "slug": "raticate",
+    "has_gender_difference": false
   },
   {
     "species_slug": "raticate",
@@ -95,8 +95,8 @@
     "natID": 26,
     "primaryType": "electric",
     "secondaryType": null,
-    "slug": "raichu-male",
-    "has_gender_difference": true
+    "slug": "raichu",
+    "has_gender_difference": false
   },
   {
     "species_slug": "raichu",
@@ -185,8 +185,8 @@
     "natID": 45,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "slug": "vileplume-male",
-    "has_gender_difference": true
+    "slug": "vileplume",
+    "has_gender_difference": false
   },
   {
     "species_slug": "parasect",
@@ -284,8 +284,8 @@
     "natID": 65,
     "primaryType": "psychic",
     "secondaryType": null,
-    "slug": "alakazam-male",
-    "has_gender_difference": true
+    "slug": "alakazam",
+    "has_gender_difference": false
   },
   {
     "species_slug": "machamp",
@@ -383,8 +383,8 @@
     "natID": 85,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "slug": "dodrio-male",
-    "has_gender_difference": true
+    "slug": "dodrio",
+    "has_gender_difference": false
   },
   {
     "species_slug": "dewgong",
@@ -437,8 +437,8 @@
     "natID": 97,
     "primaryType": "psychic",
     "secondaryType": null,
-    "slug": "hypno-male",
-    "has_gender_difference": true
+    "slug": "hypno",
+    "has_gender_difference": false
   },
   {
     "species_slug": "kingler",
@@ -554,8 +554,8 @@
     "natID": 119,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "seaking-male",
-    "has_gender_difference": true
+    "slug": "seaking",
+    "has_gender_difference": false
   },
   {
     "species_slug": "starmie",
@@ -635,8 +635,8 @@
     "natID": 130,
     "primaryType": "water",
     "secondaryType": "flying",
-    "slug": "gyarados-male",
-    "has_gender_difference": true
+    "slug": "gyarados",
+    "has_gender_difference": false
   },
   {
     "species_slug": "lapras",
@@ -815,8 +815,8 @@
     "natID": 154,
     "primaryType": "grass",
     "secondaryType": null,
-    "slug": "meganium-male",
-    "has_gender_difference": true
+    "slug": "meganium",
+    "has_gender_difference": false
   },
   {
     "species_slug": "typhlosion",
@@ -869,8 +869,8 @@
     "natID": 166,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "slug": "ledian-male",
-    "has_gender_difference": true
+    "slug": "ledian",
+    "has_gender_difference": false
   },
   {
     "species_slug": "ariados",
@@ -905,8 +905,8 @@
     "natID": 178,
     "primaryType": "psychic",
     "secondaryType": "flying",
-    "slug": "xatu-male",
-    "has_gender_difference": true
+    "slug": "xatu",
+    "has_gender_difference": false
   },
   {
     "species_slug": "ampharos",
@@ -941,8 +941,8 @@
     "natID": 185,
     "primaryType": "rock",
     "secondaryType": null,
-    "slug": "sudowoodo-male",
-    "has_gender_difference": true
+    "slug": "sudowoodo",
+    "has_gender_difference": false
   },
   {
     "species_slug": "politoed",
@@ -950,8 +950,8 @@
     "natID": 186,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "politoed-male",
-    "has_gender_difference": true
+    "slug": "politoed",
+    "has_gender_difference": false
   },
   {
     "species_slug": "jumpluff",
@@ -977,8 +977,8 @@
     "natID": 195,
     "primaryType": "water",
     "secondaryType": "ground",
-    "slug": "quagsire-male",
-    "has_gender_difference": true
+    "slug": "quagsire",
+    "has_gender_difference": false
   },
   {
     "species_slug": "espeon",
@@ -1274,8 +1274,8 @@
     "natID": 202,
     "primaryType": "psychic",
     "secondaryType": null,
-    "slug": "wobbuffet-male",
-    "has_gender_difference": true
+    "slug": "wobbuffet",
+    "has_gender_difference": false
   },
   {
     "species_slug": "forretress",
@@ -1292,8 +1292,8 @@
     "natID": 208,
     "primaryType": "steel",
     "secondaryType": "ground",
-    "slug": "steelix-male",
-    "has_gender_difference": true
+    "slug": "steelix",
+    "has_gender_difference": false
   },
   {
     "species_slug": "granbull",
@@ -1319,8 +1319,8 @@
     "natID": 212,
     "primaryType": "bug",
     "secondaryType": "steel",
-    "slug": "scizor-male",
-    "has_gender_difference": true
+    "slug": "scizor",
+    "has_gender_difference": false
   },
   {
     "species_slug": "empty",
@@ -1364,8 +1364,8 @@
     "natID": 224,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "octillery-male",
-    "has_gender_difference": true
+    "slug": "octillery",
+    "has_gender_difference": false
   },
   {
     "species_slug": "delibird",
@@ -1400,8 +1400,8 @@
     "natID": 229,
     "primaryType": "dark",
     "secondaryType": "fire",
-    "slug": "houndoom-male",
-    "has_gender_difference": true
+    "slug": "houndoom",
+    "has_gender_difference": false
   },
   {
     "species_slug": "kingdra",
@@ -1418,8 +1418,8 @@
     "natID": 232,
     "primaryType": "ground",
     "secondaryType": null,
-    "slug": "donphan-male",
-    "has_gender_difference": true
+    "slug": "donphan",
+    "has_gender_difference": false
   },
   {
     "species_slug": "smeargle",
@@ -1607,8 +1607,8 @@
     "natID": 214,
     "primaryType": "bug",
     "secondaryType": "fighting",
-    "slug": "heracross-male",
-    "has_gender_difference": true
+    "slug": "heracross",
+    "has_gender_difference": false
   },
   {
     "species_slug": "magcargo",
@@ -1634,8 +1634,8 @@
     "natID": 257,
     "primaryType": "fire",
     "secondaryType": "fighting",
-    "slug": "blaziken-male",
-    "has_gender_difference": true
+    "slug": "blaziken",
+    "has_gender_difference": false
   },
   {
     "species_slug": "swampert",
@@ -1670,8 +1670,8 @@
     "natID": 267,
     "primaryType": "bug",
     "secondaryType": "flying",
-    "slug": "beautifly-male",
-    "has_gender_difference": true
+    "slug": "beautifly",
+    "has_gender_difference": false
   },
   {
     "species_slug": "dustox",
@@ -1679,8 +1679,8 @@
     "natID": 269,
     "primaryType": "bug",
     "secondaryType": "poison",
-    "slug": "dustox-male",
-    "has_gender_difference": true
+    "slug": "dustox",
+    "has_gender_difference": false
   },
   {
     "species_slug": "ludicolo",
@@ -1688,8 +1688,8 @@
     "natID": 272,
     "primaryType": "water",
     "secondaryType": "grass",
-    "slug": "ludicolo-male",
-    "has_gender_difference": true
+    "slug": "ludicolo",
+    "has_gender_difference": false
   },
   {
     "species_slug": "shiftry",
@@ -1697,8 +1697,8 @@
     "natID": 275,
     "primaryType": "grass",
     "secondaryType": "dark",
-    "slug": "shiftry-male",
-    "has_gender_difference": true
+    "slug": "shiftry",
+    "has_gender_difference": false
   },
   {
     "species_slug": "swellow",
@@ -1832,8 +1832,8 @@
     "natID": 308,
     "primaryType": "fighting",
     "secondaryType": "psychic",
-    "slug": "medicham-male",
-    "has_gender_difference": true
+    "slug": "medicham",
+    "has_gender_difference": false
   },
   {
     "species_slug": "manectric",
@@ -1886,8 +1886,8 @@
     "natID": 317,
     "primaryType": "poison",
     "secondaryType": null,
-    "slug": "swalot-male",
-    "has_gender_difference": true
+    "slug": "swalot",
+    "has_gender_difference": false
   },
   {
     "species_slug": "sharpedo",
@@ -1913,8 +1913,8 @@
     "natID": 323,
     "primaryType": "fire",
     "secondaryType": "ground",
-    "slug": "camerupt-male",
-    "has_gender_difference": true
+    "slug": "camerupt",
+    "has_gender_difference": false
   },
   {
     "species_slug": "torkoal",
@@ -1958,8 +1958,8 @@
     "natID": 332,
     "primaryType": "grass",
     "secondaryType": "dark",
-    "slug": "cacturne-male",
-    "has_gender_difference": true
+    "slug": "cacturne",
+    "has_gender_difference": false
   },
   {
     "species_slug": "altaria",
@@ -2057,8 +2057,8 @@
     "natID": 350,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "milotic-male",
-    "has_gender_difference": true
+    "slug": "milotic",
+    "has_gender_difference": false
   },
   {
     "species_slug": "castform",
@@ -2156,8 +2156,8 @@
     "natID": 369,
     "primaryType": "water",
     "secondaryType": "rock",
-    "slug": "relicanth-male",
-    "has_gender_difference": true
+    "slug": "relicanth",
+    "has_gender_difference": false
   },
   {
     "species_slug": "luvdisc",
@@ -2462,8 +2462,8 @@
     "natID": 398,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "slug": "staraptor-male",
-    "has_gender_difference": true
+    "slug": "staraptor",
+    "has_gender_difference": false
   },
   {
     "species_slug": "bibarel",
@@ -2471,8 +2471,8 @@
     "natID": 400,
     "primaryType": "normal",
     "secondaryType": "water",
-    "slug": "bibarel-male",
-    "has_gender_difference": true
+    "slug": "bibarel",
+    "has_gender_difference": false
   },
   {
     "species_slug": "kricketune",
@@ -2480,8 +2480,8 @@
     "natID": 402,
     "primaryType": "bug",
     "secondaryType": null,
-    "slug": "kricketune-male",
-    "has_gender_difference": true
+    "slug": "kricketune",
+    "has_gender_difference": false
   },
   {
     "species_slug": "luxray",
@@ -2489,8 +2489,8 @@
     "natID": 405,
     "primaryType": "electric",
     "secondaryType": null,
-    "slug": "luxray-male",
-    "has_gender_difference": true
+    "slug": "luxray",
+    "has_gender_difference": false
   },
   {
     "species_slug": "roserade",
@@ -2498,8 +2498,8 @@
     "natID": 407,
     "primaryType": "grass",
     "secondaryType": "poison",
-    "slug": "roserade-male",
-    "has_gender_difference": true
+    "slug": "roserade",
+    "has_gender_difference": false
   },
   {
     "species_slug": "rampardos",
@@ -2570,8 +2570,8 @@
     "natID": 417,
     "primaryType": "electric",
     "secondaryType": null,
-    "slug": "pachirisu-male",
-    "has_gender_difference": true
+    "slug": "pachirisu",
+    "has_gender_difference": false
   },
   {
     "species_slug": "floatzel",
@@ -2579,8 +2579,8 @@
     "natID": 419,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "floatzel-male",
-    "has_gender_difference": true
+    "slug": "floatzel",
+    "has_gender_difference": false
   },
   {
     "species_slug": "cherrim",
@@ -2615,8 +2615,8 @@
     "natID": 424,
     "primaryType": "normal",
     "secondaryType": null,
-    "slug": "ambipom-male",
-    "has_gender_difference": true
+    "slug": "ambipom",
+    "has_gender_difference": false
   },
   {
     "species_slug": "drifblim",
@@ -2705,8 +2705,8 @@
     "natID": 445,
     "primaryType": "dragon",
     "secondaryType": "ground",
-    "slug": "garchomp-male",
-    "has_gender_difference": true
+    "slug": "garchomp",
+    "has_gender_difference": false
   },
   {
     "species_slug": "lucario",
@@ -2723,8 +2723,8 @@
     "natID": 450,
     "primaryType": "ground",
     "secondaryType": null,
-    "slug": "hippowdon-male",
-    "has_gender_difference": true
+    "slug": "hippowdon",
+    "has_gender_difference": false
   },
   {
     "species_slug": "drapion",
@@ -2741,8 +2741,8 @@
     "natID": 454,
     "primaryType": "poison",
     "secondaryType": "fighting",
-    "slug": "toxicroak-male",
-    "has_gender_difference": true
+    "slug": "toxicroak",
+    "has_gender_difference": false
   },
   {
     "species_slug": "carnivine",
@@ -2759,8 +2759,8 @@
     "natID": 457,
     "primaryType": "water",
     "secondaryType": null,
-    "slug": "lumineon-male",
-    "has_gender_difference": true
+    "slug": "lumineon",
+    "has_gender_difference": false
   },
   {
     "species_slug": "abomasnow",
@@ -2768,8 +2768,8 @@
     "natID": 460,
     "primaryType": "grass",
     "secondaryType": "ice",
-    "slug": "abomasnow-male",
-    "has_gender_difference": true
+    "slug": "abomasnow",
+    "has_gender_difference": false
   },
   {
     "species_slug": "weavile",
@@ -2777,8 +2777,8 @@
     "natID": 461,
     "primaryType": "dark",
     "secondaryType": "ice",
-    "slug": "weavile-male",
-    "has_gender_difference": true
+    "slug": "weavile",
+    "has_gender_difference": false
   },
   {
     "species_slug": "magnezone",
@@ -2804,8 +2804,8 @@
     "natID": 464,
     "primaryType": "ground",
     "secondaryType": "rock",
-    "slug": "rhyperior-male",
-    "has_gender_difference": true
+    "slug": "rhyperior",
+    "has_gender_difference": false
   },
   {
     "species_slug": "tangrowth",
@@ -2813,8 +2813,8 @@
     "natID": 465,
     "primaryType": "grass",
     "secondaryType": null,
-    "slug": "tangrowth-male",
-    "has_gender_difference": true
+    "slug": "tangrowth",
+    "has_gender_difference": false
   },
   {
     "species_slug": "electivire",
@@ -2885,8 +2885,8 @@
     "natID": 473,
     "primaryType": "ice",
     "secondaryType": "ground",
-    "slug": "mamoswine-male",
-    "has_gender_difference": true
+    "slug": "mamoswine",
+    "has_gender_difference": false
   },
   {
     "species_slug": "porygon-z",
@@ -3353,8 +3353,8 @@
     "natID": 521,
     "primaryType": "normal",
     "secondaryType": "flying",
-    "slug": "unfezant-male",
-    "has_gender_difference": true
+    "slug": "unfezant",
+    "has_gender_difference": false
   },
   {
     "species_slug": "zebstrika",
@@ -3731,8 +3731,8 @@
     "natID": 593,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "slug": "jellicent-male",
-    "has_gender_difference": true
+    "slug": "jellicent",
+    "has_gender_difference": false
   },
   {
     "species_slug": "alomomola",
@@ -4550,8 +4550,8 @@
     "natID": 668,
     "primaryType": "fire",
     "secondaryType": "normal",
-    "slug": "pyroar-male",
-    "has_gender_difference": true
+    "slug": "pyroar",
+    "has_gender_difference": false
   },
   {
     "species_slug": "floette",
@@ -4721,7 +4721,7 @@
     "natID": 678,
     "primaryType": "psychic",
     "secondaryType": null,
-    "slug": "meowstic-male",
+    "slug": "meowstic",
     "has_gender_difference": false
   },
   {
@@ -6332,7 +6332,7 @@
     "natID": 876,
     "primaryType": "psychic",
     "secondaryType": "normal",
-    "slug": "indeedee-male",
+    "slug": "indeedee",
     "has_gender_difference": false
   },
   {
@@ -6548,7 +6548,7 @@
     "natID": 902,
     "primaryType": "water",
     "secondaryType": "ghost",
-    "slug": "basculegion-male",
+    "slug": "basculegion",
     "has_gender_difference": false
   },
   {
@@ -6782,7 +6782,7 @@
     "natID": 916,
     "primaryType": "normal",
     "secondaryType": null,
-    "slug": "oinkologne-male",
+    "slug": "oinkologne",
     "has_gender_difference": false
   },
   {
