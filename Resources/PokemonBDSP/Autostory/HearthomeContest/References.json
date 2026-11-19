@@ -1,0 +1,49 @@
+{
+  "source_screenshot": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\screenshot-20261023-213812008707.png",
+  "source_size": [
+    1920,
+    1080
+  ],
+  "active_anchors": [
+    {
+      "file": "SignRim.png",
+      "target_crop_xyxy": [
+        514,
+        436,
+        676,
+        498
+      ],
+      "target_center_normalized": [
+        0.3098958333333333,
+        0.4324074074074074
+      ]
+    },
+    {
+      "file": "RoofEmblem.png",
+      "target_crop_xyxy": [
+        872,
+        126,
+        1008,
+        224
+      ],
+      "target_center_normalized": [
+        0.4895833333333333,
+        0.16203703703703703
+      ]
+    }
+  ],
+  "score_threshold": 0.93,
+  "uniqueness_margin": 0.15,
+  "requires_two_agreeing_anchors": true,
+  "lighting_references": "LightingReferences.json",
+  "hourly_captures_acquired": 120,
+  "hourly_captures_total": 120,
+  "target_pose": "Original user screenshot retained. Test pose was displaced; captured frames correctly remain off-target.",
+  "language_independent": true,
+  "excluded": [
+    "localized lettering",
+    "moving NPCs",
+    "cyan cursor"
+  ],
+  "gym_route_added": false
+}

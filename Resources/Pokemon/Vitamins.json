@@ -1,0 +1,92 @@
+{
+    "eng": {
+        "hp-up": [ "HP Up" ],
+        "protein": [ "Protein" ],
+        "iron": [ "Iron" ],
+        "calcium": [ "Calcium" ],
+        "zinc": [ "Zinc" ],
+        "carbos": [ "Carbos" ],
+        "pp-up": [ "PP Up" ],
+        "pp-max": [ "PP Max" ]
+    },
+    "jpn": {
+        "hp-up": [ "マックスアップ" ],
+        "protein": [ "タウリン" ],
+        "iron": [ "ブロムヘキシン" ],
+        "calcium": [ "リゾチウム" ],
+        "zinc": [ "キトサン" ],
+        "carbos": [ "インドメタシン" ],
+        "pp-up": [ "ポイントアップ" ],
+        "pp-max": [ "ポイントマックス" ]
+    },
+    "spa": {
+        "hp-up": [ "Más PS" ],
+        "protein": [ "Proteína" ],
+        "iron": [ "Hierro" ],
+        "calcium": [ "Calcio" ],
+        "zinc": [ "Zinc" ],
+        "carbos": [ "Carburante" ],
+        "pp-up": [ "Más PP" ],
+        "pp-max": [ "PP Máximos" ]
+    },
+    "fra": {
+        "hp-up": [ "PV Plus" ],
+        "protein": [ "Protéine" ],
+        "iron": [ "Fer" ],
+        "calcium": [ "Calcium" ],
+        "zinc": [ "Zinc" ],
+        "carbos": [ "Carbone" ],
+        "pp-up": [ "PP Plus" ],
+        "pp-max": [ "PP Max" ]
+    },
+    "deu": {
+        "hp-up": [ "KP-Plus" ],
+        "protein": [ "Protein" ],
+        "iron": [ "Eisen" ],
+        "calcium": [ "Kalzium" ],
+        "zinc": [ "Zink" ],
+        "carbos": [ "Carbon" ],
+        "pp-up": [ "AP-Plus" ],
+        "pp-max": [ "AP-Top" ]
+    },
+    "ita": {
+        "hp-up": [ "PS-Su" ],
+        "protein": [ "Proteina" ],
+        "iron": [ "Ferro" ],
+        "calcium": [ "Calcio" ],
+        "zinc": [ "Zinco" ],
+        "carbos": [ "Carburante" ],
+        "pp-up": [ "PP-Su" ],
+        "pp-max": [ "PP-Max" ]
+    },
+    "kor": {
+        "hp-up": [ "맥스업" ],
+        "protein": [ "타우린" ],
+        "iron": [ "사포닌" ],
+        "calcium": [ "리보플라빈" ],
+        "zinc": [ "키토산" ],
+        "carbos": [ "알칼로이드" ],
+        "pp-up": [ "포인트업" ],
+        "pp-max": [ "포인트맥스" ]
+    },
+    "chi_sim": {
+        "hp-up": [ "ＨＰ增强剂" ],
+        "protein": [ "攻击增强剂" ],
+        "iron": [ "防御增强剂" ],
+        "calcium": [ "特攻增强剂" ],
+        "zinc": [ "特防增强剂" ],
+        "carbos": [ "速度增强剂" ],
+        "pp-up": [ "ＰＰ提升剂" ],
+        "pp-max": [ "ＰＰ极限提升剂" ]
+    },
+    "chi_tra": {
+        "hp-up": [ "ＨＰ增強劑" ],
+        "protein": [ "攻擊增強劑" ],
+        "iron": [ "防禦增強劑" ],
+        "calcium": [ "特攻增強劑" ],
+        "zinc": [ "特防增強劑" ],
+        "carbos": [ "速度增強劑" ],
+        "pp-up": [ "ＰＰ提升劑" ],
+        "pp-max": [ "ＰＰ極限提升劑" ]
+    }
+}

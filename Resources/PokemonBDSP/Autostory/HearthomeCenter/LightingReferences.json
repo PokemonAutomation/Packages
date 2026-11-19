@@ -1,0 +1,62 @@
+{
+  "source": "Stationary Hearthome Center lighting test, 2026-10-23 21:29:07; 120 frames",
+  "reference_pose": "screenshot-20261023-212743267639.png",
+  "target_boxes": {
+    "ball": [
+      0.46875,
+      0.13333333333333333,
+      0.075,
+      0.11851851851851852
+    ],
+    "awning": [
+      0.43333333333333335,
+      0.24814814814814815,
+      0.14166666666666666,
+      0.07407407407407407
+    ]
+  },
+  "lighting_pairs": [
+    {
+      "ball": "Lighting00Ball.png",
+      "awning": "Lighting00Awning.png",
+      "capture": "hour-14-frame-1.png"
+    },
+    {
+      "ball": "Lighting01Ball.png",
+      "awning": "Lighting01Awning.png",
+      "capture": "hour-3-frame-3.png"
+    },
+    {
+      "ball": "Lighting02Ball.png",
+      "awning": "Lighting02Awning.png",
+      "capture": "hour-19-frame-4.png"
+    },
+    {
+      "ball": "Lighting03Ball.png",
+      "awning": "Lighting03Awning.png",
+      "capture": "hour-11-frame-4.png"
+    }
+  ],
+  "approach_pair": {
+    "ball": "Lighting04Ball.png",
+    "awning": "Lighting04Awning.png",
+    "recording": "2026-10-23 20-54-57.mp4",
+    "second": 1888.92,
+    "source_ball_crop": [
+      0.528125,
+      0.08703703703703704,
+      0.058333333333333334,
+      0.1
+    ],
+    "source_awning_crop": [
+      0.484375,
+      0.19074074074074074,
+      0.13854166666666667,
+      0.07222222222222222
+    ],
+    "target_ball_size": [
+      0.058333333333333334,
+      0.1
+    ]
+  }
+}

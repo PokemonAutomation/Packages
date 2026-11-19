@@ -1,0 +1,110 @@
+{
+    "eng": {
+        "tiny-mushroom": [ "Tiny Mushroom" ],
+        "big-mushroom": [ "Big Mushroom" ],
+        "pearl": [ "Pearl" ],
+        "big-pearl": [ "Big Pearl" ],
+        "stardust": [ "Stardust" ],
+        "star-piece": [ "Star Piece" ],
+        "nugget": [ "Nugget" ],
+        "rare-bone": [ "Rare Bone" ],
+        "bottle-cap": [ "Bottle Cap" ],
+        "gold-bottle-cap": [ "Gold Bottle Cap" ]
+    },
+    "jpn": {
+        "tiny-mushroom": [ "ちいさなキノコ" ],
+        "big-mushroom": [ "おおきなキノコ" ],
+        "pearl": [ "しんじゅ" ],
+        "big-pearl": [ "おおきなしんじゅ" ],
+        "stardust": [ "ほしのすな" ],
+        "star-piece": [ "ほしのかけら" ],
+        "nugget": [ "きんのたま" ],
+        "rare-bone": [ "きちょうなホネ" ],
+        "bottle-cap": [ "ぎんのおうかん" ],
+        "gold-bottle-cap": [ "きんのおうかん" ]
+    },
+    "spa": {
+        "tiny-mushroom": [ "Miniseta" ],
+        "big-mushroom": [ "Seta Grande" ],
+        "pearl": [ "Perla" ],
+        "big-pearl": [ "Perla Grande" ],
+        "stardust": [ "Polvo Estelar" ],
+        "star-piece": [ "Trozo Estrella" ],
+        "nugget": [ "Pepita" ],
+        "rare-bone": [ "Hueso Raro" ],
+        "bottle-cap": [ "Chapa Plateada" ],
+        "gold-bottle-cap": [ "Chapa Dorada" ]
+    },
+    "fra": {
+        "tiny-mushroom": [ "Petit Champi" ],
+        "big-mushroom": [ "Gros Champi" ],
+        "pearl": [ "Perle" ],
+        "big-pearl": [ "Grande Perle" ],
+        "stardust": [ "Poussière Étoile" ],
+        "star-piece": [ "Morceau d’Étoile" ],
+        "nugget": [ "Pépite" ],
+        "rare-bone": [ "Os Rare" ],
+        "bottle-cap": [ "Capsule d’Argent" ],
+        "gold-bottle-cap": [ "Capsule d’Or" ]
+    },
+    "deu": {
+        "tiny-mushroom": [ "Minipilz" ],
+        "big-mushroom": [ "Riesenpilz" ],
+        "pearl": [ "Perle" ],
+        "big-pearl": [ "Riesenperle" ],
+        "stardust": [ "Sternenstaub" ],
+        "star-piece": [ "Sternenstück" ],
+        "nugget": [ "Nugget" ],
+        "rare-bone": [ "Steinknochen" ],
+        "bottle-cap": [ "Silberkronkorken" ],
+        "gold-bottle-cap": [ "Goldkronkorken" ]
+    },
+    "ita": {
+        "tiny-mushroom": [ "Minifungo" ],
+        "big-mushroom": [ "Grande Fungo" ],
+        "pearl": [ "Perla" ],
+        "big-pearl": [ "Grande Perla" ],
+        "stardust": [ "Polvostella" ],
+        "star-piece": [ "Pezzo Stella" ],
+        "nugget": [ "Pepita" ],
+        "rare-bone": [ "Osso Raro" ],
+        "bottle-cap": [ "Tappo d’argento" ],
+        "gold-bottle-cap": [ "Tappo d’oro" ]
+    },
+    "kor": {
+        "tiny-mushroom": [ "작은버섯" ],
+        "big-mushroom": [ "큰버섯" ],
+        "pearl": [ "진주" ],
+        "big-pearl": [ "큰진주" ],
+        "stardust": [ "별의모래" ],
+        "star-piece": [ "별의조각" ],
+        "nugget": [ "금구슬" ],
+        "rare-bone": [ "귀중한뼈" ],
+        "bottle-cap": [ "은왕관" ],
+        "gold-bottle-cap": [ "금왕관" ]
+    },
+    "chi_sim": {
+        "tiny-mushroom": [ "小蘑菇" ],
+        "big-mushroom": [ "大蘑菇" ],
+        "pearl": [ "珍珠" ],
+        "big-pearl": [ "大珍珠" ],
+        "stardust": [ "星星沙子" ],
+        "star-piece": [ "星星碎片" ],
+        "nugget": [ "金珠" ],
+        "rare-bone": [ "贵重骨头" ],
+        "bottle-cap": [ "银色王冠" ],
+        "gold-bottle-cap": [ "金色王冠" ]
+    },
+    "chi_tra": {
+        "tiny-mushroom": [ "小蘑菇" ],
+        "big-mushroom": [ "大蘑菇" ],
+        "pearl": [ "珍珠" ],
+        "big-pearl": [ "大珍珠" ],
+        "stardust": [ "星星沙子" ],
+        "star-piece": [ "星星碎片" ],
+        "nugget": [ "金珠" ],
+        "rare-bone": [ "貴重骨頭" ],
+        "bottle-cap": [ "銀色王冠" ],
+        "gold-bottle-cap": [ "金色王冠" ]
+    }
+}

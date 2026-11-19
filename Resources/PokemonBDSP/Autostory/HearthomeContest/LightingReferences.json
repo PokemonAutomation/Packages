@@ -1,0 +1,69 @@
+{
+  "target_screenshot": "screenshot-20261023-213812008707.png",
+  "sign_target_crop_xyxy": [
+    514,
+    436,
+    676,
+    498
+  ],
+  "sign_target_center": [
+    0.3098958333333333,
+    0.4324074074074074
+  ],
+  "capture_crop_xyxy": [
+    562,
+    436,
+    724,
+    498
+  ],
+  "capture_folder": "hearthome-center-1792811012",
+  "lighting_references": [
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-2-frame-1.png",
+      "covers": 32
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-9-frame-4.png",
+      "covers": 30
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-16-frame-1.png",
+      "covers": 23
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-17-frame-3.png",
+      "covers": 15
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-12-frame-5.png",
+      "covers": 6
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-16-frame-3.png",
+      "covers": 3
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-12-frame-2.png",
+      "covers": 3
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-3-frame-3.png",
+      "covers": 2
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-3-frame-5.png",
+      "covers": 2
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-3-frame-4.png",
+      "covers": 2
+    },
+    {
+      "file": "C:\\Users\\Kevin\\Documents\\Codex\\2026-10-03\\lo\\work\\hearthome-gym-20261023\\fantina-lighting-review\\captures\\hour-2-frame-2.png",
+      "covers": 2
+    }
+  ],
+  "score": 0.93,
+  "margin": 0.15,
+  "contract": "Two agreeing static anchors required; score/uniqueness/agreement/arrival tolerances preserved. No localized lettering, NPCs or cursor in references. Original target poses retained. Lighting captures are displaced from targets; acquisition is expected, arrival is not."
+}

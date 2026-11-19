@@ -1,0 +1,51 @@
+{
+  "target_screenshot": "screenshot-20261023-220232794198.png",
+  "arch_target_crop_xyxy": [
+    886,
+    194,
+    1046,
+    278
+  ],
+  "facade_target_crop_xyxy": [
+    610,
+    204,
+    828,
+    426
+  ],
+  "facade_target_center": [
+    0.37447916666666664,
+    0.2916666666666667
+  ],
+  "capture_crop_xyxy": [
+    576,
+    258,
+    794,
+    480
+  ],
+  "capture_folder": "hearthome-gym-1792811914",
+  "lighting_references": [
+    {
+      "file": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\OverworldLightingTest\\hearthome-gym-1792811914\\hour-15-frame-4.png",
+      "covers": 69
+    },
+    {
+      "file": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\OverworldLightingTest\\hearthome-gym-1792811914\\hour-5-frame-2.png",
+      "covers": 30
+    },
+    {
+      "file": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\OverworldLightingTest\\hearthome-gym-1792811914\\hour-20-frame-4.png",
+      "covers": 15
+    },
+    {
+      "file": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\OverworldLightingTest\\hearthome-gym-1792811914\\hour-19-frame-1.png",
+      "covers": 5
+    },
+    {
+      "file": "C:\\Users\\Kevin\\GitRepos\\Arduino-Source\\build\\Debug\\Screenshots\\OverworldLightingTest\\hearthome-gym-1792811914\\hour-11-frame-1.png",
+      "covers": 1
+    }
+  ],
+  "score": 0.93,
+  "margin": 0.2,
+  "contract": "Two agreeing static anchors required; score/uniqueness/agreement/arrival tolerances preserved. No localized lettering, NPCs or cursor in references. Original target poses retained. Lighting captures are displaced from targets; acquisition is expected, arrival is not."
+}
